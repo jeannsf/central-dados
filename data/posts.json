@@ -1,0 +1,1019 @@
+[
+  {
+    "noticia_id": "fixo-emirados",
+    "pais": "AE",
+    "titulo": "Emirados x Brasil: salário sem imposto de renda e a cidade mais segura do mundo",
+    "legenda_ig": "🇦🇪 Emirados Árabes x Brasil: salário sem imposto de renda e as cidades mais seguras do mundo\n\n💰 Imposto de renda sobre salário nos Emirados: 0%\n🇧🇷 No Brasil, a alíquota chega a 27,5%\n🛡️ Abu Dhabi é a cidade mais segura do mundo pelo 10º ano seguido (Numbeo 2026)\n🏙️ Abu Dhabi, Ras Al Khaimah, Ajman, Sharjah e Dubai estão entre as 6 cidades mais seguras do planeta\n📊 IDH da ONU: Emirados em 15º, Brasil em 84º\n\n📌 Fontes: Numbeo (Safety Index 2026, via Khaleej Times), Relatório de Desenvolvimento Humano 2025 (PNUD/ONU), governo dos Emirados\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#EmiradosArabes #Dubai #AbuDhabi #MorarFora #ChegaDeBrasil #QualidadeDeVida",
+    "post_x": "🇦🇪 Nos Emirados Árabes não existe imposto de renda sobre salário. No Brasil, a alíquota chega a 27,5%.\nAbu Dhabi é a cidade mais segura do mundo (Numbeo 2026) e o país é 15º no IDH da ONU. O Brasil é 84º.\nSiga para mais 👇",
+    "nota": "Fontes: Numbeo Safety Index 2026 (Khaleej Times, 18/01/2026); PNUD, Relatório de Desenvolvimento Humano 2025; ângulo de visto da pauta trocado por benefícios, seguindo a linha editorial.",
+    "fonte": "Numbeo / PNUD (IDH 2025)",
+    "url": "https://www.khaleejtimes.com/uae/four-emirates-ranked-worlds-safest-numbeo-2026-data",
+    "criada": "2026-11-01T16:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "sem imposto de renda",
+        "rotulo": "EMIRADOS · QUALIDADE DE VIDA",
+        "selo": "Imposto de renda: 0% x 27,5%",
+        "titulo": "Salário inteiro, sem imposto de renda"
+      },
+      "cenas": [
+        {
+          "frase": "Imagine ganhar seu salário inteiro.",
+          "numero": "0%",
+          "realce": "sem imposto de renda",
+          "rotulo": "EMIRADOS · QUALIDADE DE VIDA",
+          "sub": "Imposto de renda sobre salário nos Emirados",
+          "tipo": "capa",
+          "titulo": "Salário sem imposto de renda e a cidade mais segura do mundo"
+        },
+        {
+          "fonte": "Fonte: governo dos Emirados",
+          "frase": "Nos Emirados Árabes, isso é realidade.",
+          "numero": "0%",
+          "rotulo": "EMIRADOS ÁRABES",
+          "sub": "Quem trabalha recebe o salário sem esse desconto",
+          "tipo": "numero",
+          "titulo": "Imposto de renda sobre salário"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "27,5%",
+              "valor": 27.5
+            },
+            {
+              "nome": "Emirados",
+              "texto": "0%",
+              "valor": 0
+            }
+          ],
+          "fonte": "Fontes: Receita Federal e governo dos Emirados",
+          "frase": "No Brasil, a alíquota pode chegar",
+          "rotulo": "IMPOSTO SOBRE SALÁRIO",
+          "sub": "Quanto pode sair do seu salário",
+          "tipo": "barras",
+          "titulo": "Alíquota máxima de imposto de renda"
+        },
+        {
+          "frase": "E não é só o bolso.",
+          "rotulo": "NÃO É SÓ O BOLSO",
+          "sub": "Segurança e desenvolvimento também pesam na vida de quem mora lá.",
+          "tipo": "texto",
+          "titulo": "Dinheiro é só uma parte da conta"
+        },
+        {
+          "fonte": "Fonte: Numbeo 2026",
+          "frase": "Abu Dhabi foi eleita a cidade",
+          "numero": "1º",
+          "rotulo": "SEGURANÇA",
+          "sub": "Pelo 10º ano seguido no ranking da Numbeo",
+          "tipo": "numero",
+          "titulo": "Abu Dhabi: a cidade mais segura do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Abu Dhabi",
+              "valor": "1º"
+            },
+            {
+              "legenda": "Ras Al Khaimah",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Ajman",
+              "valor": "3º"
+            }
+          ],
+          "fonte": "Fonte: Numbeo 2026",
+          "frase": "Cinco cidades dos Emirados estão entre",
+          "rotulo": "SEGURANÇA",
+          "tipo": "cartoes",
+          "titulo": "5 cidades dos Emirados no top 6 mundial"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Emirados",
+              "valor": "15º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD/ONU, IDH 2025",
+          "frase": "No índice de desenvolvimento humano da",
+          "rotulo": "IDH DA ONU",
+          "tipo": "cartoes",
+          "titulo": "Desenvolvimento humano: Emirados x Brasil"
+        },
+        {
+          "frase": "Andar à noite com o celular",
+          "itens": [
+            {
+              "t": "Andar à noite com o celular na mão"
+            },
+            {
+              "t": "Salário sem imposto de renda"
+            }
+          ],
+          "rotulo": "A VIDA LÁ",
+          "tipo": "lista",
+          "titulo": "O que muda no dia a dia"
+        },
+        {
+          "frase": "Para muita gente da classe média,",
+          "rotulo": "CLASSE MÉDIA",
+          "sub": "O que para muita gente no Brasil parece distante é o dia a dia de quem mora nos Emirados.",
+          "tipo": "texto",
+          "titulo": "Parece sonho. Lá é rotina."
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se dá para viver melhor.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "0%",
+          "realce": "sem imposto de renda",
+          "rotulo": "EMIRADOS · QUALIDADE DE VIDA",
+          "sub": "Imposto de renda sobre salário nos Emirados",
+          "tipo": "capa",
+          "titulo": "Salário sem imposto de renda e a cidade mais segura do mundo"
+        },
+        {
+          "fonte": "Fonte: Numbeo 2026",
+          "numero": "1º",
+          "rotulo": "SEGURANÇA",
+          "sub": "Pelo 10º ano seguido no ranking da Numbeo",
+          "tipo": "numero",
+          "titulo": "Abu Dhabi: a cidade mais segura do mundo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "27,5%",
+              "valor": 27.5
+            },
+            {
+              "nome": "Emirados",
+              "texto": "0%",
+              "valor": 0
+            }
+          ],
+          "fonte": "Fontes: Receita Federal e governo dos Emirados",
+          "rotulo": "IMPOSTO SOBRE SALÁRIO",
+          "sub": "Quanto pode sair do seu salário",
+          "tipo": "barras",
+          "titulo": "Alíquota máxima de imposto de renda"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Abu Dhabi",
+              "valor": "1º"
+            },
+            {
+              "legenda": "Ras Al Khaimah",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Ajman",
+              "valor": "3º"
+            }
+          ],
+          "fonte": "Fonte: Numbeo 2026",
+          "rotulo": "SEGURANÇA",
+          "tipo": "cartoes",
+          "titulo": "As cidades mais seguras do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Emirados",
+              "valor": "15º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD/ONU, IDH 2025",
+          "rotulo": "IDH DA ONU",
+          "tipo": "cartoes",
+          "titulo": "Desenvolvimento humano: Emirados x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "0%",
+          "realce": "sem imposto de renda",
+          "rotulo": "EMIRADOS · QUALIDADE DE VIDA",
+          "sub": "Imposto de renda sobre salário nos Emirados",
+          "tipo": "capa",
+          "titulo": "Salário sem imposto de renda e a cidade mais segura do mundo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "27,5%",
+              "valor": 27.5
+            },
+            {
+              "nome": "Emirados",
+              "texto": "0%",
+              "valor": 0
+            }
+          ],
+          "fonte": "Fontes: Receita Federal e governo dos Emirados",
+          "rotulo": "IMPOSTO SOBRE SALÁRIO",
+          "sub": "Quanto pode sair do seu salário",
+          "tipo": "barras",
+          "titulo": "Alíquota máxima de imposto de renda"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Emirados",
+              "valor": "15º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD/ONU, IDH 2025",
+          "rotulo": "IDH DA ONU",
+          "tipo": "cartoes",
+          "titulo": "Desenvolvimento humano: Emirados x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "fixo-nova-zelandia",
+    "pais": "NZ",
+    "titulo": "Nova Zelândia: Auckland é a 7ª melhor cidade do mundo e o país busca profissionais da saúde, engenharia e TI",
+    "legenda_ig": "🇳🇿 A Nova Zelândia está procurando profissionais que o Brasil forma todo ano.\n\n🩺 Enfermagem, engenharia, TI, eletricistas e construção estão na lista oficial de profissões em falta (Green List).\n🏙️ Auckland ficou em 7º lugar entre as melhores cidades do mundo para viver (EIU 2025, nota 96).\n📈 IDH: Nova Zelândia em 17º, Brasil em 84º (PNUD).\n💰 Salário mediano de referência: NZ$ 35 por hora, cerca de NZ$ 1.400 numa semana de 40 horas.\n\n📌 Fontes: EIU 2025, PNUD (Relatório de Desenvolvimento Humano 2025), Immigration New Zealand\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#novazelandia #morarfora #morarnanovazelandia #trabalharfora #qualidadedevida #chegadebrasil",
+    "post_x": "🇳🇿 Nova Zelândia busca enfermeiros, engenheiros, programadores e eletricistas.\n\n🏙️ Auckland: 7ª melhor cidade do mundo (EIU 2025)\n📈 IDH: 17º lugar. Brasil: 84º\n💰 Mediana: NZ$ 35 por hora\n\nSiga para mais 👇",
+    "nota": "Fontes: EIU Global Liveability 2025; PNUD, RDH 2025 (IDH 2023); Immigration New Zealand (mediana desde 09/03/2026); conferido em 01/11/2026",
+    "fonte": "PNUD / EIU / Immigration New Zealand",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Statistical_Annex_HDI_Trends_Table.pdf",
+    "criada": "2026-11-01T15:38:07Z",
+    "visual": {
+      "capa": {
+        "realce": "a sua profissão",
+        "rotulo": "NOVA ZELÂNDIA · TRABALHO",
+        "selo": "IDH: 17º x Brasil 84º",
+        "titulo": "Um país que procura a sua profissão"
+      },
+      "cenas": [
+        {
+          "frase": "Existe um país procurando profissionais que",
+          "realce": "a sua profissão",
+          "rotulo": "NOVA ZELÂNDIA",
+          "sub": "Profissões em falta",
+          "tipo": "capa",
+          "titulo": "Um país que procura a sua profissão"
+        },
+        {
+          "frase": "É a Nova Zelândia.",
+          "rotulo": "NOVA ZELÂNDIA",
+          "sub": "Um dos países com melhor qualidade de vida",
+          "tipo": "texto",
+          "titulo": "Do outro lado do mundo"
+        },
+        {
+          "frase": "Enfermeiros, engenheiros, programadores, eletricistas e gente",
+          "itens": [
+            {
+              "t": "Enfermeiros"
+            },
+            {
+              "t": "Engenheiros"
+            },
+            {
+              "t": "Programadores"
+            },
+            {
+              "t": "Eletricistas e construção"
+            }
+          ],
+          "rotulo": "PROFISSÕES EM FALTA",
+          "tipo": "lista",
+          "titulo": "Quem o país procura"
+        },
+        {
+          "fonte": "Fonte: Immigration New Zealand",
+          "frase": "Essas profissões estão na lista oficial",
+          "rotulo": "LISTA OFICIAL",
+          "sub": "Green List, Immigration New Zealand",
+          "tipo": "texto",
+          "titulo": "Áreas em falta no país"
+        },
+        {
+          "fonte": "Fonte: EIU 2025",
+          "frase": "E não é qualquer lugar.",
+          "numero": "7ª",
+          "rotulo": "AUCKLAND",
+          "sub": "Ranking EIU 2025",
+          "tipo": "numero",
+          "titulo": "Entre as melhores cidades do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD 2025",
+          "frase": "No índice de desenvolvimento humano da",
+          "rotulo": "IDH · ONU",
+          "tipo": "cartoes",
+          "titulo": "Posição no ranking mundial"
+        },
+        {
+          "fonte": "Fonte: Immigration New Zealand",
+          "frase": "O salário mediano de referência do",
+          "numero": "NZ$ 35/h",
+          "rotulo": "SALÁRIO",
+          "sub": "Por hora trabalhada",
+          "tipo": "numero",
+          "titulo": "Mediana de referência do governo"
+        },
+        {
+          "frase": "Numa semana de quarenta horas, isso",
+          "numero": "NZ$ 1.400",
+          "rotulo": "POR SEMANA",
+          "sub": "Com base na mediana de NZ$ 35 por hora",
+          "tipo": "numero",
+          "titulo": "Numa semana de 40 horas"
+        },
+        {
+          "frase": "Se você trabalha numa dessas áreas,",
+          "rotulo": "PENSE NISSO",
+          "sub": "Saúde, engenharia, TI e construção",
+          "tipo": "texto",
+          "titulo": "Seu diploma pode valer mais lá fora"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Nova Zelândia é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "fonte": "Fonte: EIU 2025",
+          "numero": "7ª",
+          "realce": "procura profissionais",
+          "rotulo": "NOVA ZELÂNDIA",
+          "sub": "Auckland entre as melhores cidades do mundo",
+          "tipo": "capa",
+          "titulo": "O país que procura profissionais que o Brasil forma"
+        },
+        {
+          "fonte": "Fonte: Immigration New Zealand",
+          "itens": [
+            {
+              "t": "Enfermagem"
+            },
+            {
+              "t": "Engenharia civil, elétrica e mecânica"
+            },
+            {
+              "t": "TI e programação"
+            },
+            {
+              "t": "Eletricistas e construção"
+            }
+          ],
+          "rotulo": "PROFISSÕES EM FALTA",
+          "tipo": "lista",
+          "titulo": "Áreas na lista oficial do país"
+        },
+        {
+          "fonte": "Fonte: EIU 2025",
+          "numero": "7ª",
+          "rotulo": "QUALIDADE DE VIDA",
+          "sub": "Ranking de cidades da EIU 2025, nota 96",
+          "tipo": "numero",
+          "titulo": "Auckland entre as 10 melhores do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD 2025",
+          "rotulo": "IDH · ONU",
+          "tipo": "cartoes",
+          "titulo": "Posição no ranking mundial"
+        },
+        {
+          "fonte": "Fonte: Immigration New Zealand",
+          "numero": "NZ$ 35/h",
+          "rotulo": "SALÁRIO",
+          "sub": "Cerca de NZ$ 1.400 numa semana de 40 horas",
+          "tipo": "numero",
+          "titulo": "Mediana de referência do governo"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Nova Zelândia é para você?"
+        }
+      ],
+      "x": [
+        {
+          "fonte": "Fonte: EIU 2025",
+          "numero": "7ª",
+          "realce": "procura profissionais",
+          "rotulo": "NOVA ZELÂNDIA",
+          "sub": "Auckland entre as melhores cidades do mundo",
+          "tipo": "capa",
+          "titulo": "O país que procura profissionais que o Brasil forma"
+        },
+        {
+          "itens": [
+            {
+              "t": "Enfermagem"
+            },
+            {
+              "t": "Engenharia"
+            },
+            {
+              "t": "TI e programação"
+            },
+            {
+              "t": "Eletricistas e construção"
+            }
+          ],
+          "rotulo": "PROFISSÕES EM FALTA",
+          "tipo": "lista",
+          "titulo": "Áreas na lista oficial do país"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "84º"
+            }
+          ],
+          "fonte": "Fonte: PNUD 2025",
+          "rotulo": "IDH · ONU",
+          "tipo": "cartoes",
+          "titulo": "Posição no ranking mundial"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Nova Zelândia é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261031-bolsa-semana",
+    "pais": "BR",
+    "titulo": "Ibovespa cai 18% na semana, a pior desde março de 2020, e dólar fecha a R$ 5,44",
+    "legenda_ig": "📉 Uma semana, -18,12% na Bolsa.\n\n📊 O Ibovespa fechou 30/10/2026 em 167.921 pontos: pior semana desde março de 2020, em plena pandemia.\n🗓️ Outubro caiu 9,88%, o pior mês desde junho de 2022.\n💵 O dólar fechou a R$ 5,444, alta de 9,15% só na semana.\n🏦 Os juros futuros subiram em quase toda a curva, pressionando o crédito.\n🌎 Quem recebe em euro, dólar canadense ou dólar australiano não viu o salário perder valor nessa semana.\n\n📌 Fonte: InfoMoney, 30/10/2026\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #dolar #ibovespa #economiabrasileira #classemedia #chegadebrasil",
+    "post_x": "📉 Ibovespa caiu 18,12% em uma semana, a pior desde março de 2020. Outubro: -9,88%.\n\n💵 Dólar fechou a R$ 5,444 (+9,15% na semana).\n\nQuem recebe em euro ou dólar canadense não viu o salário perder valor.\n\nSiga para mais 👇",
+    "nota": "Fonte: InfoMoney, 30/10/2026",
+    "fonte": "InfoMoney",
+    "url": "https://infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026",
+    "criada": "2026-11-01T15:38:07Z",
+    "visual": {
+      "capa": {
+        "realce": "18% em uma semana",
+        "rotulo": "BRASIL · BOLSA E DÓLAR",
+        "selo": "Dólar: R$ 5,44 (+9% na semana)",
+        "titulo": "A Bolsa caiu 18% em uma semana"
+      },
+      "cenas": [
+        {
+          "frase": "Uma semana.",
+          "numero": "-18,12%",
+          "realce": "18% em uma semana",
+          "rotulo": "BRASIL · BOLSA",
+          "sub": "Semana até 30/10/2026",
+          "tipo": "capa",
+          "titulo": "A Bolsa caiu 18% em uma semana"
+        },
+        {
+          "fonte": "Fonte: InfoMoney",
+          "frase": "O Ibovespa fechou o dia 30",
+          "numero": "167 mil",
+          "rotulo": "IBOVESPA",
+          "sub": "167.921 pontos",
+          "tipo": "numero",
+          "titulo": "Fechamento de 30 de outubro"
+        },
+        {
+          "frase": "Foi a pior semana desde março",
+          "rotulo": "RECORDE NEGATIVO",
+          "sub": "Em plena pandemia",
+          "tipo": "texto",
+          "titulo": "Pior semana desde março de 2020"
+        },
+        {
+          "frase": "E outubro inteiro caiu quase dez",
+          "numero": "-9,88%",
+          "rotulo": "OUTUBRO",
+          "sub": "Queda do Ibovespa no mês",
+          "tipo": "numero",
+          "titulo": "Pior mês desde junho de 2022"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Fechamento em 30/10",
+              "valor": "R$ 5,444"
+            },
+            {
+              "legenda": "Alta na semana",
+              "valor": "+9,15%"
+            }
+          ],
+          "fonte": "Fonte: InfoMoney",
+          "frase": "No mesmo dia, o dólar fechou",
+          "rotulo": "DÓLAR",
+          "tipo": "cartoes",
+          "titulo": "O real perdeu força"
+        },
+        {
+          "frase": "Na prática, o seu salário em real",
+          "rotulo": "NO SEU BOLSO",
+          "sub": "Comparado com sete dias antes",
+          "tipo": "texto",
+          "titulo": "Seu salário compra menos lá fora"
+        },
+        {
+          "frase": "E os juros futuros subiram, o",
+          "itens": [
+            {
+              "t": "Financiamento"
+            },
+            {
+              "t": "Cartão"
+            },
+            {
+              "t": "Empréstimo"
+            }
+          ],
+          "rotulo": "CRÉDITO",
+          "tipo": "lista",
+          "titulo": "Juros futuros em alta"
+        },
+        {
+          "frase": "Agora pensa em quem recebe em",
+          "rotulo": "LÁ FORA",
+          "sub": "Euro, dólar canadense, dólar australiano",
+          "tipo": "texto",
+          "titulo": "Quem ganha em moeda forte não sentiu"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Comparar a vida lá fora virou conta",
+          "tipo": "texto",
+          "titulo": "Quanto você ainda vai perder esperando?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a vida em 11 países com a do Brasil",
+          "tipo": "cta",
+          "titulo": "Até quando você vai ganhar só em real?"
+        }
+      ],
+      "ig": [
+        {
+          "fonte": "Fonte: InfoMoney",
+          "numero": "-18,12%",
+          "realce": "a pior desde 2020",
+          "rotulo": "BRASIL · BOLSA",
+          "sub": "Semana até 30/10/2026",
+          "tipo": "capa",
+          "titulo": "Ibovespa cai 18% em uma semana, a pior desde 2020"
+        },
+        {
+          "fonte": "Fonte: InfoMoney",
+          "numero": "-9,88%",
+          "rotulo": "OUTUBRO",
+          "sub": "Ibovespa fechou em 167.921 pontos",
+          "tipo": "numero",
+          "titulo": "O pior mês desde junho de 2022"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Fechamento em 30/10",
+              "valor": "R$ 5,444"
+            },
+            {
+              "legenda": "Alta na semana",
+              "valor": "+9,15%"
+            }
+          ],
+          "fonte": "Fonte: InfoMoney",
+          "rotulo": "DÓLAR",
+          "tipo": "cartoes",
+          "titulo": "O real perdeu força na mesma semana"
+        },
+        {
+          "itens": [
+            {
+              "s": "O real vale menos frente ao dólar",
+              "t": "Seu salário compra menos lá fora"
+            },
+            {
+              "s": "Pressão sobre financiamento, cartão e empréstimo",
+              "t": "Juros futuros em alta"
+            }
+          ],
+          "rotulo": "NO SEU BOLSO",
+          "tipo": "lista",
+          "titulo": "O que isso muda na prática"
+        },
+        {
+          "rotulo": "LÁ FORA",
+          "sub": "Para quem recebe em euro, dólar canadense ou dólar australiano, o salário dessa semana não perdeu valor.",
+          "tipo": "texto",
+          "titulo": "Quem ganha em moeda forte não sentiu"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a vida em 11 países com a do Brasil",
+          "tipo": "cta",
+          "titulo": "Até quando você vai ganhar só em real?"
+        }
+      ],
+      "x": [
+        {
+          "fonte": "Fonte: InfoMoney",
+          "numero": "-18,12%",
+          "realce": "a pior desde 2020",
+          "rotulo": "BRASIL · BOLSA",
+          "sub": "Semana até 30/10/2026",
+          "tipo": "capa",
+          "titulo": "Ibovespa cai 18% em uma semana, a pior desde 2020"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Ibovespa em outubro",
+              "valor": "-9,88%"
+            },
+            {
+              "legenda": "Dólar em 30/10",
+              "valor": "R$ 5,444"
+            },
+            {
+              "legenda": "Dólar na semana",
+              "valor": "+9,15%"
+            }
+          ],
+          "fonte": "Fonte: InfoMoney",
+          "rotulo": "OUTUBRO E DÓLAR",
+          "tipo": "cartoes",
+          "titulo": "Bolsa em queda, dólar em alta"
+        },
+        {
+          "rotulo": "LÁ FORA",
+          "sub": "Em euro ou dólar canadense, o salário dessa semana não perdeu valor.",
+          "tipo": "texto",
+          "titulo": "Quem ganha em moeda forte não sentiu"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a vida em 11 países com a do Brasil",
+          "tipo": "cta",
+          "titulo": "Até quando você vai ganhar só em real?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "uy-20261031-salario-real",
+    "pais": "UY",
+    "titulo": "Uruguai: salário sobe 5,98% em 12 meses, acima da inflação de 4,7%, e fica 5,1% acima do pré-pandemia",
+    "legenda_ig": "🇺🇾 No Uruguai, o salário anda na frente dos preços.\n\n📈 Salários: +5,98% em 12 meses (até setembro de 2026)\n🛒 Inflação no mesmo período: 4,7%\n✅ Ganho real: 1,2% (1,6% no setor privado)\n🩺 Saúde: alta de 7% nos salários\n🕰️ Salário real 5,1% acima do nível de antes da pandemia\n🇧🇷 No Brasil, o IPCA em 12 meses até setembro foi de 4,58%, e o dólar subiu 9,15% na última semana de outubro.\n\n📌 Fontes: INE Uruguai via Subrayado (30/10/2026), IBGE, InfoMoney\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#uruguai #morarnouruguai #morarfora #salario #custodevida #chegadebrasil",
+    "post_x": "🇺🇾 No Uruguai, salários subiram 5,98% em 12 meses, contra inflação de 4,7%.\n\n✅ Ganho real de 1,2% (1,6% no setor privado)\n🕰️ Salário real 5,1% acima do pré-pandemia\n🩺 Saúde: +7%\n\nE fica colado no Rio Grande do Sul.\n\nSiga para mais 👇",
+    "nota": "Fonte: Subrayado (dados do INE do Uruguai), 30/10/2026; IPCA 12 meses até set/2026 (IBGE); dólar: InfoMoney, 30/10/2026",
+    "fonte": "Subrayado (dados do INE)",
+    "url": "https://www.subrayado.com.uy/salario-real-subio-12-los-12-meses-setiembre-n1022233",
+    "criada": "2026-11-01T15:38:07Z",
+    "visual": {
+      "capa": {
+        "realce": "na frente dos preços",
+        "rotulo": "URUGUAI · SALÁRIOS",
+        "selo": "Salário +5,98% x inflação 4,7%",
+        "titulo": "No Uruguai, o salário anda na frente dos preços"
+      },
+      "cenas": [
+        {
+          "frase": "No Uruguai, o salário está andando",
+          "numero": "+5,98%",
+          "realce": "na frente dos preços",
+          "rotulo": "URUGUAI · SALÁRIOS",
+          "sub": "Alta dos salários em 12 meses",
+          "tipo": "capa",
+          "titulo": "O salário anda na frente dos preços"
+        },
+        {
+          "frase": "O instituto de estatística do país",
+          "rotulo": "DADO OFICIAL",
+          "sub": "Dados de setembro de 2026",
+          "tipo": "texto",
+          "titulo": "INE do Uruguai, 30 de outubro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Salários",
+              "texto": "5,98%",
+              "valor": 5.98
+            },
+            {
+              "nome": "Inflação",
+              "texto": "4,7%",
+              "valor": 4.7
+            }
+          ],
+          "fonte": "Fonte: INE Uruguai",
+          "frase": "Em doze meses, os salários subiram",
+          "rotulo": "12 MESES",
+          "sub": "Até setembro de 2026",
+          "tipo": "barras",
+          "titulo": "Salário x inflação"
+        },
+        {
+          "frase": "Resultado: ganho real de um vírgula",
+          "numero": "+1,2%",
+          "rotulo": "GANHO REAL",
+          "sub": "Descontada a inflação",
+          "tipo": "numero",
+          "titulo": "Poder de compra em alta"
+        },
+        {
+          "frase": "No setor privado, o ganho real",
+          "numero": "+1,6%",
+          "rotulo": "SETOR PRIVADO",
+          "sub": "Em 12 meses",
+          "tipo": "numero",
+          "titulo": "Ganho real no setor privado"
+        },
+        {
+          "frase": "Na saúde, o aumento foi de",
+          "numero": "+7%",
+          "rotulo": "SAÚDE",
+          "sub": "Em 12 meses",
+          "tipo": "numero",
+          "titulo": "Alta dos salários na saúde"
+        },
+        {
+          "fonte": "Fonte: INE Uruguai",
+          "frase": "E o salário real já está",
+          "numero": "+5,1%",
+          "rotulo": "ANTES DA PANDEMIA",
+          "sub": "Salário real",
+          "tipo": "numero",
+          "titulo": "Acima do nível pré-pandemia"
+        },
+        {
+          "frase": "Ou seja, quem trabalha lá hoje",
+          "rotulo": "NA PRÁTICA",
+          "sub": "O salário ganhou dos preços",
+          "tipo": "texto",
+          "titulo": "Hoje se compra mais do que antes de 2020"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "IPCA em 12 meses",
+              "valor": "4,58%"
+            },
+            {
+              "legenda": "Dólar em uma semana",
+              "valor": "+9,15%"
+            }
+          ],
+          "fonte": "Fonte: IBGE e InfoMoney",
+          "frase": "Aqui no Brasil, a inflação em",
+          "rotulo": "E NO BRASIL?",
+          "tipo": "cartoes",
+          "titulo": "Inflação e dólar por aqui"
+        },
+        {
+          "frase": "E o Uruguai fica aqui do",
+          "rotulo": "AQUI DO LADO",
+          "sub": "Talvez a pergunta seja até quando você vai esperar",
+          "tipo": "texto",
+          "titulo": "Colado no Rio Grande do Sul"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "fonte": "Fonte: INE Uruguai",
+          "numero": "+5,98%",
+          "realce": "na frente dos preços",
+          "rotulo": "URUGUAI · SALÁRIOS",
+          "sub": "Alta dos salários em 12 meses",
+          "tipo": "capa",
+          "titulo": "No Uruguai, o salário anda na frente dos preços"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Salários",
+              "texto": "5,98%",
+              "valor": 5.98
+            },
+            {
+              "nome": "Inflação",
+              "texto": "4,7%",
+              "valor": 4.7
+            }
+          ],
+          "fonte": "Fonte: INE Uruguai",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Os salários subiram mais que os preços",
+          "tipo": "barras",
+          "titulo": "Salário x inflação no Uruguai"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Média geral",
+              "valor": "1,2%"
+            },
+            {
+              "legenda": "Setor privado",
+              "valor": "1,6%"
+            },
+            {
+              "legenda": "Alta na saúde",
+              "valor": "7%"
+            }
+          ],
+          "fonte": "Fonte: INE Uruguai",
+          "rotulo": "GANHO REAL",
+          "tipo": "cartoes",
+          "titulo": "Quanto o poder de compra subiu"
+        },
+        {
+          "fonte": "Fonte: INE Uruguai",
+          "numero": "+5,1%",
+          "rotulo": "ANTES DA PANDEMIA",
+          "sub": "Quem trabalha lá hoje compra mais",
+          "tipo": "numero",
+          "titulo": "Salário real acima do nível pré-pandemia"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "IPCA em 12 meses (set)",
+              "valor": "4,58%"
+            },
+            {
+              "legenda": "Dólar na última semana de outubro",
+              "valor": "+9,15%"
+            }
+          ],
+          "fonte": "Fonte: IBGE e InfoMoney",
+          "rotulo": "E NO BRASIL?",
+          "tipo": "cartoes",
+          "titulo": "Inflação e dólar por aqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "x": [
+        {
+          "fonte": "Fonte: INE Uruguai",
+          "numero": "+5,98%",
+          "realce": "na frente dos preços",
+          "rotulo": "URUGUAI · SALÁRIOS",
+          "sub": "Alta dos salários em 12 meses",
+          "tipo": "capa",
+          "titulo": "No Uruguai, o salário anda na frente dos preços"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Salários",
+              "texto": "5,98%",
+              "valor": 5.98
+            },
+            {
+              "nome": "Inflação",
+              "texto": "4,7%",
+              "valor": 4.7
+            }
+          ],
+          "fonte": "Fonte: INE Uruguai",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Ganho real de 1,2%",
+          "tipo": "barras",
+          "titulo": "Salário x inflação no Uruguai"
+        },
+        {
+          "fonte": "Fonte: INE Uruguai",
+          "numero": "+5,1%",
+          "rotulo": "ANTES DA PANDEMIA",
+          "sub": "Quem trabalha lá hoje compra mais",
+          "tipo": "numero",
+          "titulo": "Salário real acima do nível pré-pandemia"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "pt-20261031-aima-nova-fase",
+    "pais": "PT",
+    "titulo": "Portugal: AIMA atendeu 60% mais e cortou 80% dos novos pendentes; verba sobe 38,6% em 2027",
+    "legenda_ig": "🇵🇹 A fila da AIMA em Portugal está andando.\n\n📅 Em 29/10/2026, o governo português anunciou uma \"nova fase\" da AIMA, a agência que cuida da residência de estrangeiros\n👥 185 mil pessoas atendidas este ano: 60% a mais\n📞 500 mil atendimentos no call center\n📉 Novos processos pendentes caíram 80%\n👷 Reforço de 15% em funcionários e centros de atendimento\n💶 Orçamento de 2027 prevê €135 milhões para a AIMA (+38,6%)\n\n📘 No guia Chega de Brasil você vê como pedir residência em Portugal pelo caminho legal, e compara com outros 10 países.\n\n📌 Fonte: Lusa / Notícias ao Minuto, 29/10/2026\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#Portugal #AIMA #MorarEmPortugal #MorarFora #Imigracao #ChegaDeBrasil",
+    "post_x": "🇵🇹 A fila da AIMA está andando.\n\nPortugal anunciou nova fase da agência de imigração: 185 mil atendidos em 2026 (+60%) e novos pendentes 80% menores.\n\nOrçamento de 2027: €135 milhões (+38,6%).\n\nSiga para mais 👇",
+    "nota": "Fonte: Lusa / Notícias ao Minuto, 29/10/2026",
+    "fonte": "Lusa / Notícias ao Minuto",
+    "url": "https://www.noticiasaominuto.com/pais/3075266/aima-vai-entrar-numa-nova-fase-apos-tres-anos-de-funcionamento-ministro",
+    "criada": "2026-10-31T17:45:00Z",
+    "visual": null
+  },
+  {
+    "noticia_id": "fixo-argentina",
+    "pais": "AR",
+    "titulo": "Vídeo do país: Argentina (ainda não falamos)",
+    "legenda_ig": "🇦🇷 A melhor cidade da América Latina para viver fica aqui do lado. E o brasileiro pode morar lá legalmente.\n\n🏆 Buenos Aires teve a maior nota da América Latina no ranking de qualidade de vida da EIU 2026: 76,1\n📊 IDH: Argentina em 47º lugar, Brasil em 84º\n💰 Renda por pessoa 1,4 vez a do Brasil\n🛂 Residência pelo Mercosul sem oferta de emprego\n💻 O pedido começa online (RaDEX), depois de entrar no país\n\n📘 A Argentina é um dos 11 países do guia Chega de Brasil, com custos, documentos e passo a passo de cada um.\n\n📌 Fonte: Guia Chega de Brasil (edição de outubro de 2026), com dados da EIU 2026\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#Argentina #BuenosAires #MorarFora #Mercosul #Imigracao #ChegaDeBrasil",
+    "post_x": "🇦🇷 Buenos Aires teve a maior nota da América Latina no ranking de qualidade de vida da EIU 2026 (76,1).\n\nE o brasileiro pode morar na Argentina pelo Mercosul, sem oferta de emprego. O pedido começa online.\n\nIDH: Argentina 47º, Brasil 84º.\n\nSiga para mais 👇",
+    "nota": "Fonte: Guia Chega de Brasil (edição de outubro de 2026) e ranking EIU 2026, 31/10/2026",
+    "fonte": "Guia Chega de Brasil (edição de outubro de 2026)",
+    "url": "",
+    "criada": "2026-10-31T17:45:00Z",
+    "visual": null
+  }
+]

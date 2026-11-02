@@ -1,0 +1,680 @@
+[
+  {
+    "id": "australia-nomeacao-estadual-2026-27",
+    "titulo": "Austrália reabre nomeações estaduais de 2026-27 e Victoria oferece 900 vagas no visto permanente 190",
+    "resumo": "Victoria abriu em 26/10/2026 o programa de nomeação qualificada de 2026-27 com 900 vagas para o visto permanente subclasse 190; South Australia abriu seu programa em 22/10/2026. Ao mesmo tempo, a KPMG aponta que o prazo do visto de residência 186 (patrocínio do empregador) subiu para até 25 meses, contra 14 meses antes.",
+    "contexto": "Na Austrália, os estados e territórios indicam (nomeiam) profissionais para os vistos 190 (permanente) e 491 (provisório regional) dentro de cotas anuais. Os programas de 2026-27 começaram a abrir no fim de outubro. Em Victoria, o visto 491 ainda não tem alocação definida. A KPMG também relata mudanças em andamento no Working Holiday (proposta de sorteio e limites para o 2º e 3º anos) e mais restrições a vistos de visitante.",
+    "por_que": "A abertura das cotas estaduais marca o início da janela anual para quem quer residência permanente qualificada na Austrália, enquanto a via pelo empregador está ficando mais lenta.",
+    "pais": "AU",
+    "paises": [
+      "AU"
+    ],
+    "origem": null,
+    "categoria": "Imigração",
+    "direcao": "sem_dados",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T20:45:00Z",
+    "atualizada": "2026-10-31T20:45:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T20:45:00Z",
+        "data": "2026-10-26",
+        "evidencia": "900 vagas de nomeação para o 190; 491 com alocação ainda não finalizada; requisitos: menos de 45 anos, inglês 'Competent', avaliação de habilidades e 65 pontos.",
+        "nome": "Peerless Immigration (resumo do anúncio do governo de Victoria)",
+        "tipo": "consultoria",
+        "titulo": "Victoria Opens Subclass 190 ROIs for 2026–27",
+        "url": "https://www.peerlessimmigration.com/news/victoria-subclass-190-roi-open-2026-27"
+      },
+      {
+        "coletada": "2026-10-31T20:45:00Z",
+        "data": "2026-10-30",
+        "evidencia": "Registra a abertura do programa de Victoria (26/10/2026, 900 vagas no 190) e do programa de South Australia para 190 e 491 (22/10/2026).",
+        "nome": "The Immigration Worldwide (registro de mudanças)",
+        "tipo": "agente migratório",
+        "titulo": "What changed: dated register of migration rule changes",
+        "url": "https://theimmigrationworldwide.com/updates/"
+      },
+      {
+        "coletada": "2026-10-31T20:45:00Z",
+        "data": "2026-10-26",
+        "evidencia": "Prazos: 186 até 25 meses (antes 14); 482 Core Skills até 9 meses (antes 10); 482 Specialist Skills até 78 dias (antes 57). Proposta de sorteio e limites para o 2º e 3º anos do Working Holiday.",
+        "nome": "KPMG (GMS Flash Alert 2026-267)",
+        "tipo": "consultoria",
+        "titulo": "Australia – Immigration Update Q3 2026",
+        "url": "https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-267.html"
+      }
+    ],
+    "evidencias": [
+      "Victoria: 900 vagas de nomeação no visto 190 para 2026-27, abertas em 26/10/2026 (vagas de nomeação, não vistos concedidos).",
+      "Victoria: visto 491 sem alocação definida até a coleta.",
+      "South Australia abriu o programa 2026-27 para 190 e 491 em 22/10/2026 (número de vagas não verificado).",
+      "Prazo do visto 186 (empregador) subiu para até 25 meses, contra 14 meses antes, segundo a KPMG.",
+      "Limites: não há dado de quantos brasileiros pedem esses vistos; fontes são consultorias que resumem anúncios oficiais, sem o texto oficial aberto nesta coleta; não há número de vagas do ano anterior para comparar."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Sem série comparável de vagas: o número de 2025-26 não foi verificado.",
+    "publico": [
+      "Brasileiros com profissão qualificada e inglês",
+      "Estudantes e recém-formados na Austrália",
+      "Profissionais com menos de 45 anos"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "australia-visto-estudante-regras-2026",
+    "titulo": "Austrália proíbe pedir visto de estudante dentro do país e limita a inclusão de parceiro e filhos",
+    "resumo": "Desde 02/10/2026, a maioria dos portadores de vistos temporários na Austrália não pode mais pedir o visto de estudante (subclasse 500) estando no país, e os novos pedidos em geral não podem incluir parceiro nem filhos. O Brasil foi o 5º maior país de origem de estudantes internacionais em 2024–25, com 14.775 vistos de estudante concedidos.",
+    "contexto": "A mudança é do Department of Home Affairs e vale para pedidos feitos a partir de 02/10/2026; vistos já concedidos e pedidos anteriores seguem as regras antigas. Quem for barrado precisa estar fora da Austrália ao pedir e ao receber o visto. Há exceções (doutorado, ensino escolar, bolsas de governos, progressão para curso de nível superior, entre outras). Estudantes já com visto não podem mais acrescentar familiares depois da concessão, sem exceções.",
+    "por_que": "O caminho mais usado por brasileiros na Austrália (estudar e levar o parceiro, ou trocar de visto dentro do país) ficou mais restrito. Quem planeja ir em família precisa rever a estratégia.",
+    "pais": "AU",
+    "paises": [
+      "AU"
+    ],
+    "origem": "BR",
+    "categoria": "Vistos e documentação",
+    "direcao": "sem_dados",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T16:20:00Z",
+    "atualizada": "2026-10-31T20:45:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": null,
+        "evidencia": "Mudanças valem a partir de 02/10/2026: a maioria dos portadores de vistos temporários não pode mais pedir visto de estudante dentro da Austrália; pedidos em geral não podem incluir parceiro ou filhos; não é mais possível acrescentar familiares depois da concessão.",
+        "nome": "Department of Home Affairs (Austrália)",
+        "tipo": "oficial",
+        "titulo": "Changes to Student visa application rules (factsheet)",
+        "url": "https://immi.homeaffairs.gov.au/Visa-subsite/files/changes-to-student-visa-applications-factsheet.pdf"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": null,
+        "evidencia": "Vistos de estudante concedidos a brasileiros: 8.668 (2021–22), 23.970 (2022–23), 12.835 (2023–24) e 14.775 (2024–25). Brasil foi o 5º país em estudantes internacionais em 2024–25.",
+        "nome": "Department of Home Affairs (Austrália)",
+        "tipo": "oficial (estatística)",
+        "titulo": "Country profile – Brazil",
+        "url": "https://www.homeaffairs.gov.au/research-and-statistics/statistics/country-profiles/profiles/brazil"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-22",
+        "evidencia": "Inclui titulares de Working Holiday e Skills in Demand entre os afetados; troca de instituição restrita por 12 meses (antes 6) até 30/06/2027; taxa padrão do visto de estudante de AUD 2.500 desde 01/07/2026.",
+        "nome": "Travel And Tour World",
+        "tipo": "imprensa",
+        "titulo": "Australia Tightens Student Visa Rules From October 2026, Restricting Onshore Applications and Family Sponsorship for International Students",
+        "url": "https://www.travelandtourworld.com/news/article/w2gt7fhu18fk/"
+      },
+      {
+        "coletada": "2026-10-31T20:45:00Z",
+        "data": "2026-10-26",
+        "evidencia": "Confirma que a restrição a novos pedidos de visto de estudante feitos dentro da Austrália já está em vigor e cita medidas contra a troca sucessiva de vistos de estudante ('student visa hopping') e limites a familiares de candidatos a estudante e Temporary Graduate.",
+        "nome": "KPMG (GMS Flash Alert 2026-267)",
+        "tipo": "consultoria",
+        "titulo": "Australia – Immigration Update Q3 2026",
+        "url": "https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-267.html"
+      }
+    ],
+    "evidencias": [
+      "Regra em vigor desde 02/10/2026, segundo a ficha oficial do Department of Home Affairs.",
+      "Brasileiros receberam 14.775 vistos de estudante em 2024–25; o Brasil foi o 5º país de origem de estudantes internacionais (Home Affairs).",
+      "Taxa padrão do visto de estudante: AUD 2.500 desde 01/07/2026 (Travel And Tour World; conferir no site oficial).",
+      "Limite: a ficha oficial não traz data de publicação, e não há dado de quantos brasileiros serão afetados.",
+      "26/10/2026: a KPMG confirma que a restrição já está implementada e lista novas medidas contra a troca sucessiva de vistos de estudante."
+    ],
+    "evolucao": [
+      {
+        "data": "2021–22",
+        "fonte": "Department of Home Affairs",
+        "unidade": "vistos de estudante concedidos a brasileiros",
+        "valor": 8668
+      },
+      {
+        "data": "2022–23",
+        "fonte": "Department of Home Affairs",
+        "unidade": "vistos de estudante concedidos a brasileiros",
+        "valor": 23970
+      },
+      {
+        "data": "2023–24",
+        "fonte": "Department of Home Affairs",
+        "unidade": "vistos de estudante concedidos a brasileiros",
+        "valor": 12835
+      },
+      {
+        "data": "2024–25",
+        "fonte": "Department of Home Affairs",
+        "unidade": "vistos de estudante concedidos a brasileiros",
+        "valor": 14775
+      }
+    ],
+    "evolucao_nota": "Série oficial por ano fiscal australiano (julho a junho). Mostra o volume de brasileiros no visto de estudante, não o interesse pelo assunto da mudança.",
+    "publico": [
+      "Brasileiros que planejam estudar na Austrália",
+      "Casais e famílias que pretendiam ir juntos com visto de estudante",
+      "Brasileiros já na Austrália com vistos temporários"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "canada-plano-imigracao-2027-2029",
+    "titulo": "Canadá anuncia nas próximas semanas as metas de imigração de 2027 a 2029",
+    "resumo": "O governo canadense precisa apresentar ao Parlamento o novo plano de níveis de imigração até 1º de novembro de 2026 ou nos primeiros dias de sessão seguintes. O plano define quantos residentes permanentes e temporários o país aceita até 2029.",
+    "contexto": "Todo ano o Canadá publica um plano de três anos com metas por programa (Express Entry, programas provinciais, família, estudantes e trabalhadores temporários). O plano 2026-2028 saiu em 5/11/2025. Consultores falam em possível alta, mas nada está confirmado.",
+    "por_que": "Anúncio com data marcada e impacto direto em quem planeja ir para o Canadá; costuma gerar muita busca no dia da divulgação.",
+    "pais": "CA",
+    "paises": [
+      "CA"
+    ],
+    "origem": null,
+    "categoria": "Imigração",
+    "direcao": "subindo",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T16:20:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-27",
+        "evidencia": "Prazo legal: até 1/11/2026 ou em até 30 dias de sessão. Projeções de 390 mil a 400 mil são de consultores, não oficiais.",
+        "nome": "Legit.ng",
+        "tipo": "imprensa",
+        "titulo": "Canada's 2027-2029 Immigration Levels Plan Expected by November 2026",
+        "url": "https://www.legit.ng/world/1738088-canada-sets-announce-2027-immigration-level-plan/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Confirma a expectativa de divulgação até novembro. Sem data de publicação visível no resultado de busca.",
+        "nome": "CIC Times",
+        "tipo": "imprensa especializada",
+        "titulo": "New Canada Immigration Levels Plan 2027-2029 Coming By November",
+        "url": "https://www.cictimes.com/new-canada-immigration-levels-plan-2027-2029-coming-by-november"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Previsões de especialistas; não são números oficiais.",
+        "nome": "Moving2Canada",
+        "tipo": "consultoria",
+        "titulo": "Canada Immigration Levels Plan 2027-2029 Predictions",
+        "url": "https://moving2canada.com/immigration/canada-immigration-levels-plan-2027-2029/"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-09-29",
+        "evidencia": "Carney disse ao New York Times que o sistema está 'de volta sob controle' e falou em 'aumento controlado' da população, sem números. Plano atual: 380 mil residentes permanentes por ano; meta de temporários abaixo de 5% da população até o fim de 2027.",
+        "nome": "Immigration.ca",
+        "tipo": "consultoria",
+        "titulo": "Carney Signals Immigration Increase Ahead of Levels Plan",
+        "url": "https://immigration.ca/carney-signals-canada-may-raise-immigration-levels-again/"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-08",
+        "evidencia": "Metas provisórias de 2027 do plano atual: 380 mil residentes permanentes (faixa de 350 mil a 420 mil), sendo 244,7 mil na classe econômica; teto de residentes permanentes abaixo de 1% da população após 2027 (cerca de 418 mil por ano).",
+        "nome": "GoFar Global",
+        "tipo": "consultoria",
+        "titulo": "Canada Immigration Levels Plan 2027-2029: What to Expect Before November 1",
+        "url": "https://www.gofarglobal.com/news/canada-immigration-levels-plan-2027-2029"
+      }
+    ],
+    "evidencias": [
+      "Prazo legal de apresentação ao Parlamento: 1º/11/2026 (cai num domingo).",
+      "O plano anterior foi divulgado em 5/11/2025.",
+      "Sem dado de volume de buscas: o crescimento não foi medido.",
+      "Metas provisórias para 2027 já publicadas no plano 2026–2028: 380 mil residentes permanentes (faixa de 350 mil a 420 mil), 244,7 mil na classe econômica, 111 mil no Federal High Skilled e 92,5 mil em programas provinciais (GoFar Global, 08/10/2026). O novo plano pode confirmar ou mudar esses números.",
+      "Em 29/09/2026 o primeiro-ministro Mark Carney falou em 'aumento controlado' da população, sem dar números (Immigration.ca, 29/09/2026)."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Sem série histórica coletada. Quando o plano sair, a próxima coleta registra as metas oficiais.",
+    "publico": [
+      "Profissionais qualificados (Express Entry)",
+      "Estudantes internacionais",
+      "Famílias planejando mudança de 1 a 3 anos"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "pos-eleicao-busca-sair-brasil",
+    "titulo": "Brasileiros disparam buscas e consultas para sair do país após o 2º turno",
+    "resumo": "Nas 48 horas após o resultado de 25/10, as buscas no Google por 'como morar no Paraguai' subiram 1.700%. Dois escritórios de imigração na Flórida somaram 1.343 consultas em um único dia, contra cerca de 20 por dia em um deles.",
+    "contexto": "O segundo turno da eleição presidencial foi em 25/10/2026. Nos dias seguintes, veículos brasileiros registraram aumento forte de interesse em residência no Paraguai e em vistos para os EUA. Os dados de consultas são dos próprios escritórios, não estatísticas oficiais.",
+    "por_que": "O interesse cresceu de forma abrupta em poucos dias e aparece em mais de um destino (Paraguai e EUA), o que indica um movimento amplo de pesquisa sobre como sair do Brasil, e não um fato isolado.",
+    "pais": "PY",
+    "paises": [
+      "PY",
+      "US",
+      "PT"
+    ],
+    "origem": "BR",
+    "categoria": "Imigração",
+    "direcao": "subindo",
+    "crescimento_resumo": "+1.700% nas buscas (48 h)",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T16:20:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-29",
+        "evidencia": "Alta de 1.700% nas buscas no Google por 'como morar no Paraguai' em 48 horas. A matéria não diz qual ferramenta mediu.",
+        "nome": "Gazeta do Povo",
+        "tipo": "imprensa",
+        "titulo": "Busca por morar no Paraguai sobe 1.700% após eleição",
+        "url": "https://gazetadopovo.com.br/parana/brasileiros-aceleram-busca-por-mudanca-para-o-paraguai-apos-eleicoes-de-2026"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-27",
+        "evidencia": "Piquet Law Firm: 700 consultas em um dia (antes 500 a 600 por mês). Bicalho: 643 consultas, mais de 30 vezes a média diária. Hayman Woodward: +500%.",
+        "nome": "NC News",
+        "tipo": "imprensa",
+        "titulo": "Procura por vistos para os EUA dispara após eleição",
+        "url": "https://ncnews.com.br/2026/10/27/brasileiros-vistos-eua-reeleicao-lula/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-28",
+        "evidencia": "1.343 consultas em um dia em dois escritórios da Flórida; vistos mais procurados: EB-5, EB-1A e EB-2 NIW.",
+        "nome": "Fato Regional (com base na Folha de S.Paulo)",
+        "tipo": "imprensa (resumo da Folha)",
+        "titulo": "Procura de brasileiros para morar nos EUA supera 1.300 consultas em um dia",
+        "url": "https://fatoregional.com.br/reeleicao-lula-brasileiros-morar-eua-1343-consultas/"
+      },
+      {
+        "coletada": "2026-10-31T12:50:00Z",
+        "data": "2026-10-30",
+        "evidencia": "YOUSA Law Firm diz ter recebido mais de 1.700 pedidos de assessoria para vistos dos EUA após o 2º turno (25/10), alta de 466%. O escritório não informou o período de comparação nem a metodologia; não é dado oficial.",
+        "nome": "Portal AZ",
+        "tipo": "imprensa (dado de escritório de advocacia)",
+        "titulo": "Busca por vistos para os EUA cresce 466% após eleições no Brasil",
+        "url": "https://portalaz.com.br/noticia/artigos/99457/busca-por-vistos-para-os-eua-cresce-466-apos-eleicoes-no-brasil"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-31",
+        "evidencia": "Piquet Law Firm: 724 consultas no dia seguinte ao resultado (média normal de 500 a 600 por mês) e 420 novas mensagens até o meio-dia de 30/10; segundo o escritório, a procura continuou subindo, ao contrário de eleições anteriores. GMZ Advisors: procura semanal por Portugal 70% acima da média.",
+        "nome": "Forbes Brasil",
+        "tipo": "imprensa (dados de escritórios)",
+        "titulo": "Procura por mudança para os EUA segue em disparada após saída de Flávio Bolsonaro do Brasil",
+        "url": "https://forbes.com.br/forbes-money/2026/10/procura-mudanca-eua-dispara-apos-saida-flavio-bolsonaro/"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-29",
+        "evidencia": "D4U Immigration relata alta de 2.154% nos contatos diários; a matéria não informa a base de comparação nem a metodologia.",
+        "nome": "Diário de Aparecida",
+        "tipo": "imprensa (dado de empresa)",
+        "titulo": "Procura por green card salta mais de 2000% após reeleição de Lula",
+        "url": "https://www.diariodeaparecida.com.br/2026/10/29/procura-por-green-card-salta-mais-de-2000-apos-reeleicao-de-lula/"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-22",
+        "evidencia": "Vou Mudar para Portugal projeta alta de 47% nas vendas em 2026 e diz ter vendido cinco apartamentos em Cascais na primeira semana após a eleição; GMZ Advisors fala em recorde de fechamentos em outubro. Dados das próprias empresas, sem estudo independente.",
+        "nome": "Revista Entre Rios (SAPO)",
+        "tipo": "imprensa (dados de empresas)",
+        "titulo": "Incerteza política leva brasileiros a buscar imóveis em Portugal para morar e investir",
+        "url": "https://revistaentrerios.sapo.pt/incerteza-politica-leva-brasileiros-a-buscar-imoveis-em-portugal-para-morar-e-investir/"
+      }
+    ],
+    "evidencias": [
+      "Buscas por 'como morar no Paraguai' +1.700% em 48 horas (Gazeta do Povo, 29/10).",
+      "Piquet Law Firm: 700 contatos em 26/10, contra 500 a 600 em um mês normal (NC News, 27/10).",
+      "Bicalho Legal Consulting: 643 consultas, mais de 30 vezes a média de cerca de 20 por dia (NC News, 27/10).",
+      "Limite: consultas não são pedidos de visto nem mudanças efetivas; os próprios veículos fazem essa ressalva.",
+      "YOUSA Law Firm: mais de 1.700 pedidos de assessoria para vistos dos EUA após 25/10, alta de 466% (Portal AZ, 30/10/2026). Limite: dado de um único escritório, sem período de comparação nem metodologia divulgados.",
+      "Piquet Law Firm: 724 consultas no dia seguinte ao resultado e 420 novas mensagens até o meio-dia de 30/10; o escritório diz que, diferentemente de eleições anteriores, a procura não caiu após as primeiras 24 horas (Forbes Brasil, 31/10/2026).",
+      "GMZ Advisors: procura semanal por Portugal 70% acima da semana média após a eleição (Forbes Brasil, 31/10/2026).",
+      "D4U Immigration: alta de 2.154% nos contatos diários (Diário de Aparecida, 29/10/2026). Limite: sem base de comparação divulgada.",
+      "Imobiliárias relatam mais brasileiros buscando imóveis em Portugal (Revista Entre Rios, 22/10/2026). Limite: dados das próprias empresas."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Não há série histórica pública: os números são de um único momento (antes e depois da eleição).",
+    "publico": [
+      "Brasileiros de classe média pesquisando mudança logo após a eleição",
+      "Famílias com recursos para investir (EB-5)",
+      "Profissionais qualificados (EB-1A, EB-2 NIW)"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "portugal-aima-tres-anos",
+    "titulo": "Portugal: AIMA faz 3 anos com 89 mil processos nos tribunais e verba maior em 2027",
+    "resumo": "A agência de migrações de Portugal completou três anos com 840 funcionários e cerca de 89 mil processos aguardando decisão nos tribunais administrativos em 18/09/2026, 28,8% menos que os 125 mil de abril. A proposta de Orçamento de 2027 eleva a verba da AIMA para 135 milhões de euros, contra 97,4 milhões em 2026.",
+    "contexto": "A AIMA substituiu o SEF em outubro de 2023. O número de residentes estrangeiros passou de cerca de 1 milhão para quase 1,6 milhão no período. O governo diz ter resolvido 98% das 940 mil notificações da operação especial de recuperação; César Teixeira assume a presidência da agência.",
+    "por_que": "Brasileiros são a maior comunidade estrangeira em Portugal e dependem da AIMA para autorizações de residência, renovações e reagrupamento familiar. Menos pendências e mais orçamento afetam prazos de quem já está lá ou vai pedir.",
+    "pais": "PT",
+    "paises": [
+      "PT"
+    ],
+    "origem": "BR",
+    "categoria": "Imigração",
+    "direcao": "sem_dados",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T16:20:00Z",
+    "atualizada": "2026-10-31T16:20:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-30",
+        "evidencia": "840 funcionários; cerca de 89 mil processos nos tribunais administrativos em 18/09, contra 125 mil em abril; mais de 300 mil autorizações de residência até dez/2025; orçamento proposto de 135 milhões de euros em 2027 (97,4 milhões em 2026); equipe judicial especial prorrogada até 30/01/2027.",
+        "nome": "The Portugal News",
+        "tipo": "imprensa",
+        "titulo": "AIMA marks three years in Portugal",
+        "url": "https://www.theportugalnews.com/news/2026-10-30/aima-marks-three-years-in-portugal/1108772"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-29",
+        "evidencia": "840 trabalhadores e 89 mil processos pendentes nos tribunais; ministro Leitão Amaro diz que 98% das pendências foram resolvidas.",
+        "nome": "ECO (SAPO)",
+        "tipo": "imprensa",
+        "titulo": "AIMA faz três anos com 840 trabalhadores e 89 mil processos pendentes nos tribunais",
+        "url": "https://eco.sapo.pt/2026/10/29/aima-faz-tres-anos-com-840-trabalhadores-e-89-mil-processos-pendentes-nos-tribunais/"
+      }
+    ],
+    "evidencias": [
+      "Processos da AIMA nos tribunais administrativos: cerca de 125 mil em abril e 89 mil em 18/09/2026 (The Portugal News, 30/10/2026).",
+      "Residentes estrangeiros passaram de cerca de 1 milhão para quase 1,6 milhão em três anos (The Portugal News).",
+      "Orçamento proposto para 2027: 135 milhões de euros (97,4 milhões em 2026).",
+      "Limite: as matérias não trazem recorte por nacionalidade; não há dado específico sobre brasileiros nessas fontes. O índice de 98% de resolução é declaração do governo."
+    ],
+    "evolucao": [
+      {
+        "data": "2026-04",
+        "fonte": "The Portugal News",
+        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
+        "valor": 125000
+      },
+      {
+        "data": "2026-09-18",
+        "fonte": "The Portugal News",
+        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
+        "valor": 89000
+      }
+    ],
+    "evolucao_nota": "Dois pontos da mesma métrica, citados na mesma reportagem. Mostram a queda das ações judiciais pendentes, não o interesse pelo tema.",
+    "publico": [
+      "Brasileiros que já vivem em Portugal e aguardam renovação ou reagrupamento",
+      "Brasileiros planejando pedir visto para Portugal"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "portugal-nova-lei-estrangeiros",
+    "titulo": "Portugal: nova Lei de Estrangeiros em vigor desde 11 de setembro",
+    "resumo": "A Lei n.º 62/2026 entrou em vigor em 11/09/2026. Ela exige visto de residência também para alunos do ensino secundário e profissional e permite trocar de empregador com simples comunicação à AIMA. A manifestação de interesse segue extinta.",
+    "contexto": "O Tribunal Constitucional validou as normas questionadas em agosto. A lei se soma às mudanças de 2025 (Lei 61/2025), que criaram o visto de procura de trabalho, ainda dependente de regulamentação, e endureceram o reagrupamento familiar.",
+    "por_que": "Portugal é o destino europeu mais procurado por brasileiros e as regras mudaram em pouco tempo; há muita dúvida sobre o que vale hoje.",
+    "pais": "PT",
+    "paises": [
+      "PT"
+    ],
+    "origem": null,
+    "categoria": "Vistos e documentação",
+    "direcao": "estavel",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Lei 62/2026 publicada em 10/09/2026, em vigor desde 11/09. Blog comercial: conferir no Diário da República.",
+        "nome": "Cidadania e Visto (blog)",
+        "tipo": "blog comercial",
+        "titulo": "Portugal valida nova Lei dos Estrangeiros: o que muda para brasileiros",
+        "url": "https://www.cidadaniaevisto.com.br/blog/portugal-valida-nova-lei-dos-estrangeiros-o-que-muda-para-brasileiros-que-buscam"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Escritório de advocacia; resumo das mudanças. Data não verificada nesta coleta.",
+        "nome": "ECIJA",
+        "tipo": "escritório de advocacia",
+        "titulo": "Nova Lei de Estrangeiros: o que muda nas regras de residência e imigração em Portugal?",
+        "url": "https://www.ecija.com/adcecija/latest-news-nova-lei-de-estrangeiros-o-que-muda-nas-regras-de-residencia-e-imigracao-em-portugal/"
+      }
+    ],
+    "evidencias": [
+      "Lei n.º 62/2026 publicada em 10/09/2026, em vigor em 11/09/2026.",
+      "Acórdão n.º 736/2026 do Tribunal Constitucional não considerou inconstitucionais as 11 normas questionadas.",
+      "Sem medição de crescimento de interesse nesta coleta."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Sem série histórica.",
+    "publico": [
+      "Brasileiros que planejam ir para Portugal",
+      "Pais com filhos em idade escolar",
+      "Quem já está em Portugal e quer trocar de emprego"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "eua-h1b-taxa-100-mil-prorrogada",
+    "titulo": "EUA prorrogam taxa de US$ 100 mil para novos vistos H-1B até 2027",
+    "resumo": "Proclamação de 18/09/2026 estendeu por 12 meses a taxa de US$ 100 mil sobre a entrada de novos trabalhadores H-1B, agora até 21/09/2027. Uma ordem executiva também aumentou a fiscalização dos pedidos.",
+    "contexto": "A política foi declarada ilegal por um juiz federal em junho de 2026 e o governo recorreu. Segundo a própria proclamação, só cerca de 700 pagamentos foram feitos no último ano. Há outras regras propostas que endurecem o H-1B e o OPT de estudantes.",
+    "por_que": "Afeta diretamente o caminho de trabalho qualificado nos EUA, um dos vistos mais procurados por brasileiros depois da eleição (EB-2 NIW e EB-1A são alternativas).",
+    "pais": "US",
+    "paises": [
+      "US"
+    ],
+    "origem": null,
+    "categoria": "Empregos internacionais",
+    "direcao": "caindo",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "expirada",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-09-21",
+        "evidencia": "Taxa de US$ 100 mil prorrogada até 21/09/2027; cerca de 700 pagamentos no último ano; regra proposta de US$ 103.265.",
+        "nome": "Forbes",
+        "tipo": "imprensa",
+        "titulo": "Trump Enacts Additional Immigration Policies Against H-1B Visa Holders",
+        "url": "https://www.forbes.com/sites/stuartanderson/2026/09/21/trump-enacts-additional-immigration-policies-against-h-1b-visa-holders/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Resumo das mudanças de outubro; data exata não verificada nesta coleta.",
+        "nome": "Brown Immigration Law",
+        "tipo": "escritório de advocacia",
+        "titulo": "October 2026 Immigration News",
+        "url": "https://brownimmigrationlaw.com/immigration-news-october-2026/"
+      }
+    ],
+    "evidencias": [
+      "Prorrogação assinada em 18/09/2026.",
+      "Só cerca de 700 pagamentos da taxa em 12 meses, segundo a proclamação.",
+      "Disputa judicial em andamento."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Sem série histórica.",
+    "publico": [
+      "Profissionais de tecnologia",
+      "Estudantes nos EUA (OPT)"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "paraguai-residencias-brasileiros-2026",
+    "titulo": "Paraguai: residências concedidas sobem 81% e brasileiros ficam com 76%",
+    "resumo": "No 1º semestre de 2026 o Paraguai concedeu 29.765 autorizações de residência, 81% a mais que no mesmo período de 2025. Brasileiros receberam 22.628, cerca de 76% do total.",
+    "contexto": "Dados da Direção Nacional de Migrações do Paraguai, divulgados pela Agência IP. O país atrai pela residência via Mercosul, impostos de 10% (sistema 'triplo 10') e proximidade com o Sul do Brasil.",
+    "por_que": "É o único destino com dado oficial de crescimento recente e com brasileiros como maioria absoluta dos novos residentes.",
+    "pais": "PY",
+    "paises": [
+      "PY"
+    ],
+    "origem": "BR",
+    "categoria": "Vistos e documentação",
+    "direcao": "subindo",
+    "crescimento_resumo": "+81% em residências (1º sem.)",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-28",
+        "evidencia": "29.765 autorizações no 1º semestre (+81%); 22.628 para brasileiros; 33.243 solicitações (+62%).",
+        "nome": "Paraíba Business (dados da DNM via Agência IP)",
+        "tipo": "imprensa (dados oficiais)",
+        "titulo": "Buscas por morar no Paraguai disparam e brasileiros lideram concessões de residência",
+        "url": "https://paraibabusiness.com.br/buscas-por-morar-no-paraguai-disparam-e-brasileiros-lideram-concessoes-de-residencia/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-29",
+        "evidencia": "Residência via Mercosul e alíquota máxima de 10% em IRE, IVA e IRP.",
+        "nome": "Gazeta do Povo",
+        "tipo": "imprensa",
+        "titulo": "Busca por morar no Paraguai sobe 1.700% após eleição",
+        "url": "https://gazetadopovo.com.br/parana/brasileiros-aceleram-busca-por-mudanca-para-o-paraguai-apos-eleicoes-de-2026"
+      }
+    ],
+    "evidencias": [
+      "Autorizações de residência: 29.765 no 1º semestre de 2026, +81% sobre o 1º semestre de 2025.",
+      "Solicitações: 33.243, +62%.",
+      "Em 2025 inteiro foram cerca de 40,6 mil autorizações, 23,5 mil para brasileiros: o 1º semestre de 2026 quase igualou o ano anterior.",
+      "Limite: autorização de residência não prova mudança definitiva."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Os números disponíveis não são comparáveis em série (ano de 2025 inteiro contra 1º semestre de 2026). O crescimento de 81% é a comparação oficial semestre contra semestre.",
+    "publico": [
+      "Brasileiros do Sul e Centro-Oeste",
+      "Empreendedores interessados em impostos menores",
+      "Aposentados que buscam custo de vida menor"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "portugal-retorno-brasileiros-oim",
+    "titulo": "Pedidos de brasileiros para voltar de Portugal sobem 52% em 2026",
+    "resumo": "Segundo a OIM, a média mensal de brasileiros pedindo ajuda para voltar ao Brasil passou de 44 em 2025 para 67 em 2026. Até julho foram 470 pedidos; brasileiros são cerca de 30% dos imigrantes, mas 80% dos pedidos de retorno.",
+    "contexto": "O programa de Apoio ao Retorno Voluntário paga a passagem e 70 euros, mas proíbe entrar em Portugal e no Espaço Schengen por 3 anos. Os motivos citados são custo de vida, sobretudo moradia, e dificuldade de regularização de quem chegou sem visto.",
+    "por_que": "Mostra o lado de quem migrou sem planejamento: reforça a importância de escolher o país e o caminho legal antes de sair.",
+    "pais": "PT",
+    "paises": [
+      "PT"
+    ],
+    "origem": "BR",
+    "categoria": "Qualidade de vida",
+    "direcao": "caindo",
+    "crescimento_resumo": "+52% na média mensal",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "expirada",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-09-11",
+        "evidencia": "Média mensal de 44 (2025) para 67 (2026); 470 pedidos até julho; brasileiros são 80% dos pedidos.",
+        "nome": "Alô Alô Bahia (dados da OIM)",
+        "tipo": "imprensa (dados da OIM)",
+        "titulo": "Pedidos de brasileiros para voltar de Portugal ao Brasil crescem 52% em 2026",
+        "url": "https://aloalobahia.com/noticias/2026/09/11/pedidos-de-brasileiros-para-voltar-de-portugal-ao-brasil-crescem-52-em-2026/"
+      }
+    ],
+    "evidencias": [
+      "Média mensal: 44 pedidos em 2025, 67 em 2026 (+52%).",
+      "432 inscritos em 2024; 470 até julho de 2026.",
+      "Só uma fonte nesta coleta: precisa de confirmação em outro veículo."
+    ],
+    "evolucao": [
+      {
+        "data": "2025-12-31",
+        "fonte": "OIM",
+        "unidade": "pedidos de retorno por mês (média)",
+        "valor": 44
+      },
+      {
+        "data": "2026-07-31",
+        "fonte": "OIM",
+        "unidade": "pedidos de retorno por mês (média)",
+        "valor": 67
+      }
+    ],
+    "evolucao_nota": null,
+    "publico": [
+      "Quem pensa em ir para Portugal sem visto",
+      "Brasileiros já em Portugal com dificuldades"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": "exodo-milionarios-2026",
+    "titulo": "Êxodo de milionários deve bater recorde: 165 mil mudando de país em 2026",
+    "resumo": "Levantamento da New World Wealth, divulgado pela The Economist e citado pela InfoMoney, prevê 165 mil pessoas de grande fortuna mudando de país em 2026, contra 140 mil em 2025. Portugal e EUA estão entre os preferidos dos brasileiros de alta renda.",
+    "contexto": "O mercado de migração por investimento movimentou cerca de US$ 40 bilhões em 2025, o dobro de 2019. Mais de 5 milhões de brasileiros vivem no exterior, segundo o Itamaraty.",
+    "por_que": "Mostra que a migração planejada está crescendo no mundo, não só no Brasil; porém o dado é de junho e não traz número de brasileiros.",
+    "pais": "US",
+    "paises": [
+      "US",
+      "PT"
+    ],
+    "origem": "BR",
+    "categoria": "Economia",
+    "direcao": "caindo",
+    "crescimento_resumo": "+18% (165 mil x 140 mil)",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "expirada",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-06-15",
+        "evidencia": "165 mil em 2026 contra 140 mil em 2025 (New World Wealth). Não informa quantos são brasileiros.",
+        "nome": "InfoMoney",
+        "tipo": "imprensa",
+        "titulo": "Êxodo dos milionários bate recorde global; para onde vão os brasileiros mais ricos?",
+        "url": "https://www.infomoney.com.br/mundo/exodo-dos-milionarios-bate-recorde-global-para-onde-vao-os-brasileiros-mais-ricos/"
+      }
+    ],
+    "evidencias": [
+      "165 mil milionários devem mudar de país em 2026, contra 140 mil em 2025.",
+      "Mercado de migração por investimento: cerca de US$ 40 bilhões em 2025.",
+      "Limite: sem número de brasileiros e com uma só fonte nesta coleta."
+    ],
+    "evolucao": [
+      {
+        "data": "2025-12-31",
+        "fonte": "New World Wealth",
+        "unidade": "milionários que mudaram de país",
+        "valor": 140000
+      },
+      {
+        "data": "2026-12-31",
+        "fonte": "New World Wealth",
+        "unidade": "milionários que mudaram de país (previsão)",
+        "valor": 165000
+      }
+    ],
+    "evolucao_nota": "O valor de 2026 é uma previsão.",
+    "publico": [
+      "Brasileiros de alta renda",
+      "Investidores interessados em vistos por investimento"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  }
+]
