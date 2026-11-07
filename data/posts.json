@@ -1,5 +1,2059 @@
 [
   {
+    "noticia_id": "br-20261106-imposto-seletivo",
+    "pais": "BR",
+    "titulo": "Imposto Seletivo: cigarro 66,7%, destilados até 24%, cerveja 4,2% e carro 6,3% a partir de fevereiro de 2027",
+    "legenda_ig": "🚨 O Brasil ganha um imposto novo em 2027: o Imposto Seletivo.\n📅 Cobrança prevista para 02/02/2027 (a MP ainda passa pelo Congresso).\n🚬 Cigarro: 66,7% sobre a base + R$ 3,50 por maço\n🥃 Destilados: 24% | Cachaça: 20%\n🍷 Vinho: 8%\n🍺 Cerveja: 4,2%\n🥤 Bebidas açucaradas: 2,6%\n🚗 Carro de passeio: alíquota-base de 6,3%, ajustada por modelo\n🔄 Até 31/05/2027 o governo deve enviar novas alíquotas para valer em 2028.\n📰 Fonte: Forbes Brasil / Rádio Senado, 05/11/2026\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#impostoseletivo #reformatributaria #impostos #custodevida #morarfora #chegadebrasil",
+    "post_x": "🚨 Imposto novo em 2027: o Imposto Seletivo começa em 02/02/2027.\n\n🚬 Cigarro 66,7% + R$ 3,50/maço\n🥃 Destilados até 24%\n🍷 Vinho 8%\n🍺 Cerveja 4,2%\n🥤 Refrigerante 2,6%\n🚗 Carro 6,3% (base)\n\nA MP ainda passa pelo Congresso.\n\nSiga para mais 👇",
+    "nota": "Fonte: Forbes Brasil / Rádio Senado, 05/11/2026. Não incluí comparação com a tributação dos países do guia porque não encontrei números oficiais equivalentes confirmados.",
+    "fonte": "Forbes Brasil / Rádio Senado",
+    "url": "https://forbes.com.br/forbes-money/2026/11/cigarro-bebida-carro-veja-as-aliquotas-do-novo-imposto/",
+    "criada": "2026-11-07T09:40:14Z",
+    "visual": {
+      "capa": {
+        "realce": "imposto novo",
+        "rotulo": "BRASIL · IMPOSTOS",
+        "selo": "Cigarro 66,7% · Carro 6,3%",
+        "titulo": "O imposto novo que chega em fevereiro de 2027"
+      },
+      "cenas": [
+        {
+          "frase": "A partir de fevereiro de 2027, o",
+          "numero": "Imposto Seletivo",
+          "realce": "imposto novo",
+          "rotulo": "BRASIL · IMPOSTOS",
+          "sub": "Cobrança prevista para fevereiro",
+          "tipo": "capa",
+          "titulo": "Um imposto novo chega em 2027"
+        },
+        {
+          "frase": "A medida provisória publicada em 4",
+          "rotulo": "MP DE NOVEMBRO",
+          "sub": "A medida provisória publicada em 4 de novembro de 2026 definiu quanto cada produto vai pagar.",
+          "tipo": "texto",
+          "titulo": "As alíquotas já foram fixadas"
+        },
+        {
+          "frase": "Cigarro: sessenta e seis vírgula sete",
+          "numero": "66,7%",
+          "rotulo": "CIGARRO",
+          "sub": "Mais R$ 3,50 por maço",
+          "tipo": "numero",
+          "titulo": "Imposto sobre a base do cigarro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Destilados",
+              "texto": "24%",
+              "valor": 24
+            },
+            {
+              "nome": "Cachaça",
+              "texto": "20%",
+              "valor": 20
+            },
+            {
+              "nome": "Vinho",
+              "texto": "8%",
+              "valor": 8
+            },
+            {
+              "nome": "Cerveja",
+              "texto": "4,2%",
+              "valor": 4.2
+            }
+          ],
+          "frase": "Cachaça: vinte por cento.",
+          "rotulo": "BEBIDAS",
+          "sub": "Fonte: Forbes Brasil",
+          "tipo": "barras",
+          "titulo": "Alíquota por bebida"
+        },
+        {
+          "frase": "Refrigerante e bebida açucarada: dois vírgula",
+          "numero": "2,6%",
+          "rotulo": "REFRIGERANTE",
+          "sub": "Alíquota do Imposto Seletivo em 2027",
+          "tipo": "numero",
+          "titulo": "Bebidas açucaradas também pagam"
+        },
+        {
+          "frase": "E o carro de passeio entra",
+          "numero": "6,3%",
+          "rotulo": "CARRO",
+          "sub": "Ajustada por motor, eficiência e segurança",
+          "tipo": "numero",
+          "titulo": "Alíquota-base do carro de passeio"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Início da cobrança",
+              "valor": "02/02/27"
+            },
+            {
+              "legenda": "MP ainda em análise",
+              "valor": "Congresso"
+            },
+            {
+              "legenda": "Novas alíquotas previstas",
+              "valor": "2028"
+            }
+          ],
+          "frase": "A cobrança está prevista para 2",
+          "rotulo": "DATAS",
+          "sub": "A MP ainda passa pelo Congresso",
+          "tipo": "cartoes",
+          "titulo": "O calendário do imposto"
+        },
+        {
+          "frase": "Enquanto isso, muita gente já compara",
+          "rotulo": "COMPARAÇÃO",
+          "sub": "Muita gente já compara o custo de vida no Brasil com o de outros países.",
+          "tipo": "texto",
+          "titulo": "Quanto custa viver em outro país?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa viver em outro país?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "02/02/2027",
+          "realce": "imposto novo",
+          "rotulo": "BRASIL · IMPOSTOS",
+          "sub": "Data prevista para começar a cobrança",
+          "tipo": "capa",
+          "titulo": "Imposto Seletivo: o imposto novo que chega em 2027"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Destilados",
+              "texto": "24%",
+              "valor": 24
+            },
+            {
+              "nome": "Cachaça",
+              "texto": "20%",
+              "valor": 20
+            },
+            {
+              "nome": "Vinho",
+              "texto": "8%",
+              "valor": 8
+            },
+            {
+              "nome": "Cerveja",
+              "texto": "4,2%",
+              "valor": 4.2
+            }
+          ],
+          "rotulo": "BEBIDAS",
+          "sub": "Alíquotas da MP para 2027. Fonte: Forbes Brasil",
+          "tipo": "barras",
+          "titulo": "Quanto cada bebida paga de Imposto Seletivo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Cigarro, sobre a base + R$ 3,50/maço",
+              "valor": "66,7%"
+            },
+            {
+              "legenda": "Refrigerante e bebidas açucaradas",
+              "valor": "2,6%"
+            },
+            {
+              "legenda": "Carro de passeio (alíquota-base)",
+              "valor": "6,3%"
+            }
+          ],
+          "rotulo": "DIA A DIA",
+          "sub": "Valores da MP publicada em novembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Outros itens que entram na conta"
+        },
+        {
+          "itens": [
+            {
+              "s": "Vale para automóveis de passeio",
+              "t": "Alíquota-base de 6,3%"
+            },
+            {
+              "s": "A base é multiplicada e varia por motor, eficiência e segurança",
+              "t": "Ajuste por modelo"
+            },
+            {
+              "s": "Alíquota-base menor para alguns utilitários",
+              "t": "Comerciais leves: 3,9%"
+            }
+          ],
+          "rotulo": "CARRO",
+          "tipo": "lista",
+          "titulo": "Como fica o imposto do carro"
+        },
+        {
+          "itens": [
+            {
+              "s": "Precisa ser votada para virar lei",
+              "t": "MP ainda no Congresso"
+            },
+            {
+              "s": "90 dias depois da publicação da MP",
+              "t": "Cobrança em 02/02/2027"
+            },
+            {
+              "s": "Governo deve enviar projeto para valer a partir de 2028",
+              "t": "Novas alíquotas até maio"
+            }
+          ],
+          "rotulo": "O QUE VEM DEPOIS",
+          "tipo": "lista",
+          "titulo": "As regras ainda podem mudar"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa viver em outro país?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "66,7%",
+          "realce": "imposto novo",
+          "rotulo": "BRASIL · IMPOSTOS",
+          "sub": "Alíquota sobre a base do cigarro",
+          "tipo": "capa",
+          "titulo": "O imposto novo que chega em fevereiro de 2027"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Destilados",
+              "texto": "24%",
+              "valor": 24
+            },
+            {
+              "nome": "Vinho",
+              "texto": "8%",
+              "valor": 8
+            },
+            {
+              "nome": "Cerveja",
+              "texto": "4,2%",
+              "valor": 4.2
+            },
+            {
+              "nome": "Refrigerante",
+              "texto": "2,6%",
+              "valor": 2.6
+            }
+          ],
+          "rotulo": "BEBIDAS",
+          "sub": "Alíquotas para 2027. Fonte: Forbes Brasil",
+          "tipo": "barras",
+          "titulo": "Imposto Seletivo por bebida"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "MP publicada em 2026",
+              "valor": "04/11"
+            },
+            {
+              "legenda": "Início da cobrança em 2027",
+              "valor": "02/02"
+            },
+            {
+              "legenda": "Novas alíquotas previstas",
+              "valor": "2028"
+            }
+          ],
+          "rotulo": "DATAS",
+          "sub": "A MP ainda passa pelo Congresso",
+          "tipo": "cartoes",
+          "titulo": "O calendário do imposto"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa viver em outro país?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ca-20261106-salario-hora",
+    "pais": "CA",
+    "titulo": "Canadá: salário médio de C$ 37,89 por hora (cerca de R$ 148); 26 horas lá rendem o mês médio do Brasil",
+    "legenda_ig": "🇨🇦 Uma hora de trabalho no Canadá vale cerca de R$ 148.\n💵 Salário médio por hora em outubro/2026: C$ 37,89 (+2,2% em 12 meses)\n💱 Com o dólar canadense a R$ 3,90 (PTAX 05/11/2026)\n🇧🇷 Renda média no Brasil: R$ 3.790 por mês (IBGE, 3º tri/2026)\n⏱️ Em cerca de 26 horas, a média canadense ganha o que a média brasileira ganha no mês (valores brutos)\n🏗️ Construção: +16 mil vagas em outubro\n🎓 Educação: +15 mil vagas\n📰 Fontes: Statistics Canada (06/11/2026), IBGE e Banco Central do Brasil\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#canada #morarnocanada #salario #trabalharnocanada #morarfora #chegadebrasil",
+    "post_x": "🇨🇦 Uma hora de trabalho no Canadá: C$ 37,89, cerca de R$ 148.\n\n🇧🇷 Renda média no Brasil: R$ 3.790 por MÊS.\n\nEm ~26 horas, a média canadense ganha o mês médio brasileiro (valores brutos).\n\nConstrução e educação lideraram as contratações.\n\nSiga para mais 👇",
+    "nota": "Fonte: Statistics Canada, 06/11/2026; IBGE (PNAD, 30/10/2026); câmbio PTAX de 05/11/2026 (R$ 3,9022). Valores brutos, antes de impostos.",
+    "fonte": "Statistics Canada",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
+    "criada": "2026-11-07T09:40:14Z",
+    "visual": {
+      "capa": {
+        "realce": "quase R$ 150",
+        "rotulo": "CANADÁ · SALÁRIOS",
+        "selo": "C$ 37,89/h ≈ R$ 148",
+        "titulo": "Uma hora no Canadá vale quase R$ 150"
+      },
+      "cenas": [
+        {
+          "frase": "Uma hora de trabalho no Canadá",
+          "numero": "R$ 148",
+          "realce": "quase R$ 150",
+          "rotulo": "CANADÁ · SALÁRIOS",
+          "sub": "Salário médio por hora em reais",
+          "tipo": "capa",
+          "titulo": "Uma hora no Canadá vale quase R$ 150"
+        },
+        {
+          "frase": "Segundo a Statistics Canada, o salário",
+          "numero": "C$ 37,89",
+          "rotulo": "SALÁRIO MÉDIO",
+          "sub": "Fonte: Statistics Canada, 06/11/2026",
+          "tipo": "numero",
+          "titulo": "Salário médio por hora em outubro"
+        },
+        {
+          "frase": "Com o dólar canadense a três",
+          "numero": "≈ R$ 148",
+          "rotulo": "EM REAIS",
+          "sub": "Dólar canadense a R$ 3,90 (PTAX 05/11)",
+          "tipo": "numero",
+          "titulo": "Convertido para reais"
+        },
+        {
+          "frase": "A renda média do trabalhador brasileiro",
+          "numero": "R$ 3.790",
+          "rotulo": "BRASIL",
+          "sub": "Por mês, segundo o IBGE (3º tri de 2026)",
+          "tipo": "numero",
+          "titulo": "Renda média mensal no Brasil"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "≈ 26 horas",
+              "valor": 26
+            },
+            {
+              "nome": "Brasil",
+              "texto": "1 mês",
+              "valor": 173
+            }
+          ],
+          "frase": "Ou seja: em cerca de vinte",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos",
+          "tipo": "barras",
+          "titulo": "Horas para ganhar R$ 3.790"
+        },
+        {
+          "frase": "São valores brutos, antes de impostos",
+          "rotulo": "ATENÇÃO",
+          "sub": "A comparação é antes de impostos e despesas, mas a diferença é grande.",
+          "tipo": "texto",
+          "titulo": "Valores brutos"
+        },
+        {
+          "frase": "E o salário médio canadense subiu",
+          "numero": "+2,2%",
+          "rotulo": "EM 12 MESES",
+          "sub": "De outubro de 2025 a outubro de 2026",
+          "tipo": "numero",
+          "titulo": "Alta do salário médio"
+        },
+        {
+          "frase": "Quem mais contratou em outubro? A",
+          "itens": [
+            {
+              "s": "+16 mil empregos",
+              "t": "Construção"
+            },
+            {
+              "s": "+15 mil empregos",
+              "t": "Educação"
+            },
+            {
+              "s": "+12 mil empregos",
+              "t": "Colúmbia Britânica"
+            }
+          ],
+          "rotulo": "QUEM CONTRATOU",
+          "tipo": "lista",
+          "titulo": "Setores que mais abriram vagas"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se dá para ganhar mais.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 148",
+          "realce": "uma hora de trabalho",
+          "rotulo": "CANADÁ · SALÁRIOS",
+          "sub": "Salário médio de C$ 37,89 por hora em outubro de 2026",
+          "tipo": "capa",
+          "titulo": "Quanto vale uma hora de trabalho no Canadá"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Salário médio por hora",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "Alta em 12 meses",
+              "valor": "+2,2%"
+            },
+            {
+              "legenda": "Valor do dólar canadense",
+              "valor": "R$ 3,90"
+            }
+          ],
+          "rotulo": "OS NÚMEROS",
+          "sub": "Fonte: Statistics Canada, 06/11/2026",
+          "tipo": "cartoes",
+          "titulo": "O salário médio canadense em outubro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "≈ 26 horas",
+              "valor": 26
+            },
+            {
+              "nome": "Brasil",
+              "texto": "1 mês de trabalho",
+              "valor": 173
+            }
+          ],
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Renda média mensal no Brasil (IBGE) x hora média no Canadá",
+          "tipo": "barras",
+          "titulo": "Horas para ganhar R$ 3.790"
+        },
+        {
+          "numero": "≈ 26 h",
+          "rotulo": "A DIFERENÇA",
+          "sub": "É o tempo para a média canadense ganhar a renda média mensal do Brasil (valores brutos)",
+          "tipo": "numero",
+          "titulo": "O mês brasileiro em horas canadenses"
+        },
+        {
+          "itens": [
+            {
+              "s": "+16 mil empregos no mês",
+              "t": "Construção"
+            },
+            {
+              "s": "+15 mil empregos no mês",
+              "t": "Educação"
+            },
+            {
+              "s": "+12 mil empregos, desemprego de 6,3%",
+              "t": "Colúmbia Britânica"
+            }
+          ],
+          "rotulo": "QUEM CONTRATOU",
+          "tipo": "lista",
+          "titulo": "Setores que mais abriram vagas em outubro"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "C$ 37,89",
+          "realce": "quase R$ 150",
+          "rotulo": "CANADÁ · SALÁRIOS",
+          "sub": "Salário médio por hora, outubro de 2026",
+          "tipo": "capa",
+          "titulo": "Uma hora no Canadá vale quase R$ 150"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "≈ 26 horas",
+              "valor": 26
+            },
+            {
+              "nome": "Brasil",
+              "texto": "1 mês",
+              "valor": 173
+            }
+          ],
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Renda média mensal brasileira (IBGE)",
+          "tipo": "barras",
+          "titulo": "Horas para ganhar R$ 3.790"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Construção",
+              "valor": "+16 mil"
+            },
+            {
+              "legenda": "Educação",
+              "valor": "+15 mil"
+            },
+            {
+              "legenda": "Salário em 12 meses",
+              "valor": "+2,2%"
+            }
+          ],
+          "rotulo": "CONTRATAÇÕES",
+          "sub": "Fonte: Statistics Canada",
+          "tipo": "cartoes",
+          "titulo": "Quem mais contratou em outubro"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "uy-20261106-inflacao-faixa",
+    "pais": "UY",
+    "titulo": "Uruguai: 40 meses com inflação na faixa do Banco Central e juros de 6% contra 13,75% da Selic",
+    "legenda_ig": "🇺🇾 Uruguai: 40 meses seguidos com a inflação dentro da faixa do Banco Central (3% a 6%).\n📊 Inflação em 12 meses (out/2026): 4,82%\n🇧🇷 Brasil em 12 meses (set/2026): 4,58%\n🏦 Juros básicos no Uruguai: 6% ao ano\n🏦 Selic no Brasil: 13,75% ao ano (mantida em 04/11/2026)\n🔮 Fim de 2026: Brasil 5,22% (Focus) x Uruguai 4,9% (projeção do BCU)\n💳 Juro alto pesa no financiamento, no cartão e no crediário.\n📰 Fontes: Banco Central do Uruguai via Prensa Latina (06/11/2026), IBGE, Copom e Boletim Focus\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#uruguai #morarnouruguai #inflacao #juros #morarfora #chegadebrasil",
+    "post_x": "🇺🇾 Uruguai: 40 meses com a inflação dentro da faixa do Banco Central.\n\nInflação parecida com a do Brasil (4,82% x 4,58%), mas os juros...\n\n🏦 Uruguai: 6% ao ano\n🏦 Brasil: 13,75% ao ano\n\nMais que o dobro.\n\nSiga para mais 👇",
+    "nota": "Fonte: Prensa Latina (dados do Banco Central do Uruguai), 06/11/2026; IPCA set/2026 (IBGE); Copom 04/11/2026; Focus; TPM de 6% desde 08/10/2026 (Rio Times).",
+    "fonte": "Prensa Latina (dados BCU)",
+    "url": "https://www.prensa-latina.cu/2026/11/06/repunta-la-inflacion-en-uruguay/",
+    "criada": "2026-11-07T09:40:14Z",
+    "visual": {
+      "capa": {
+        "realce": "juros de 6%",
+        "rotulo": "URUGUAI · ECONOMIA",
+        "selo": "Juros: 6% x 13,75%",
+        "titulo": "40 meses de inflação na faixa e juros de 6%"
+      },
+      "cenas": [
+        {
+          "frase": "No Uruguai, a inflação está dentro",
+          "numero": "40 meses",
+          "realce": "40 meses",
+          "rotulo": "URUGUAI · ECONOMIA",
+          "sub": "Seguidos dentro da faixa do Banco Central",
+          "tipo": "capa",
+          "titulo": "40 meses com a inflação dentro da faixa"
+        },
+        {
+          "frase": "Segundo o Banco Central do Uruguai,",
+          "numero": "4,82%",
+          "rotulo": "OUTUBRO",
+          "sub": "Fonte: Banco Central do Uruguai",
+          "tipo": "numero",
+          "titulo": "Inflação em 12 meses no Uruguai"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Piso",
+              "valor": "3%"
+            },
+            {
+              "legenda": "Teto",
+              "valor": "6%"
+            },
+            {
+              "legenda": "Meses seguidos",
+              "valor": "40"
+            }
+          ],
+          "frase": "A faixa vai de três a",
+          "rotulo": "A FAIXA",
+          "sub": "Meta de 4,5%",
+          "tipo": "cartoes",
+          "titulo": "Dentro da faixa há mais de 3 anos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "4,82%",
+              "valor": 4.82
+            },
+            {
+              "nome": "Brasil",
+              "texto": "4,58%",
+              "valor": 4.58
+            }
+          ],
+          "frase": "No Brasil, a inflação em doze",
+          "rotulo": "INFLAÇÃO EM 12 MESES",
+          "sub": "Números parecidos",
+          "tipo": "barras",
+          "titulo": "Uruguai x Brasil"
+        },
+        {
+          "frase": "Parecido, né?",
+          "rotulo": "MAS...",
+          "sub": "A inflação é parecida. Os juros, não.",
+          "tipo": "texto",
+          "titulo": "Agora vem a diferença"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "6%",
+              "valor": 6
+            },
+            {
+              "nome": "Brasil",
+              "texto": "13,75%",
+              "valor": 13.75
+            }
+          ],
+          "frase": "A taxa básica de juros do",
+          "rotulo": "JUROS BÁSICOS",
+          "sub": "Selic mantida em 04/11/2026",
+          "tipo": "barras",
+          "titulo": "Juros ao ano"
+        },
+        {
+          "frase": "Mais que o dobro.",
+          "numero": "2,3x",
+          "rotulo": "A DIFERENÇA",
+          "sub": "13,75% no Brasil contra 6% no Uruguai",
+          "tipo": "numero",
+          "titulo": "Selic contra juros do Uruguai"
+        },
+        {
+          "frase": "E juro alto pesa no financiamento,",
+          "itens": [
+            {
+              "s": "Casa e carro ficam mais caros",
+              "t": "Financiamento"
+            },
+            {
+              "s": "Parcelas e rotativo encarecem",
+              "t": "Cartão"
+            },
+            {
+              "s": "Compra parcelada custa mais",
+              "t": "Crediário"
+            }
+          ],
+          "rotulo": "NO BOLSO",
+          "tipo": "lista",
+          "titulo": "Onde o juro alto pesa"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Brasil",
+              "valor": "5,22%"
+            },
+            {
+              "legenda": "Uruguai",
+              "valor": "4,9%"
+            },
+            {
+              "legenda": "Meta do Uruguai",
+              "valor": "4,5%"
+            }
+          ],
+          "frase": "Para o fim de 2026, o",
+          "rotulo": "FIM DE 2026",
+          "sub": "Focus (Brasil) e BCU (Uruguai)",
+          "tipo": "cartoes",
+          "titulo": "Inflação esperada"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "4,82%",
+          "realce": "40 meses",
+          "rotulo": "URUGUAI · ECONOMIA",
+          "sub": "Inflação em 12 meses até outubro de 2026",
+          "tipo": "capa",
+          "titulo": "Uruguai: 40 meses com a inflação dentro da faixa"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Inflação no mês",
+              "valor": "0,59%"
+            },
+            {
+              "legenda": "Em 12 meses",
+              "valor": "4,82%"
+            },
+            {
+              "legenda": "Faixa do Banco Central",
+              "valor": "3% a 6%"
+            }
+          ],
+          "rotulo": "OS NÚMEROS",
+          "sub": "Fonte: Banco Central do Uruguai, 06/11/2026",
+          "tipo": "cartoes",
+          "titulo": "A inflação do Uruguai em outubro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "4,82%",
+              "valor": 4.82
+            },
+            {
+              "nome": "Brasil",
+              "texto": "4,58%",
+              "valor": 4.58
+            }
+          ],
+          "rotulo": "INFLAÇÃO EM 12 MESES",
+          "sub": "Uruguai até outubro, Brasil até setembro de 2026",
+          "tipo": "barras",
+          "titulo": "Inflação parecida nos dois países"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "6%",
+              "valor": 6
+            },
+            {
+              "nome": "Brasil",
+              "texto": "13,75%",
+              "valor": 13.75
+            }
+          ],
+          "rotulo": "JUROS BÁSICOS",
+          "sub": "Taxa básica ao ano. Selic mantida em 04/11/2026",
+          "tipo": "barras",
+          "titulo": "A diferença está nos juros"
+        },
+        {
+          "itens": [
+            {
+              "s": "Projeção do mercado no Boletim Focus",
+              "t": "Brasil: 5,22%"
+            },
+            {
+              "s": "Projeção do Banco Central do Uruguai",
+              "t": "Uruguai: 4,9%"
+            },
+            {
+              "s": "Encarece financiamento, cartão e crediário",
+              "t": "Juro alto pesa no bolso"
+            }
+          ],
+          "rotulo": "FIM DE 2026",
+          "tipo": "lista",
+          "titulo": "O que se espera até dezembro"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "40 meses",
+          "realce": "juros de 6%",
+          "rotulo": "URUGUAI · ECONOMIA",
+          "sub": "Inflação dentro da faixa de 3% a 6%",
+          "tipo": "capa",
+          "titulo": "40 meses de inflação na faixa e juros de 6%"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "6%",
+              "valor": 6
+            },
+            {
+              "nome": "Brasil",
+              "texto": "13,75%",
+              "valor": 13.75
+            }
+          ],
+          "rotulo": "JUROS BÁSICOS",
+          "sub": "Taxa básica ao ano, novembro de 2026",
+          "tipo": "barras",
+          "titulo": "Juros: Uruguai x Brasil"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Uruguai em 12 meses",
+              "valor": "4,82%"
+            },
+            {
+              "legenda": "Brasil em 12 meses",
+              "valor": "4,58%"
+            },
+            {
+              "legenda": "Brasil esperado em 2026",
+              "valor": "5,22%"
+            }
+          ],
+          "rotulo": "INFLAÇÃO",
+          "sub": "12 meses e projeção para o fim de 2026",
+          "tipo": "cartoes",
+          "titulo": "Inflação parecida, juros diferentes"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "pt-20261106-salario-medio",
+    "pais": "PT",
+    "titulo": "Salário médio em Portugal sobe 4,8% e chega a € 26.202 por ano, cerca de 3,5 vezes a renda média no Brasil",
+    "legenda_ig": "🇵🇹 O salário em Portugal subiu mais que a média da Europa.\n\n📈 Salário médio anual (tempo integral): +4,8% em 2025, para € 26.202\n🇪🇺 Média da União Europeia: +4,3%, para € 41.464\n💶 Em reais (euro a R$ 6,13): cerca de R$ 160 mil por ano, ou R$ 13,4 mil por mês\n🇧🇷 No Brasil: renda média de R$ 3.790 por mês (IBGE, trimestre até set/2026)\n⚖️ Diferença: cerca de 3,5 vezes\n🇮🇪 E Portugal ainda é só o 18º da UE. Na Irlanda, a média é de € 64,4 mil por ano\n\n📌 Fontes: Eurostat via Jornal Económico (06/11/2026), IBGE, Banco Central (PTAX 06/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#portugal #moraremportugal #morarfora #salario #europa #chegadebrasil",
+    "post_x": "🇵🇹 Salário médio em Portugal subiu 4,8% em 2025: € 26.202 por ano (Eurostat).\n\n💶 Cerca de R$ 13,4 mil por mês\n🇧🇷 Renda média no Brasil: R$ 3.790\n🇪🇺 E Portugal ainda é só o 18º da UE.\n\nSiga para mais 👇",
+    "nota": "Fonte: Jornal Económico (dados Eurostat), 06/11/2026; IBGE PNAD Contínua (trimestre até set/2026); PTAX euro 06/11/2026 (R$ 6,13)",
+    "fonte": "Jornal Económico (dados Eurostat)",
+    "url": "https://jornaleconomico.sapo.pt/noticias/salario-medio-anual-subiu-para-41-464-euros-na-ue-e-26-202-em-portugal-em-2025/",
+    "criada": "2026-11-06T21:38:47Z",
+    "visual": {
+      "capa": {
+        "realce": "subiu mais",
+        "rotulo": "PORTUGAL · SALÁRIO",
+        "selo": "€ 26.202 por ano: +4,8%",
+        "titulo": "O salário em Portugal subiu mais que a Europa"
+      },
+      "cenas": [
+        {
+          "frase": "Portugal acaba de receber uma notícia",
+          "numero": "€ 26.202",
+          "realce": "subiu mais",
+          "rotulo": "PORTUGAL · SALÁRIO",
+          "sub": "Salário médio anual em 2025, tempo integral (Eurostat)",
+          "tipo": "capa",
+          "titulo": "O salário em Portugal subiu mais que a média da Europa"
+        },
+        {
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "frase": "O salário médio de quem trabalha",
+          "numero": "+4,8%",
+          "rotulo": "ALTA EM 2025",
+          "sub": "Na média da União Europeia, a alta foi de 4,3%",
+          "tipo": "numero",
+          "titulo": "Salário médio em Portugal"
+        },
+        {
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "frase": "Chegou a vinte e seis mil,",
+          "numero": "€ 26.202",
+          "rotulo": "POR ANO",
+          "sub": "Em 2025, segundo o Eurostat. Em 2024 era € 24.984",
+          "tipo": "numero",
+          "titulo": "Salário médio em tempo integral"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Portugal",
+              "valor": "+4,8%"
+            },
+            {
+              "legenda": "Média da UE",
+              "valor": "+4,3%"
+            },
+            {
+              "legenda": "Média em Portugal",
+              "valor": "€ 26.202"
+            }
+          ],
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "frase": "É uma alta maior que a",
+          "rotulo": "ALTA EM 2025",
+          "sub": "Salário médio anual, tempo integral, de 2024 para 2025",
+          "tipo": "cartoes",
+          "titulo": "Portugal cresceu acima da Europa"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Por ano",
+              "valor": "R$ 160 mil"
+            },
+            {
+              "legenda": "Por mês",
+              "valor": "R$ 13,4 mil"
+            },
+            {
+              "legenda": "Cotação do euro",
+              "valor": "R$ 6,13"
+            }
+          ],
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "frase": "Em reais, pelo euro de hoje,",
+          "rotulo": "EM REAIS",
+          "sub": "Euro a R$ 6,13 (PTAX de 06/11/2026)",
+          "tipo": "cartoes",
+          "titulo": "O salário português convertido"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 13,4 mil",
+              "valor": 13385
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "frase": "No Brasil, a renda média do",
+          "rotulo": "RENDA POR MÊS EM REAIS",
+          "sub": "Portugal: média anual ÷ 12, euro a R$ 6,13. Brasil: renda média (IBGE, até set/2026)",
+          "tipo": "barras",
+          "titulo": "Portugal x Brasil"
+        },
+        {
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "frase": "Ou seja, o salário médio português",
+          "numero": "3,5x",
+          "rotulo": "A DIFERENÇA",
+          "sub": "Cerca de R$ 160 mil por ano em Portugal x R$ 45,5 mil no Brasil",
+          "tipo": "numero",
+          "titulo": "Quanto o salário português rende a mais"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Irlanda",
+              "texto": "€ 64,4 mil",
+              "valor": 64400
+            },
+            {
+              "nome": "Média UE",
+              "texto": "€ 41,5 mil",
+              "valor": 41464
+            },
+            {
+              "nome": "Portugal",
+              "texto": "€ 26,2 mil",
+              "valor": 26202
+            }
+          ],
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "frase": "E Portugal ainda está só em",
+          "rotulo": "RANKING DA UE",
+          "sub": "Salário médio anual em 2025, tempo integral, em euros",
+          "tipo": "barras",
+          "titulo": "E Portugal ainda é só o 18º"
+        },
+        {
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "frase": "Claro, lá a vida também custa",
+          "rotulo": "PARA PENSAR",
+          "sub": "Mas o salário em euro está subindo mais rápido que a média europeia.",
+          "tipo": "texto",
+          "titulo": "A vida lá também custa em euro"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PARA PENSAR",
+          "sub": "Talvez a pergunta não seja se dá para viver melhor.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "€ 26.202",
+          "realce": "subiu mais",
+          "rotulo": "PORTUGAL · SALÁRIO",
+          "sub": "Salário médio anual em 2025, tempo integral (Eurostat)",
+          "tipo": "capa",
+          "titulo": "O salário em Portugal subiu mais que a média da Europa"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Portugal",
+              "valor": "+4,8%"
+            },
+            {
+              "legenda": "Média da UE",
+              "valor": "+4,3%"
+            },
+            {
+              "legenda": "Média em Portugal",
+              "valor": "€ 26.202"
+            }
+          ],
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "rotulo": "ALTA EM 2025",
+          "sub": "Salário médio anual, tempo integral, de 2024 para 2025",
+          "tipo": "cartoes",
+          "titulo": "Portugal cresceu acima da Europa"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 13,4 mil",
+              "valor": 13385
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "rotulo": "RENDA POR MÊS EM REAIS",
+          "sub": "Portugal: média anual ÷ 12, euro a R$ 6,13. Brasil: renda média (IBGE, até set/2026)",
+          "tipo": "barras",
+          "titulo": "Portugal x Brasil"
+        },
+        {
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "numero": "3,5x",
+          "rotulo": "A DIFERENÇA",
+          "sub": "Cerca de R$ 160 mil por ano em Portugal x R$ 45,5 mil no Brasil",
+          "tipo": "numero",
+          "titulo": "Quanto o salário português rende a mais"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Irlanda",
+              "texto": "€ 64,4 mil",
+              "valor": 64400
+            },
+            {
+              "nome": "Média UE",
+              "texto": "€ 41,5 mil",
+              "valor": 41464
+            },
+            {
+              "nome": "Portugal",
+              "texto": "€ 26,2 mil",
+              "valor": 26202
+            }
+          ],
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "rotulo": "RANKING DA UE",
+          "sub": "Salário médio anual em 2025, tempo integral, em euros",
+          "tipo": "barras",
+          "titulo": "E Portugal ainda é só o 18º"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "€ 26.202",
+          "realce": "subiu mais",
+          "rotulo": "PORTUGAL · SALÁRIO",
+          "sub": "Salário médio anual em 2025, tempo integral (Eurostat)",
+          "tipo": "capa",
+          "titulo": "O salário em Portugal subiu mais que a média da Europa"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 13,4 mil",
+              "valor": 13385
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Fontes: Eurostat, IBGE e PTAX/BC",
+          "rotulo": "RENDA POR MÊS EM REAIS",
+          "sub": "Portugal: média anual ÷ 12, euro a R$ 6,13. Brasil: renda média (IBGE, até set/2026)",
+          "tipo": "barras",
+          "titulo": "Portugal x Brasil"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Irlanda",
+              "texto": "€ 64,4 mil",
+              "valor": 64400
+            },
+            {
+              "nome": "Média UE",
+              "texto": "€ 41,5 mil",
+              "valor": 41464
+            },
+            {
+              "nome": "Portugal",
+              "texto": "€ 26,2 mil",
+              "valor": 26202
+            }
+          ],
+          "fonte": "Fonte: Eurostat via Jornal Económico (06/11/2026)",
+          "rotulo": "RANKING DA UE",
+          "sub": "Salário médio anual em 2025, tempo integral, em euros",
+          "tipo": "barras",
+          "titulo": "E Portugal ainda é só o 18º"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ae-20261106-gasolina",
+    "pais": "AE",
+    "titulo": "Emirados baixam a gasolina em novembro: litro sai a R$ 6,05, contra R$ 6,49 no Brasil",
+    "legenda_ig": "🇦🇪 Nos Emirados, a gasolina ficou mais barata em novembro.\n\n⛽ Special 95: de AED 4,28 para AED 4,04 o litro (-5,6%)\n💵 Em reais: cerca de R$ 6,05 o litro (dólar a R$ 5,50)\n🇧🇷 No Brasil: média de R$ 6,49 o litro (ANP, 18 a 24/10/2026)\n🚗 Tanque de 50 litros: cerca de R$ 302 lá x R$ 324 aqui\n📉 E-Plus 91 sai por cerca de R$ 5,95\n🧾 E nos Emirados não há imposto de renda sobre o salário\n\n📌 Fontes: Time Out Dubai (31/10/2026), ANP, Banco Central (PTAX 06/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#emirados #dubai #morarfora #gasolina #custodevida #chegadebrasil",
+    "post_x": "🇦🇪 Gasolina caiu 5,6% nos Emirados em novembro.\n\n⛽ Litro: cerca de R$ 6,05 lá x R$ 6,49 no Brasil (ANP)\n🚗 Tanque de 50 L: R$ 302 x R$ 324\n🧾 E lá não tem imposto de renda sobre salário.\n\nSiga para mais 👇",
+    "nota": "Fonte: Time Out Dubai, 31/10/2026; ANP (média 18 a 24/10/2026); PTAX 06/11/2026 (R$ 5,5013)",
+    "fonte": "Time Out Dubai",
+    "url": "https://timeoutdubai.com/news/uae-petrol-prices-november-2026-revealed",
+    "criada": "2026-11-06T21:38:47Z",
+    "visual": {
+      "capa": {
+        "realce": "caiu nos Emirados",
+        "rotulo": "EMIRADOS · GASOLINA",
+        "selo": "Litro: R$ 6,05 x R$ 6,49",
+        "titulo": "A gasolina caiu nos Emirados. E no Brasil?"
+      },
+      "cenas": [
+        {
+          "frase": "Nos Emirados Árabes, a gasolina ficou",
+          "numero": "R$ 6,05",
+          "realce": "caiu nos Emirados",
+          "rotulo": "EMIRADOS · GASOLINA",
+          "sub": "Litro da Special 95 em novembro, convertido em reais",
+          "tipo": "capa",
+          "titulo": "A gasolina caiu nos Emirados. E no Brasil?"
+        },
+        {
+          "fonte": "Fonte: Time Out Dubai (31/10/2026)",
+          "frase": "O litro da gasolina comum caiu",
+          "numero": "-5,6%",
+          "rotulo": "SPECIAL 95",
+          "sub": "De AED 4,28 para AED 4,04 o litro",
+          "tipo": "numero",
+          "titulo": "Gasolina mais barata em novembro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Outubro",
+              "texto": "AED 4,28",
+              "valor": 4.28
+            },
+            {
+              "nome": "Novembro",
+              "texto": "AED 4,04",
+              "valor": 4.04
+            }
+          ],
+          "fonte": "Fonte: Time Out Dubai (31/10/2026)",
+          "frase": "Passou de quatro vírgula vinte e",
+          "rotulo": "EM DIRHAMS",
+          "sub": "Preço do litro da Special 95",
+          "tipo": "barras",
+          "titulo": "Outubro x novembro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Emirados (Special 95)",
+              "texto": "R$ 6,05",
+              "valor": 6.05
+            },
+            {
+              "nome": "Brasil (gasolina comum)",
+              "texto": "R$ 6,49",
+              "valor": 6.49
+            }
+          ],
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "frase": "Convertendo pelo dólar de hoje, dá",
+          "rotulo": "LITRO DA GASOLINA",
+          "sub": "Emirados em novembro x média do Brasil (ANP, 18 a 24/10)",
+          "tipo": "barras",
+          "titulo": "Quanto custa o litro hoje"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Emirados",
+              "valor": "R$ 302"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "R$ 324"
+            },
+            {
+              "legenda": "IR sobre salário nos Emirados",
+              "valor": "0%"
+            }
+          ],
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "frase": "Encher um tanque de cinquenta litros",
+          "rotulo": "TANQUE DE 50 LITROS",
+          "sub": "Special 95 nos Emirados x gasolina comum no Brasil",
+          "tipo": "cartoes",
+          "titulo": "Encher o tanque lá e aqui"
+        },
+        {
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "frase": "E a gasolina mais simples de",
+          "itens": [
+            {
+              "s": "AED 4,16, cerca de R$ 6,23 o litro",
+              "t": "Super 98"
+            },
+            {
+              "s": "AED 4,04, cerca de R$ 6,05 o litro",
+              "t": "Special 95"
+            },
+            {
+              "s": "AED 3,97, cerca de R$ 5,95 o litro",
+              "t": "E-Plus 91"
+            }
+          ],
+          "rotulo": "PREÇOS EM REAIS",
+          "sub": "Convertido com dólar a R$ 5,50 (PTAX de 06/11/2026)",
+          "tipo": "lista",
+          "titulo": "O litro de cada gasolina lá"
+        },
+        {
+          "fonte": "Fonte: Time Out Dubai (31/10/2026)",
+          "frase": "Lá o preço é revisto todo",
+          "rotulo": "COMO FUNCIONA LÁ",
+          "sub": "Nos Emirados, um comitê ajusta o preço mensalmente conforme o petróleo. Quando ele cai, a bomba cai junto.",
+          "tipo": "texto",
+          "titulo": "Preço revisto todo mês"
+        },
+        {
+          "fonte": "Fonte: governo dos Emirados (u.ae)",
+          "frase": "E tem um detalhe que pesa",
+          "numero": "0%",
+          "rotulo": "SALÁRIO",
+          "sub": "Nos Emirados, o que você ganha é o que leva para casa",
+          "tipo": "numero",
+          "titulo": "Imposto de renda sobre o salário"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PARA PENSAR",
+          "sub": "Talvez a pergunta não seja se dá para viver melhor.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 6,05",
+          "realce": "caiu nos Emirados",
+          "rotulo": "EMIRADOS · GASOLINA",
+          "sub": "Litro da Special 95 em novembro, convertido em reais",
+          "tipo": "capa",
+          "titulo": "A gasolina caiu nos Emirados. E no Brasil?"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Emirados (Special 95)",
+              "texto": "R$ 6,05",
+              "valor": 6.05
+            },
+            {
+              "nome": "Brasil (gasolina comum)",
+              "texto": "R$ 6,49",
+              "valor": 6.49
+            }
+          ],
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "rotulo": "LITRO DA GASOLINA",
+          "sub": "Emirados em novembro x média do Brasil (ANP, 18 a 24/10)",
+          "tipo": "barras",
+          "titulo": "Quanto custa o litro hoje"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Special 95",
+              "valor": "-5,6%"
+            },
+            {
+              "legenda": "Super 98",
+              "valor": "-5,5%"
+            },
+            {
+              "legenda": "Diesel",
+              "valor": "-1%"
+            }
+          ],
+          "fonte": "Fonte: Time Out Dubai (31/10/2026)",
+          "rotulo": "NOVEMBRO NOS EMIRADOS",
+          "sub": "Corte em relação a outubro, definido pelo comitê de preços",
+          "tipo": "cartoes",
+          "titulo": "Quanto cada combustível caiu"
+        },
+        {
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "itens": [
+            {
+              "s": "AED 4,16, cerca de R$ 6,23 o litro",
+              "t": "Super 98"
+            },
+            {
+              "s": "AED 4,04, cerca de R$ 6,05 o litro",
+              "t": "Special 95"
+            },
+            {
+              "s": "AED 3,97, cerca de R$ 5,95 o litro",
+              "t": "E-Plus 91"
+            }
+          ],
+          "rotulo": "PREÇOS EM REAIS",
+          "sub": "Convertido com dólar a R$ 5,50 (PTAX de 06/11/2026)",
+          "tipo": "lista",
+          "titulo": "O litro de cada gasolina lá"
+        },
+        {
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "itens": [
+            {
+              "s": "Acompanha o petróleo: quando ele cai, a bomba cai junto",
+              "t": "Preço revisto todo mês"
+            },
+            {
+              "s": "Nos Emirados, o que você ganha é o que leva para casa",
+              "t": "Sem imposto de renda no salário"
+            },
+            {
+              "s": "Cerca de R$ 302 lá x R$ 324 no Brasil",
+              "t": "Tanque de 50 litros"
+            }
+          ],
+          "rotulo": "ALÉM DA BOMBA",
+          "sub": "Comparação direta com o Brasil",
+          "tipo": "lista",
+          "titulo": "O que pesa no bolso por lá"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 6,05",
+          "realce": "caiu nos Emirados",
+          "rotulo": "EMIRADOS · GASOLINA",
+          "sub": "Litro da Special 95 em novembro, convertido em reais",
+          "tipo": "capa",
+          "titulo": "A gasolina caiu nos Emirados. E no Brasil?"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Emirados (Special 95)",
+              "texto": "R$ 6,05",
+              "valor": 6.05
+            },
+            {
+              "nome": "Brasil (gasolina comum)",
+              "texto": "R$ 6,49",
+              "valor": 6.49
+            }
+          ],
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "rotulo": "LITRO DA GASOLINA",
+          "sub": "Emirados em novembro x média do Brasil (ANP, 18 a 24/10)",
+          "tipo": "barras",
+          "titulo": "Quanto custa o litro hoje"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Emirados",
+              "valor": "R$ 302"
+            },
+            {
+              "legenda": "Brasil",
+              "valor": "R$ 324"
+            },
+            {
+              "legenda": "IR sobre salário nos Emirados",
+              "valor": "0%"
+            }
+          ],
+          "fonte": "Fontes: Time Out Dubai, ANP e PTAX/BC",
+          "rotulo": "TANQUE DE 50 LITROS",
+          "sub": "Special 95 nos Emirados x gasolina comum no Brasil",
+          "tipo": "cartoes",
+          "titulo": "Encher o tanque lá e aqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare os Emirados com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Os Emirados são para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "au-20261031-lista-falta",
+    "pais": "AU",
+    "titulo": "Austrália tem falta de profissionais em 27% das profissões; ofícios lideram",
+    "legenda_ig": "🇦🇺 A Austrália divulgou a lista de profissões em falta de 2026.\n📊 27% das profissões avaliadas estão em falta no país.\n🔧 Quase metade das profissões técnicas e de ofícios está em falta. Entre as de nível superior, 37%.\n🪚 Carpinteiro, mecânico de diesel, técnico agrícola e técnico de manutenção de aviões estão na lista todos os anos desde 2021.\n💰 Salário mínimo na Austrália desde julho/2026: A$ 26,44 por hora (A$ 1.004,90 por semana).\n🇧🇷 No Brasil: R$ 1.621 por mês.\n📰 Fontes: Jobs and Skills Australia (via Xinhua, 21/10/2026) e Fair Work Commission.\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n#australia #moraraustralia #trabalharfora #morarfora #intercambio #brasileirosnaaustralia",
+    "post_x": "🇦🇺 A Austrália tem falta de profissionais em 27% das profissões.\n\nQuase metade dos técnicos e ofícios está em falta. Carpinteiro e mecânico de diesel, todo ano desde 2021.\n\nMínimo: A$ 26,44/hora. No Brasil: R$ 1.621/mês.\n\nSiga para mais 👇",
+    "nota": "Fonte: Xinhua / Jobs and Skills Australia, 21/10/2026; salário mínimo: Fair Work Commission (1/7/2026).",
+    "fonte": "Xinhua (dados da Jobs and Skills Australia)",
+    "url": "https://english.news.cn/asiapacific/20261021/ad22d8e4d1af47068c5be484d6d8a6f0/c.html",
+    "criada": "2026-11-06T17:40:00Z",
+    "visual": {
+      "capa": {
+        "realce": "27% das profissões",
+        "rotulo": "AUSTRÁLIA · TRABALHO",
+        "selo": "Mínimo: A$ 26,44 por hora",
+        "titulo": "A Austrália precisa de gente em 27% das profissões"
+      },
+      "cenas": [
+        {
+          "frase": "A Austrália divulgou a lista de",
+          "numero": "27%",
+          "realce": "27% das profissões",
+          "rotulo": "AUSTRÁLIA · TRABALHO",
+          "sub": "Lista de profissões em falta de 2026",
+          "tipo": "capa",
+          "titulo": "A Austrália precisa de profissionais em 27% das profissões"
+        },
+        {
+          "fonte": "Jobs and Skills Australia",
+          "frase": "Vinte e sete por cento das",
+          "numero": "27%",
+          "rotulo": "LISTA 2026",
+          "sub": "Das profissões avaliadas; eram 29% em 2025",
+          "tipo": "numero",
+          "titulo": "Profissões em falta no país"
+        },
+        {
+          "frase": "Mas não é só médico ou",
+          "rotulo": "NÃO É SÓ DIPLOMA",
+          "sub": "90% das profissões em falta são de profissionais, técnicos e trabalhadores de ofícios",
+          "tipo": "texto",
+          "titulo": "A falta não é só de médico ou engenheiro"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "técnicos e ofícios",
+              "valor": "~50%"
+            },
+            {
+              "legenda": "nível superior",
+              "valor": "37%"
+            },
+            {
+              "legenda": "média geral",
+              "valor": "27%"
+            }
+          ],
+          "fonte": "Jobs and Skills Australia",
+          "frase": "Quase metade das profissões técnicas e",
+          "rotulo": "ONDE FALTA GENTE",
+          "sub": "Percentual de profissões em falta por grupo",
+          "tipo": "cartoes",
+          "titulo": "Ofícios lideram a falta"
+        },
+        {
+          "fonte": "Jobs and Skills Australia",
+          "frase": "Carpinteiro, mecânico de diesel, técnico agrícola",
+          "itens": [
+            {
+              "s": "Em falta todos os anos desde 2021",
+              "t": "Carpinteiro"
+            },
+            {
+              "s": "Em falta todos os anos desde 2021",
+              "t": "Mecânico de diesel"
+            },
+            {
+              "s": "Em falta todos os anos desde 2021",
+              "t": "Técnico agrícola"
+            }
+          ],
+          "rotulo": "EM FALTA DESDE 2021",
+          "tipo": "lista",
+          "titulo": "Quatro profissões sempre na lista"
+        },
+        {
+          "fonte": "Jobs and Skills Australia",
+          "frase": "Essas quatro estão em falta todos",
+          "numero": "5 anos",
+          "rotulo": "TÉCNICO DE AVIÕES",
+          "sub": "Seguidos na lista de falta, de 2021 a 2026",
+          "tipo": "numero",
+          "titulo": "Manutenção de aeronaves também"
+        },
+        {
+          "fonte": "Fair Work Commission",
+          "frase": "Desde julho de 2026, o salário",
+          "numero": "A$ 26,44",
+          "rotulo": "SALÁRIO MÍNIMO",
+          "sub": "Desde 1º de julho de 2026 (alta de 4,75%)",
+          "tipo": "numero",
+          "titulo": "Mínimo australiano por hora"
+        },
+        {
+          "fonte": "Fair Work Commission",
+          "frase": "São mais de mil dólares australianos",
+          "numero": "A$ 1.004,90",
+          "rotulo": "POR SEMANA",
+          "sub": "Salário mínimo semanal na Austrália",
+          "tipo": "numero",
+          "titulo": "Mais de mil por semana"
+        },
+        {
+          "fonte": "DIEESE",
+          "frase": "No Brasil, o salário mínimo é",
+          "numero": "R$ 1.621",
+          "rotulo": "E NO BRASIL?",
+          "sub": "Por mês, em 2026",
+          "tipo": "numero",
+          "titulo": "Salário mínimo brasileiro"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Austrália com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Austrália é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "27%",
+          "realce": "27% das profissões",
+          "rotulo": "AUSTRÁLIA · TRABALHO",
+          "sub": "Lista oficial de profissões em falta de 2026",
+          "tipo": "capa",
+          "titulo": "A Austrália tem falta de profissionais em 27% das profissões"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "técnicos e ofícios",
+              "valor": "~50%"
+            },
+            {
+              "legenda": "nível superior",
+              "valor": "37%"
+            },
+            {
+              "legenda": "média geral",
+              "valor": "27%"
+            }
+          ],
+          "fonte": "Jobs and Skills Australia",
+          "rotulo": "ONDE FALTA GENTE",
+          "sub": "Percentual de profissões em falta por grupo em 2026",
+          "tipo": "cartoes",
+          "titulo": "Os ofícios lideram a falta"
+        },
+        {
+          "fonte": "Jobs and Skills Australia",
+          "itens": [
+            {
+              "s": "Em falta em todas as listas de 2021 a 2026",
+              "t": "Carpinteiro"
+            },
+            {
+              "s": "Em falta em todas as listas de 2021 a 2026",
+              "t": "Mecânico de diesel"
+            },
+            {
+              "s": "Em falta em todas as listas de 2021 a 2026",
+              "t": "Técnico agrícola"
+            },
+            {
+              "s": "Em falta em todas as listas de 2021 a 2026",
+              "t": "Técnico de manutenção de aviões"
+            }
+          ],
+          "rotulo": "EM FALTA DESDE 2021",
+          "tipo": "lista",
+          "titulo": "Sempre na lista, todo ano"
+        },
+        {
+          "barras": [
+            {
+              "nome": "2023",
+              "texto": "36% (recorde)",
+              "valor": 36
+            },
+            {
+              "nome": "2025",
+              "texto": "29%",
+              "valor": 29
+            },
+            {
+              "nome": "2026",
+              "texto": "27%",
+              "valor": 27
+            }
+          ],
+          "fonte": "Jobs and Skills Australia",
+          "rotulo": "EVOLUÇÃO DA FALTA",
+          "sub": "Percentual de profissões avaliadas em falta",
+          "tipo": "barras",
+          "titulo": "Caiu, mas segue alta"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "por hora na Austrália",
+              "valor": "A$ 26,44"
+            },
+            {
+              "legenda": "por semana na Austrália",
+              "valor": "A$ 1.004,90"
+            },
+            {
+              "legenda": "por mês no Brasil",
+              "valor": "R$ 1.621"
+            }
+          ],
+          "fonte": "Fair Work Commission / DIEESE",
+          "rotulo": "SALÁRIO MÍNIMO",
+          "sub": "Mínimo australiano desde 1/7/2026 e mínimo brasileiro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Austrália x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Austrália com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Austrália é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "27%",
+          "realce": "27% das profissões",
+          "rotulo": "AUSTRÁLIA · TRABALHO",
+          "sub": "Lista oficial de profissões em falta de 2026",
+          "tipo": "capa",
+          "titulo": "A Austrália tem falta de profissionais em 27% das profissões"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "técnicos e ofícios",
+              "valor": "~50%"
+            },
+            {
+              "legenda": "nível superior",
+              "valor": "37%"
+            },
+            {
+              "legenda": "média geral",
+              "valor": "27%"
+            }
+          ],
+          "fonte": "Jobs and Skills Australia",
+          "rotulo": "ONDE FALTA GENTE",
+          "sub": "Percentual de profissões em falta por grupo em 2026",
+          "tipo": "cartoes",
+          "titulo": "Os ofícios lideram a falta"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "por hora na Austrália",
+              "valor": "A$ 26,44"
+            },
+            {
+              "legenda": "por semana na Austrália",
+              "valor": "A$ 1.004,90"
+            },
+            {
+              "legenda": "por mês no Brasil",
+              "valor": "R$ 1.621"
+            }
+          ],
+          "fonte": "Fair Work Commission / DIEESE",
+          "rotulo": "SALÁRIO MÍNIMO",
+          "sub": "Mínimo australiano desde 1/7/2026 e mínimo brasileiro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Austrália x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Austrália com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Austrália é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261031-divida",
+    "pais": "BR",
+    "titulo": "Juros da dívida pública custam R$ 1,2 trilhão em 12 meses; dívida chega a 82,9% do PIB",
+    "legenda_ig": "🏦 O Banco Central divulgou os números da dívida pública (29/10/2026).\n📊 Dívida bruta: 82,9% do PIB em setembro, R$ 11,1 trilhões.\n📈 Só em 2026, alta de 4,3 pontos do PIB.\n💸 Juros da dívida em 12 meses: R$ 1,205 trilhão (8,99% do PIB). Um ano antes: R$ 984,8 bilhões.\n👤 Dividindo pela população (213,4 milhões, IBGE), são cerca de R$ 5,6 mil por brasileiro.\n🌎 Pelo FMI (2025): Brasil 93,3% do PIB, Chile 41,8%, Paraguai 38,1%.\n📰 Fontes: Banco Central (via CNN Brasil), FMI e IBGE.\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n#economia #dividapublica #juros #brasil #morarfora #chegadebrasil",
+    "post_x": "🏦 Juros da dívida pública: R$ 1,205 trilhão em 12 meses (eram R$ 984,8 bi).\n\nDívida bruta: 82,9% do PIB.\n\nPelo FMI: Brasil 93,3%, Chile 41,8%, Paraguai 38,1%.\n\nSiga para mais 👇",
+    "nota": "Fonte: CNN Brasil (dados do Banco Central), 29/10/2026; comparação: FMI 2025 (via Portal Tela); população: IBGE 2025.",
+    "fonte": "CNN Brasil (dados do Banco Central)",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/divida-bruta-sobe-43-pontos-do-pib-em-2026-e-chega-a-829-diz-bc/",
+    "criada": "2026-11-06T17:40:00Z",
+    "visual": {
+      "capa": {
+        "realce": "R$ 1,2 trilhão",
+        "rotulo": "BRASIL · DÍVIDA PÚBLICA",
+        "selo": "Dívida: 82,9% do PIB",
+        "titulo": "Juros da dívida: R$ 1,2 trilhão em 12 meses"
+      },
+      "cenas": [
+        {
+          "frase": "O Banco Central divulgou os números",
+          "numero": "R$ 1,2 tri",
+          "realce": "R$ 1,2 trilhão",
+          "rotulo": "BRASIL · DÍVIDA PÚBLICA",
+          "sub": "Juros pagos de out/2025 a set/2026",
+          "tipo": "capa",
+          "titulo": "Juros da dívida custam R$ 1,2 trilhão em 12 meses"
+        },
+        {
+          "fonte": "Banco Central",
+          "frase": "A dívida bruta chegou a oitenta",
+          "numero": "82,9%",
+          "rotulo": "DÍVIDA BRUTA",
+          "sub": "Do PIB, o equivalente a R$ 11,1 trilhões",
+          "tipo": "numero",
+          "titulo": "Dívida bruta em setembro"
+        },
+        {
+          "fonte": "Banco Central",
+          "frase": "Só em 2026, ela subiu quatro",
+          "numero": "+4,3 pontos",
+          "rotulo": "SÓ EM 2026",
+          "sub": "Do PIB, de janeiro a setembro de 2026",
+          "tipo": "numero",
+          "titulo": "Alta em nove meses"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Até set/2025",
+              "texto": "R$ 984,8 bi",
+              "valor": 984.8
+            },
+            {
+              "nome": "Até set/2026",
+              "texto": "R$ 1,205 tri",
+              "valor": 1205
+            }
+          ],
+          "fonte": "Banco Central",
+          "frase": "Em doze meses, foram um trilhão",
+          "rotulo": "JUROS EM 12 MESES",
+          "sub": "Juros nominais da dívida em 12 meses",
+          "tipo": "barras",
+          "titulo": "A conta dos juros subiu"
+        },
+        {
+          "fonte": "Banco Central / IBGE",
+          "frase": "Dividindo pela população, dá cerca de",
+          "numero": "R$ 5,6 mil",
+          "rotulo": "POR BRASILEIRO",
+          "sub": "R$ 1,205 tri ÷ 213,4 milhões de habitantes (IBGE)",
+          "tipo": "numero",
+          "titulo": "Juros divididos pela população"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "93,3%",
+              "valor": 93.3
+            },
+            {
+              "nome": "Chile",
+              "texto": "41,8%",
+              "valor": 41.8
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "38,1%",
+              "valor": 38.1
+            }
+          ],
+          "fonte": "FMI",
+          "frase": "Pelos dados do FMI de 2025,",
+          "rotulo": "COMPARAÇÃO · FMI 2025",
+          "sub": "Critério do FMI, diferente do Banco Central",
+          "tipo": "barras",
+          "titulo": "Dívida bruta em % do PIB"
+        },
+        {
+          "fonte": "FMI",
+          "frase": "No Chile, é de quarenta e",
+          "numero": "41,8%",
+          "rotulo": "CHILE",
+          "sub": "Dívida do Chile em % do PIB; Brasil: 93,3% (FMI 2025)",
+          "tipo": "numero",
+          "titulo": "Menos da metade do Brasil"
+        },
+        {
+          "fonte": "FMI",
+          "frase": "No Paraguai, trinta e oito vírgula",
+          "numero": "38,1%",
+          "rotulo": "PARAGUAI",
+          "sub": "Dívida do Paraguai em % do PIB (FMI 2025)",
+          "tipo": "numero",
+          "titulo": "A menor das três"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PARA PENSAR",
+          "sub": "Juros de 8,99% do PIB em 12 meses, contra 7,86% um ano antes",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 1,205 tri",
+          "realce": "R$ 1,2 trilhão",
+          "rotulo": "BRASIL · DÍVIDA PÚBLICA",
+          "sub": "Juros nominais pagos em 12 meses até setembro de 2026",
+          "tipo": "capa",
+          "titulo": "Juros da dívida custam R$ 1,2 trilhão em 12 meses"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "do PIB",
+              "valor": "82,9%"
+            },
+            {
+              "legenda": "valor total",
+              "valor": "R$ 11,1 tri"
+            },
+            {
+              "legenda": "alta em 2026",
+              "valor": "+4,3 pts"
+            }
+          ],
+          "fonte": "Banco Central",
+          "rotulo": "A DÍVIDA EM SETEMBRO",
+          "sub": "Dívida bruta do governo geral, divulgada em 29/10/2026",
+          "tipo": "cartoes",
+          "titulo": "Os números do Banco Central"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Até set/2025",
+              "texto": "R$ 984,8 bi",
+              "valor": 984.8
+            },
+            {
+              "nome": "Até set/2026",
+              "texto": "R$ 1,205 tri",
+              "valor": 1205
+            }
+          ],
+          "fonte": "Banco Central",
+          "rotulo": "JUROS EM 12 MESES",
+          "sub": "De 7,86% para 8,99% do PIB",
+          "tipo": "barras",
+          "titulo": "A conta dos juros subiu 22%"
+        },
+        {
+          "fonte": "Banco Central / IBGE",
+          "numero": "R$ 5,6 mil",
+          "rotulo": "POR BRASILEIRO",
+          "sub": "R$ 1,205 trilhão ÷ 213,4 milhões de habitantes; déficit nominal de 9,51% do PIB",
+          "tipo": "numero",
+          "titulo": "Juros divididos pela população"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "93,3%",
+              "valor": 93.3
+            },
+            {
+              "nome": "Chile",
+              "texto": "41,8%",
+              "valor": 41.8
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "38,1%",
+              "valor": 38.1
+            }
+          ],
+          "fonte": "FMI",
+          "rotulo": "COMPARAÇÃO · FMI 2025",
+          "sub": "Critério do FMI, diferente do Banco Central",
+          "tipo": "barras",
+          "titulo": "Dívida bruta em % do PIB"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 1,205 tri",
+          "realce": "R$ 1,2 trilhão",
+          "rotulo": "BRASIL · DÍVIDA PÚBLICA",
+          "sub": "Juros nominais pagos em 12 meses até setembro de 2026",
+          "tipo": "capa",
+          "titulo": "Juros da dívida custam R$ 1,2 trilhão em 12 meses"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "do PIB",
+              "valor": "82,9%"
+            },
+            {
+              "legenda": "valor total",
+              "valor": "R$ 11,1 tri"
+            },
+            {
+              "legenda": "alta em 2026",
+              "valor": "+4,3 pts"
+            }
+          ],
+          "fonte": "Banco Central",
+          "rotulo": "A DÍVIDA EM SETEMBRO",
+          "sub": "Dívida bruta do governo geral, divulgada em 29/10/2026",
+          "tipo": "cartoes",
+          "titulo": "Os números do Banco Central"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "93,3%",
+              "valor": 93.3
+            },
+            {
+              "nome": "Chile",
+              "texto": "41,8%",
+              "valor": 41.8
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "38,1%",
+              "valor": 38.1
+            }
+          ],
+          "fonte": "FMI",
+          "rotulo": "COMPARAÇÃO · FMI 2025",
+          "sub": "Critério do FMI, diferente do Banco Central",
+          "tipo": "barras",
+          "titulo": "Dívida bruta em % do PIB"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "fixo-emirados",
     "pais": "AE",
     "titulo": "Emirados x Brasil: salário sem imposto de renda e a cidade mais segura do mundo",
