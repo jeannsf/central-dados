@@ -1,5 +1,294 @@
 [
   {
+    "noticia_id": "br-20261107-dolar-alimentos",
+    "pais": "BR",
+    "titulo": "Dólar a R$ 5,48 chega ao seu café da manhã: açúcar sobe há 15 semanas",
+    "legenda_ig": "☕ O dólar já chegou no seu café da manhã.\n📈 Dólar subiu 9,2% em uma semana e bateu R$ 5,486 em 03/11/2026, o maior nível desde dezembro de 2025.\n🍬 Açúcar: 15ª alta semanal seguida, a maior sequência desde 2020 (R$ 128,57 a saca de 50 kg).\n☕ Café robusta: +4,1% em menos de duas semanas.\n🍞 Trigo: +2,2% em outubro no RS.\n🍚 Arroz: maior média de outubro no RS desde fevereiro de 2025.\n🗣️ Para economista da FGV Ibre, quanto mais tempo o dólar ficar alto, maior a chance de repasse ao consumidor.\n🇨🇦 No Canadá, o salário médio é de C$ 37,89 por hora.\n🇵🇹 Em Portugal, € 26.202 por ano.\n💡 Quem ganha em moeda forte não vê o salário encolher quando o real cai.\n📌 Fonte: O Tempo / Cepea (04/11/2026), Statistics Canada e Eurostat.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#dolar #precodacomida #custodevida #morarfora #canada #portugal",
+    "post_x": "☕ Dólar a R$ 5,486, +9,2% em uma semana. Açúcar sobe há 15 semanas seguidas, café robusta +4,1%, trigo +2,2%. No Canadá, salário médio de C$ 37,89/h. Quem ganha em moeda forte não perde quando o real cai. Siga para mais 👇",
+    "nota": "Fonte: O Tempo (dados Cepea), 04/11/2026; Statistics Canada, 06/11/2026; Eurostat, 06/11/2026",
+    "fonte": "O Tempo",
+    "url": "https://otempo.com.br/economia/2026/11/4/acucar-cafe-e-trigo-podem-ficar-mais-caros-para-o-consumidor-devido-a-alta-dolar",
+    "criada": "2026-11-08T09:36:42Z",
+    "visual": {
+      "capa": {
+        "realce": "seu café da manhã",
+        "rotulo": "BRASIL · DÓLAR E COMIDA",
+        "selo": "Dólar: +9,2% em uma semana",
+        "titulo": "O dólar a R$ 5,48 já chegou no seu café da manhã"
+      },
+      "cenas": [
+        {
+          "fonte": "O Tempo",
+          "frase": "O dólar já chegou no seu",
+          "numero": "R$ 5,486",
+          "realce": "seu café da manhã",
+          "rotulo": "BRASIL · DÓLAR E COMIDA",
+          "sub": "Maior nível desde dezembro de 2025 (03/11/2026)",
+          "tipo": "capa",
+          "titulo": "O dólar a R$ 5,48 já chegou no seu café da manhã"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em uma semana",
+              "valor": "+9,2%"
+            },
+            {
+              "legenda": "em 03/11/2026",
+              "valor": "R$ 5,486"
+            },
+            {
+              "legenda": "só no dia 03/11",
+              "valor": "+0,7%"
+            }
+          ],
+          "fonte": "O Tempo (04/11/2026)",
+          "frase": "Em uma semana, ele subiu nove",
+          "rotulo": "DÓLAR EM 1 SEMANA",
+          "sub": "Cotação de 03/11/2026, a maior desde dezembro de 2025",
+          "tipo": "cartoes",
+          "titulo": "Dólar subiu 9,2% após a eleição"
+        },
+        {
+          "frase": "E isso não fica só no",
+          "rotulo": "NÃO É SÓ NA BOLSA",
+          "sub": "Trigo, café, açúcar e arroz têm preço ligado ao dólar e às exportações.",
+          "tipo": "texto",
+          "titulo": "O dólar alto vai para o mercado"
+        },
+        {
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "frase": "O açúcar subiu pela décima quinta",
+          "numero": "15ª",
+          "rotulo": "AÇÚCAR",
+          "sub": "Saca de 50 kg a R$ 128,57 em SP. Maior sequência de altas desde 2020.",
+          "tipo": "numero",
+          "titulo": "Açúcar sobe há 15 semanas seguidas"
+        },
+        {
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "frase": "O café robusta subiu quatro vírgula",
+          "numero": "+4,1%",
+          "rotulo": "CAFÉ",
+          "sub": "Saca de 60 kg de R$ 936,73 para R$ 975,32 (23/10 a 03/11)",
+          "tipo": "numero",
+          "titulo": "Café robusta em alta"
+        },
+        {
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "frase": "O trigo, base do pão e",
+          "itens": [
+            {
+              "s": "Trigo subiu 2,2% em outubro no RS, maior produtor",
+              "t": "Pão e macarrão"
+            },
+            {
+              "s": "Maior média de outubro no RS desde fevereiro de 2025",
+              "t": "Arroz"
+            },
+            {
+              "s": "Robusta a R$ 975 a saca, alta de 4,1%",
+              "t": "Café"
+            }
+          ],
+          "rotulo": "NO SEU PRATO",
+          "tipo": "lista",
+          "titulo": "Pão, macarrão e arroz"
+        },
+        {
+          "frase": "Para um economista da FGV, quanto",
+          "rotulo": "FGV IBRE",
+          "sub": "Economista da FGV: dólar acima do nível pré-eleição aumenta a chance de impacto nos preços.",
+          "tipo": "texto",
+          "titulo": "Quanto mais tempo alto, mais repasse"
+        },
+        {
+          "fonte": "Statistics Canada",
+          "frase": "Agora olha o outro lado.",
+          "numero": "C$ 37,89",
+          "rotulo": "CANADÁ",
+          "sub": "Alta de 2,2% em 12 meses (Statistics Canada, out/2026)",
+          "tipo": "numero",
+          "titulo": "Salário médio por hora"
+        },
+        {
+          "fonte": "Eurostat",
+          "frase": "Em Portugal, o salário médio passou",
+          "numero": "€ 26.202",
+          "rotulo": "PORTUGAL",
+          "sub": "Alta de 4,8% em 2025, acima da média da UE (Eurostat)",
+          "tipo": "numero",
+          "titulo": "Salário médio por ano"
+        },
+        {
+          "frase": "Quem ganha em moeda forte não",
+          "rotulo": "A PERGUNTA",
+          "sub": "Quem ganha em moeda forte não vê o salário encolher quando o real cai.",
+          "tipo": "texto",
+          "titulo": "Em qual moeda você quer receber?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Canadá, Portugal e outros 9 países",
+          "tipo": "cta",
+          "titulo": "Em qual moeda você quer ganhar?"
+        }
+      ],
+      "ig": [
+        {
+          "fonte": "O Tempo",
+          "numero": "R$ 5,486",
+          "realce": "seu café da manhã",
+          "rotulo": "BRASIL · DÓLAR E COMIDA",
+          "sub": "Maior nível desde dezembro de 2025 (03/11/2026)",
+          "tipo": "capa",
+          "titulo": "O dólar a R$ 5,48 já chegou no seu café da manhã"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Café robusta",
+              "valor": "+4,1%"
+            },
+            {
+              "legenda": "Soja",
+              "valor": "+3,9%"
+            },
+            {
+              "legenda": "Milho",
+              "valor": "+3,0%"
+            }
+          ],
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "rotulo": "O QUE SUBIU",
+          "sub": "Preço da saca no atacado. O repasse chega ao mercado depois.",
+          "tipo": "cartoes",
+          "titulo": "Altas no atacado de 23/10 a 03/11"
+        },
+        {
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "numero": "15ª",
+          "rotulo": "AÇÚCAR",
+          "sub": "Saca de 50 kg a R$ 128,57 em SP. Maior sequência de altas desde 2020.",
+          "tipo": "numero",
+          "titulo": "Açúcar sobe há 15 semanas seguidas"
+        },
+        {
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "itens": [
+            {
+              "s": "Trigo subiu 2,2% em outubro no RS, maior produtor",
+              "t": "Pão e macarrão"
+            },
+            {
+              "s": "Maior média de outubro no RS desde fevereiro de 2025",
+              "t": "Arroz"
+            },
+            {
+              "s": "Robusta a R$ 975 a saca, alta de 4,1%",
+              "t": "Café"
+            },
+            {
+              "s": "R$ 128,57 a saca, 15ª alta semanal seguida",
+              "t": "Açúcar"
+            }
+          ],
+          "rotulo": "NO SEU PRATO",
+          "sub": "Dados de outubro e início de novembro de 2026",
+          "tipo": "lista",
+          "titulo": "Onde o dólar alto aparece"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio/hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "salário médio/ano em Portugal",
+              "valor": "€ 26.202"
+            },
+            {
+              "legenda": "dólar no Brasil em 1 semana",
+              "valor": "+9,2%"
+            }
+          ],
+          "fonte": "StatCan (out/2026) e Eurostat (2025)",
+          "rotulo": "MOEDA FORTE",
+          "sub": "Quem ganha em dólar canadense ou euro não perde quando o real cai.",
+          "tipo": "cartoes",
+          "titulo": "Lá fora, o salário não encolhe com o real"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Canadá, Portugal e outros 9 países",
+          "tipo": "cta",
+          "titulo": "Em qual moeda você quer ganhar?"
+        }
+      ],
+      "x": [
+        {
+          "fonte": "O Tempo",
+          "numero": "R$ 5,486",
+          "realce": "seu café da manhã",
+          "rotulo": "BRASIL · DÓLAR E COMIDA",
+          "sub": "Maior nível desde dezembro de 2025 (03/11/2026)",
+          "tipo": "capa",
+          "titulo": "O dólar a R$ 5,48 já chegou no seu café da manhã"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Café robusta",
+              "valor": "+4,1%"
+            },
+            {
+              "legenda": "Soja",
+              "valor": "+3,9%"
+            },
+            {
+              "legenda": "Milho",
+              "valor": "+3,0%"
+            }
+          ],
+          "fonte": "Cepea, via O Tempo (04/11/2026)",
+          "rotulo": "O QUE SUBIU",
+          "sub": "Preço da saca no atacado. O repasse chega ao mercado depois.",
+          "tipo": "cartoes",
+          "titulo": "Altas no atacado de 23/10 a 03/11"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio/hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "salário médio/ano em Portugal",
+              "valor": "€ 26.202"
+            },
+            {
+              "legenda": "dólar no Brasil em 1 semana",
+              "valor": "+9,2%"
+            }
+          ],
+          "fonte": "StatCan (out/2026) e Eurostat (2025)",
+          "rotulo": "MOEDA FORTE",
+          "sub": "Quem ganha em dólar canadense ou euro não perde quando o real cai.",
+          "tipo": "cartoes",
+          "titulo": "Lá fora, o salário não encolhe com o real"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Canadá, Portugal e outros 9 países",
+          "tipo": "cta",
+          "titulo": "Em qual moeda você quer ganhar?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "br-20261106-imposto-seletivo",
     "pais": "BR",
     "titulo": "Imposto Seletivo: cigarro 66,7%, destilados até 24%, cerveja 4,2% e carro 6,3% a partir de fevereiro de 2027",
