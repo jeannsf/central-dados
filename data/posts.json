@@ -1,5 +1,1521 @@
 [
   {
+    "noticia_id": "br-20261108-inadimplencia",
+    "pais": "BR",
+    "titulo": "Inadimplência bate recorde: 84,2 milhões de brasileiros com contas atrasadas, segundo a Serasa",
+    "legenda_ig": "📉 Recorde: 84,2 milhões de brasileiros estão com contas atrasadas (Serasa, setembro/2026).\n📈 Em agosto eram 83,9 milhões.\n💸 As dívidas somam R$ 597,4 bilhões (+0,9% no mês).\n👤 Dívida média por pessoa: R$ 7.093,83, quase 2 meses da renda média brasileira (R$ 3.790, IBGE).\n🏦 Bancos e cartões: 27,16% das dívidas | Financeiras: 20,66% | Água, luz e gás: 20,32%\n🇨🇦 No Canadá, o salário médio é C$ 37,89 por hora: cerca de 48 horas de trabalho para chegar a R$ 7 mil (valores brutos).\n📰 Fontes: Serasa via Mercado & Consumo (02/11/2026), IBGE, Statistics Canada\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#inadimplencia #dividas #serasa #economia #morarfora #chegadebrasil",
+    "post_x": "📉 Recorde: 84,2 milhões de brasileiros com contas atrasadas (Serasa).\n\nDívida média: R$ 7.094, quase 2 meses da renda média no Brasil.\n\n🇨🇦 No Canadá, com o salário médio, são ~48 horas de trabalho (bruto).\n\nSiga para mais 👇",
+    "nota": "Fonte: Serasa via Mercado & Consumo, 02/11/2026; renda média: IBGE; salário Canadá: Statistics Canada, 06/11/2026 (C$ a R$ 3,90, PTAX 05/11).",
+    "fonte": "Mercado & Consumo (dados Serasa)",
+    "url": "https://mercadoeconsumo.com.br/02/11/2026/economia/inadimplencia-atinge-recorde-de-842-milhoes-de-brasileiros/",
+    "criada": "2026-11-09T12:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "contas atrasadas",
+        "rotulo": "BRASIL · DÍVIDAS",
+        "selo": "Dívida média: R$ 7.094",
+        "titulo": "Recorde: 84 milhões com contas atrasadas"
+      },
+      "cenas": [
+        {
+          "frase": "Oitenta e quatro milhões de brasileiros estão",
+          "numero": "84,2 mi",
+          "realce": "contas atrasadas",
+          "rotulo": "BRASIL · DÍVIDAS",
+          "sub": "Recorde da série da Serasa em setembro de 2026",
+          "tipo": "capa",
+          "titulo": "84 milhões de brasileiros com contas atrasadas"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Agosto",
+              "texto": "83,9 mi",
+              "valor": 83.9
+            },
+            {
+              "nome": "Setembro",
+              "texto": "84,2 mi",
+              "valor": 84.2
+            }
+          ],
+          "fonte": "Serasa / Mercado & Consumo",
+          "frase": "Em agosto, eram oitenta e três",
+          "rotulo": "NOVO RECORDE",
+          "sub": "Maior número da série da Serasa",
+          "tipo": "barras",
+          "titulo": "Inadimplentes no Brasil"
+        },
+        {
+          "fonte": "Serasa / Mercado & Consumo",
+          "frase": "Somadas, as dívidas chegam a quinhentos",
+          "numero": "R$ 597,4 bi",
+          "rotulo": "DÍVIDA TOTAL",
+          "sub": "Alta de 0,9% em um mês",
+          "tipo": "numero",
+          "titulo": "Tudo o que os brasileiros devem"
+        },
+        {
+          "fonte": "Serasa / Mercado & Consumo",
+          "frase": "A dívida média por pessoa é",
+          "numero": "R$ 7.094",
+          "rotulo": "POR PESSOA",
+          "sub": "Em setembro de 2026",
+          "tipo": "numero",
+          "titulo": "Dívida média de cada inadimplente"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Dívida média",
+              "texto": "R$ 7.094",
+              "valor": 7094
+            },
+            {
+              "nome": "Renda média no Brasil",
+              "texto": "R$ 3.790/mês",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Serasa / IBGE",
+          "frase": "Isso é quase duas vezes a",
+          "rotulo": "DÍVIDA X RENDA",
+          "sub": "Dívida média (Serasa) x renda média mensal (IBGE)",
+          "tipo": "barras",
+          "titulo": "Dívida média vale quase 2 meses de renda"
+        },
+        {
+          "fonte": "Serasa / Mercado & Consumo",
+          "frase": "Bancos e cartões de crédito ficam",
+          "itens": [
+            {
+              "s": "27,16% das dívidas, no topo da lista",
+              "t": "Bancos e cartões"
+            },
+            {
+              "s": "20,66%, em 2º lugar pela primeira vez",
+              "t": "Financeiras"
+            },
+            {
+              "s": "20,32%: contas básicas do dia a dia",
+              "t": "Água, luz e gás"
+            }
+          ],
+          "rotulo": "QUEM COBRA",
+          "tipo": "lista",
+          "titulo": "Com quem o brasileiro deve"
+        },
+        {
+          "fonte": "Statistics Canada",
+          "frase": "No Canadá, o salário médio é",
+          "numero": "C$ 37,89",
+          "rotulo": "CANADÁ",
+          "sub": "Cerca de R$ 148 por hora (out/2026)",
+          "tipo": "numero",
+          "titulo": "Salário médio por hora"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "≈ 48 horas",
+              "valor": 48
+            },
+            {
+              "nome": "Brasil",
+              "texto": "≈ 1,9 mês",
+              "valor": 324
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "frase": "Com cerca de quarenta e oito",
+          "rotulo": "PARA PAGAR R$ 7.094",
+          "sub": "Valores brutos, antes de impostos",
+          "tipo": "barras",
+          "titulo": "Tempo de trabalho com renda média"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PARA PENSAR",
+          "sub": "84,2 milhões de brasileiros com contas atrasadas, recorde da série.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "84,2 mi",
+          "realce": "contas atrasadas",
+          "rotulo": "BRASIL · DÍVIDAS",
+          "sub": "Recorde da série da Serasa em setembro de 2026",
+          "tipo": "capa",
+          "titulo": "84 milhões de brasileiros com contas atrasadas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "pessoas inadimplentes",
+              "valor": "84,2 mi"
+            },
+            {
+              "legenda": "em dívidas (+0,9% no mês)",
+              "valor": "R$ 597,4 bi"
+            },
+            {
+              "legenda": "dívida média por pessoa",
+              "valor": "R$ 7.094"
+            }
+          ],
+          "fonte": "Serasa / Mercado & Consumo",
+          "rotulo": "OS NÚMEROS",
+          "sub": "Mapa da Inadimplência, setembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "O tamanho da inadimplência"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Dívida média",
+              "texto": "R$ 7.094",
+              "valor": 7094
+            },
+            {
+              "nome": "Renda média no Brasil",
+              "texto": "R$ 3.790/mês",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Serasa / IBGE",
+          "rotulo": "DÍVIDA X RENDA",
+          "sub": "Dívida média (Serasa) x renda média mensal (IBGE)",
+          "tipo": "barras",
+          "titulo": "Dívida média vale quase 2 meses de renda"
+        },
+        {
+          "fonte": "Serasa / Mercado & Consumo",
+          "itens": [
+            {
+              "s": "27,16% das dívidas, no topo da lista",
+              "t": "Bancos e cartões"
+            },
+            {
+              "s": "20,66%, em 2º lugar pela primeira vez",
+              "t": "Financeiras"
+            },
+            {
+              "s": "20,32%: contas básicas do dia a dia",
+              "t": "Água, luz e gás"
+            },
+            {
+              "s": "35,7% dos inadimplentes têm essa idade",
+              "t": "Quem mais deve: 41 a 60 anos"
+            }
+          ],
+          "rotulo": "QUEM COBRA",
+          "sub": "Participação no total das dívidas",
+          "tipo": "lista",
+          "titulo": "Com quem o brasileiro está devendo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio por hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "de trabalho para R$ 7.094 no Canadá",
+              "valor": "≈ 48 h"
+            },
+            {
+              "legenda": "de renda média no Brasil",
+              "valor": "≈ 1,9 mês"
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos; dólar canadense a R$ 3,90 (PTAX 05/11)",
+          "tipo": "cartoes",
+          "titulo": "Quanto tempo para juntar R$ 7 mil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "84,2 mi",
+          "realce": "contas atrasadas",
+          "rotulo": "BRASIL · DÍVIDAS",
+          "sub": "Recorde da série da Serasa em setembro de 2026",
+          "tipo": "capa",
+          "titulo": "84 milhões de brasileiros com contas atrasadas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "pessoas inadimplentes",
+              "valor": "84,2 mi"
+            },
+            {
+              "legenda": "em dívidas (+0,9% no mês)",
+              "valor": "R$ 597,4 bi"
+            },
+            {
+              "legenda": "dívida média por pessoa",
+              "valor": "R$ 7.094"
+            }
+          ],
+          "fonte": "Serasa / Mercado & Consumo",
+          "rotulo": "OS NÚMEROS",
+          "sub": "Mapa da Inadimplência, setembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "O tamanho da inadimplência"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio por hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "de trabalho para R$ 7.094 no Canadá",
+              "valor": "≈ 48 h"
+            },
+            {
+              "legenda": "de renda média no Brasil",
+              "valor": "≈ 1,9 mês"
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos; dólar canadense a R$ 3,90 (PTAX 05/11)",
+          "tipo": "cartoes",
+          "titulo": "Quanto tempo para juntar R$ 7 mil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Existe vida com contas mais leves?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ca-20261108-lmia-dois-anos",
+    "pais": "CA",
+    "titulo": "Canadá dobra para até 2 anos o prazo de contratação de estrangeiros em vagas de salário mais baixo",
+    "legenda_ig": "🇨🇦 O Canadá dobrou o prazo de contratação de estrangeiros em vagas de salário mais baixo: de 1 para até 2 anos (desde 06/11/2026).\n🏥 Setores com prioridade: saúde, construção e processamento de alimentos.\n👶 Novidade: educadores de primeira infância entraram na lista.\n👥 A partir de março/2027, empresas nas regiões que aderirem poderão ter até 15% da equipe estrangeira (hoje 10%).\n📈 Em um ano, 214 mil empregos privados criados; desemprego em 6,5%.\n💵 Salário médio: C$ 37,89 por hora (≈ R$ 148) x renda média no Brasil de R$ 3.790 por mês.\n📰 Fontes: Governo do Canadá (ESDC, 06/11/2026), Statistics Canada, IBGE\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#canada #trabalharnocanada #morarnocanada #empregonocanada #morarfora #chegadebrasil",
+    "post_x": "🇨🇦 O Canadá dobrou o prazo de contratação de estrangeiros em vagas de salário mais baixo: de 1 para até 2 anos.\n\nPrioridade: saúde, construção, alimentos e educação infantil.\n\nSalário médio: C$ 37,89/h (≈ R$ 148).\n\nSiga para mais 👇",
+    "nota": "Fonte: Governo do Canadá (ESDC), 06/11/2026; salário: Statistics Canada, 06/11/2026; renda Brasil: IBGE.",
+    "fonte": "Governo do Canadá (ESDC)",
+    "url": "https://www.canada.ca/en/employment-social-development/news/2026/11/government-of-canada-announces-targeted-reforms-to-the-temporary-foreign-worker-program-to-respond-to-labour-market-needs.html",
+    "criada": "2026-11-09T12:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "dobra o prazo",
+        "rotulo": "CANADÁ · TRABALHO",
+        "selo": "De 1 para até 2 anos",
+        "titulo": "Canadá dobra o prazo para contratar estrangeiros"
+      },
+      "cenas": [
+        {
+          "frase": "O Canadá acaba de dobrar o",
+          "numero": "2 anos",
+          "realce": "dobra o prazo",
+          "rotulo": "CANADÁ · TRABALHO",
+          "sub": "Antes era 1 ano, em vagas de salário mais baixo",
+          "tipo": "capa",
+          "titulo": "Canadá dobra o prazo para contratar estrangeiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Antes",
+              "texto": "1 ano",
+              "valor": 1
+            },
+            {
+              "nome": "Agora",
+              "texto": "até 2 anos",
+              "valor": 2
+            }
+          ],
+          "fonte": "Governo do Canadá (ESDC)",
+          "frase": "Era um ano.",
+          "rotulo": "ANTES X AGORA",
+          "sub": "Vale desde 06/11/2026 para vagas de salário mais baixo",
+          "tipo": "barras",
+          "titulo": "Prazo de contratação de estrangeiros"
+        },
+        {
+          "frase": "E vale justamente para as vagas",
+          "rotulo": "OPORTUNIDADE",
+          "sub": "A mudança vale para as vagas que muita gente acha que não têm espaço para quem vem de fora.",
+          "tipo": "texto",
+          "titulo": "Vagas de salário mais baixo"
+        },
+        {
+          "fonte": "Governo do Canadá (ESDC)",
+          "frase": "Os setores com prioridade são saúde,",
+          "itens": [
+            {
+              "s": "Setores prioritários do governo",
+              "t": "Saúde e construção"
+            },
+            {
+              "s": "Indústria com exceção garantida",
+              "t": "Processamento de alimentos"
+            },
+            {
+              "s": "Novidade anunciada em 06/11/2026",
+              "t": "Educadores de primeira infância"
+            }
+          ],
+          "rotulo": "ONDE FALTA GENTE",
+          "tipo": "lista",
+          "titulo": "Setores com prioridade"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Hoje",
+              "texto": "10%",
+              "valor": 10
+            },
+            {
+              "nome": "Março de 2027",
+              "texto": "15%",
+              "valor": 15
+            }
+          ],
+          "fonte": "Governo do Canadá (ESDC)",
+          "frase": "A partir de março de 2027,",
+          "rotulo": "A PARTIR DE MARÇO/2027",
+          "sub": "Nas regiões que aderirem à mudança",
+          "tipo": "barras",
+          "titulo": "Estrangeiros na equipe"
+        },
+        {
+          "fonte": "Governo do Canadá (ESDC)",
+          "frase": "Em um ano, a economia canadense",
+          "numero": "214 mil",
+          "rotulo": "EMPREGOS",
+          "sub": "Em 12 meses; desemprego caiu para 6,5%",
+          "tipo": "numero",
+          "titulo": "Vagas criadas no setor privado"
+        },
+        {
+          "fonte": "Statistics Canada",
+          "frase": "O salário médio chegou a trinta",
+          "numero": "C$ 37,89",
+          "rotulo": "SALÁRIO NO CANADÁ",
+          "sub": "Cerca de R$ 148 por hora (out/2026)",
+          "tipo": "numero",
+          "titulo": "Salário médio por hora"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio por hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "por hora, em reais",
+              "valor": "≈ R$ 148"
+            },
+            {
+              "legenda": "renda média por MÊS no Brasil",
+              "valor": "R$ 3.790"
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "frase": "No Brasil, a renda média é",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos, antes de impostos",
+          "tipo": "cartoes",
+          "titulo": "Hora lá, mês aqui"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PARA PENSAR",
+          "sub": "O Canadá está ampliando as vagas para estrangeiros em saúde, construção, alimentos e educação infantil.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "2 anos",
+          "realce": "dobra o prazo",
+          "rotulo": "CANADÁ · TRABALHO",
+          "sub": "Antes era 1 ano, em vagas de salário mais baixo",
+          "tipo": "capa",
+          "titulo": "Canadá dobra o prazo para contratar estrangeiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Antes",
+              "texto": "1 ano",
+              "valor": 1
+            },
+            {
+              "nome": "Agora",
+              "texto": "até 2 anos",
+              "valor": 2
+            }
+          ],
+          "fonte": "Governo do Canadá (ESDC)",
+          "rotulo": "ANTES X AGORA",
+          "sub": "Vale desde 06/11/2026 para vagas de salário mais baixo",
+          "tipo": "barras",
+          "titulo": "Prazo de contratação de estrangeiros"
+        },
+        {
+          "fonte": "Governo do Canadá (ESDC)",
+          "itens": [
+            {
+              "s": "Setor prioritário para contratar estrangeiros",
+              "t": "Saúde"
+            },
+            {
+              "s": "Também na lista de prioridade do governo",
+              "t": "Construção"
+            },
+            {
+              "s": "Indústria com exceção garantida",
+              "t": "Processamento de alimentos"
+            },
+            {
+              "s": "Novidade: entraram na lista em 06/11/2026",
+              "t": "Educadores de primeira infância"
+            }
+          ],
+          "rotulo": "ONDE FALTA GENTE",
+          "sub": "Seguem contratando mesmo em cidades com desemprego alto",
+          "tipo": "lista",
+          "titulo": "Setores com prioridade"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "empregos privados criados em 1 ano",
+              "valor": "214 mil"
+            },
+            {
+              "legenda": "taxa de desemprego, em queda",
+              "valor": "6,5%"
+            },
+            {
+              "legenda": "da equipe pode ser estrangeira (hoje 10%)",
+              "valor": "15%"
+            }
+          ],
+          "fonte": "Governo do Canadá (ESDC)",
+          "rotulo": "MERCADO AQUECIDO",
+          "sub": "Dados do governo do Canadá, novembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Por que o Canadá quer mais gente"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio por hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "por hora, em reais",
+              "valor": "≈ R$ 148"
+            },
+            {
+              "legenda": "renda média por MÊS no Brasil",
+              "valor": "R$ 3.790"
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos; dólar canadense a R$ 3,90 (PTAX 05/11)",
+          "tipo": "cartoes",
+          "titulo": "Quanto vale o trabalho"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "2 anos",
+          "realce": "dobra o prazo",
+          "rotulo": "CANADÁ · TRABALHO",
+          "sub": "Antes era 1 ano, em vagas de salário mais baixo",
+          "tipo": "capa",
+          "titulo": "Canadá dobra o prazo para contratar estrangeiros"
+        },
+        {
+          "fonte": "Governo do Canadá (ESDC)",
+          "itens": [
+            {
+              "s": "Setor prioritário para contratar estrangeiros",
+              "t": "Saúde"
+            },
+            {
+              "s": "Também na lista de prioridade do governo",
+              "t": "Construção"
+            },
+            {
+              "s": "Indústria com exceção garantida",
+              "t": "Processamento de alimentos"
+            },
+            {
+              "s": "Novidade: entraram na lista em 06/11/2026",
+              "t": "Educadores de primeira infância"
+            }
+          ],
+          "rotulo": "ONDE FALTA GENTE",
+          "sub": "Seguem contratando mesmo em cidades com desemprego alto",
+          "tipo": "lista",
+          "titulo": "Setores com prioridade"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "salário médio por hora no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "por hora, em reais",
+              "valor": "≈ R$ 148"
+            },
+            {
+              "legenda": "renda média por MÊS no Brasil",
+              "valor": "R$ 3.790"
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Valores brutos; dólar canadense a R$ 3,90 (PTAX 05/11)",
+          "tipo": "cartoes",
+          "titulo": "Quanto vale o trabalho"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ca-20261106-plano-niveis",
+    "pais": "CA",
+    "titulo": "Canadá planeja até 622 mil novos residentes permanentes em 2027; 64% pela via econômica",
+    "legenda_ig": "🇨🇦 O Canadá quer receber muita gente nos próximos anos.\n\n🎯 Até 622 mil novos residentes permanentes em 2027\n📊 Meta central: 380 mil por ano, de 2027 a 2029\n💼 64% pela via econômica: 244,7 mil vagas por ano\n👷 Mais 220 mil trabalhadores temporários por ano\n💵 Salário médio por hora: C$ 37,89, cerca de R$ 148\n🇧🇷 No Brasil: renda média de R$ 3.790 por mês (IBGE)\n⏱️ Em cerca de 26 horas, a média canadense ganha o que a brasileira ganha no mês (valores brutos)\n\n📌 Fontes: Plano de imigração 2027–2029 via CIC News (05/11/2026), Statistics Canada (06/11/2026), IBGE, Banco Central (PTAX 05/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#canada #morarnocanada #trabalharnocanada #morarfora #oportunidade #chegadebrasil",
+    "post_x": "🇨🇦 O Canadá planeja até 622 mil novos residentes permanentes em 2027.\n\n💼 64% pela via econômica\n👷 + 220 mil trabalhadores temporários por ano\n💵 Hora média: C$ 37,89 (≈ R$ 148)\n\nSiga para mais 👇",
+    "nota": "Fonte: CIC News (plano de imigração 2027–2029), 05/11/2026; Statistics Canada, 06/11/2026; IBGE (30/10/2026); PTAX 05/11/2026 (R$ 3,9022). Valores brutos.",
+    "fonte": "CIC News",
+    "url": "https://www.cicnews.com/2026/11/breaking-canada-announces-plans-for-up-to-622000-new-permanent-residents-in-2027-1182044.html",
+    "criada": "2026-11-09T09:38:17Z",
+    "visual": {
+      "capa": {
+        "realce": "622 mil novos residentes",
+        "rotulo": "CANADÁ · OPORTUNIDADE",
+        "selo": "64% pela via econômica",
+        "titulo": "O Canadá quer até 622 mil novos residentes"
+      },
+      "cenas": [
+        {
+          "frase": "O Canadá acaba de dizer quanta",
+          "numero": "622 mil",
+          "realce": "622 mil novos residentes",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "Teto do plano para 2027, somando as vagas de transição",
+          "tipo": "capa",
+          "titulo": "O Canadá quer receber até 622 mil novos residentes em 2027"
+        },
+        {
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "frase": "Em 2027, o país pode ganhar",
+          "numero": "622 mil",
+          "rotulo": "TETO PARA 2027",
+          "sub": "Até 422 mil da meta, mais até 200 mil vagas para quem já está no país",
+          "tipo": "numero",
+          "titulo": "Novos residentes permanentes"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Meta central",
+              "valor": "380 mil"
+            },
+            {
+              "legenda": "Piso da faixa",
+              "valor": "352,5 mil"
+            },
+            {
+              "legenda": "Teto da faixa",
+              "valor": "422 mil"
+            }
+          ],
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "frase": "A meta central é de trezentos",
+          "rotulo": "META 2027–2029",
+          "sub": "Novos residentes permanentes por ano",
+          "tipo": "cartoes",
+          "titulo": "Todo ano, até 2029"
+        },
+        {
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "frase": "E quase dois de cada três",
+          "numero": "64%",
+          "rotulo": "VIA ECONÔMICA",
+          "sub": "Da meta central de 380 mil por ano",
+          "tipo": "numero",
+          "titulo": "Quase 2 de cada 3 pelo trabalho"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Econômica",
+              "texto": "244,7 mil",
+              "valor": 244700
+            },
+            {
+              "nome": "Família",
+              "texto": "81 mil",
+              "valor": 81000
+            },
+            {
+              "nome": "Refugiados",
+              "texto": "49,3 mil",
+              "valor": 49300
+            }
+          ],
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "frase": "São duzentas e quarenta e quatro mil",
+          "rotulo": "META POR ANO",
+          "sub": "Divisão da meta central de 380 mil residentes permanentes por ano",
+          "tipo": "barras",
+          "titulo": "A maioria vem pelo trabalho"
+        },
+        {
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "frase": "Além disso, o plano prevê duzentos",
+          "numero": "220 mil",
+          "rotulo": "TEMPORÁRIOS",
+          "sub": "Meta anual de 2027 a 2029, além de 150 mil estudantes",
+          "tipo": "numero",
+          "titulo": "Trabalhadores temporários por ano"
+        },
+        {
+          "fonte": "Fonte: Statistics Canada (06/11/2026)",
+          "frase": "E o trabalho lá paga bem.",
+          "numero": "C$ 37,89",
+          "rotulo": "SALÁRIO POR HORA",
+          "sub": "Alta de 2,2% em 12 meses (Statistics Canada)",
+          "tipo": "numero",
+          "titulo": "Média no Canadá em outubro"
+        },
+        {
+          "fonte": "Fontes: Statistics Canada, IBGE e PTAX/BC",
+          "frase": "Em reais, cerca de cento e",
+          "numero": "R$ 148",
+          "rotulo": "EM REAIS",
+          "sub": "Dólar canadense a R$ 3,90 (PTAX de 05/11/2026). Valor bruto",
+          "tipo": "numero",
+          "titulo": "A hora canadense convertida"
+        },
+        {
+          "fonte": "Fonte: IBGE (30/10/2026)",
+          "frase": "No Brasil, a renda média do",
+          "numero": "R$ 3.790",
+          "rotulo": "BRASIL",
+          "sub": "Por mês, no 3º trimestre de 2026 (IBGE, PNAD Contínua)",
+          "tipo": "numero",
+          "titulo": "Renda média do trabalhador brasileiro"
+        },
+        {
+          "fonte": "Fontes: Statistics Canada, IBGE e PTAX/BC",
+          "frase": "Em cerca de vinte e seis",
+          "numero": "26 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "É o que a média canadense leva para ganhar R$ 3.790 (valores brutos, C$ a R$ 3,90)",
+          "tipo": "numero",
+          "titulo": "Para ganhar a renda média brasileira"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "622 mil",
+          "realce": "622 mil novos residentes",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "Teto do plano para 2027, somando as vagas de transição",
+          "tipo": "capa",
+          "titulo": "O Canadá quer receber até 622 mil novos residentes em 2027"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Meta central por ano",
+              "valor": "380 mil"
+            },
+            {
+              "legenda": "Pela via econômica",
+              "valor": "64%"
+            },
+            {
+              "legenda": "Temporários por ano",
+              "valor": "220 mil"
+            }
+          ],
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "rotulo": "PLANO 2027–2029",
+          "sub": "Novos residentes permanentes por ano e trabalhadores temporários",
+          "tipo": "cartoes",
+          "titulo": "Os números do plano"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Econômica",
+              "texto": "244,7 mil",
+              "valor": 244700
+            },
+            {
+              "nome": "Família",
+              "texto": "81 mil",
+              "valor": 81000
+            },
+            {
+              "nome": "Refugiados",
+              "texto": "49,3 mil",
+              "valor": 49300
+            }
+          ],
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "rotulo": "META POR ANO",
+          "sub": "Divisão da meta central de 380 mil residentes permanentes por ano",
+          "tipo": "barras",
+          "titulo": "A maioria vem pelo trabalho"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Hora média no Canadá",
+              "valor": "C$ 37,89"
+            },
+            {
+              "legenda": "Hora canadense em reais",
+              "valor": "R$ 148"
+            },
+            {
+              "legenda": "Mês no Brasil",
+              "valor": "R$ 3.790"
+            }
+          ],
+          "fonte": "Fontes: Statistics Canada, IBGE e PTAX/BC",
+          "rotulo": "SALÁRIO",
+          "sub": "Canadá: média por hora em outubro/2026. Brasil: renda média mensal (IBGE)",
+          "tipo": "cartoes",
+          "titulo": "Uma hora no Canadá x um mês no Brasil"
+        },
+        {
+          "fonte": "Fontes: Statistics Canada, IBGE e PTAX/BC",
+          "numero": "26 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "É o que a média canadense leva para ganhar R$ 3.790 (valores brutos, C$ a R$ 3,90)",
+          "tipo": "numero",
+          "titulo": "Para ganhar a renda média brasileira"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "622 mil",
+          "realce": "622 mil novos residentes",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "Teto do plano para 2027, somando as vagas de transição",
+          "tipo": "capa",
+          "titulo": "O Canadá quer receber até 622 mil novos residentes em 2027"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Econômica",
+              "texto": "244,7 mil",
+              "valor": 244700
+            },
+            {
+              "nome": "Família",
+              "texto": "81 mil",
+              "valor": 81000
+            },
+            {
+              "nome": "Refugiados",
+              "texto": "49,3 mil",
+              "valor": 49300
+            }
+          ],
+          "fonte": "Fonte: plano 2027–2029 via CIC News (05/11/2026)",
+          "rotulo": "META POR ANO",
+          "sub": "Divisão da meta central de 380 mil residentes permanentes por ano",
+          "tipo": "barras",
+          "titulo": "A maioria vem pelo trabalho"
+        },
+        {
+          "fonte": "Fontes: Statistics Canada, IBGE e PTAX/BC",
+          "numero": "26 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "É o que a média canadense leva para ganhar R$ 3.790 (valores brutos, C$ a R$ 3,90)",
+          "tipo": "numero",
+          "titulo": "Para ganhar a renda média brasileira"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "cl-20261106-salario-real",
+    "pais": "CL",
+    "titulo": "Salário real no Chile sobe 3,5% em 12 meses; hora média de CLP 7.650 vale cerca de R$ 43",
+    "legenda_ig": "🇨🇱 O salário no Chile ganhou da inflação de novo.\n\n📈 Salários: +7,7% em 12 meses até setembro\n✅ Ganho real (descontada a inflação): +3,5%\n⏱️ Média por hora: CLP 7.650 (+8,5%), cerca de R$ 43\n👩 Mulheres: CLP 7.445 por hora (+8,9%)\n🇧🇷 No Brasil: renda média de R$ 3.790 por mês (IBGE, 3º tri/2026)\n⚖️ Com cerca de 88 horas, a média chilena ganha o que a brasileira ganha no mês (valores brutos)\n\nO ritmo de alta é parecido nos dois países. O ponto de partida, não.\n\n📌 Fontes: INE Chile via Cooperativa (05/11/2026), IBGE (30/10/2026), câmbio de fechamento de 05/11/2026\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#chile #morarnochile #salario #morarfora #americadosul #chegadebrasil",
+    "post_x": "🇨🇱 Salário real no Chile subiu 3,5% em 12 meses (INE).\n\n⏱️ Hora média: CLP 7.650, cerca de R$ 43\n🇧🇷 Renda média no Brasil: R$ 3.790 por mês\n⚖️ São cerca de 88 horas de trabalho no Chile\n\nSiga para mais 👇",
+    "nota": "Fonte: Cooperativa.cl (dados INE Chile), 05/11/2026; IBGE PNAD Contínua (30/10/2026); dólar de fechamento em 05/11/2026 (CLP 978,69 e R$ 5,49). Valores brutos.",
+    "fonte": "Cooperativa.cl (dados do INE Chile)",
+    "url": "https://www.cooperativa.cl/noticias/economia/crecimiento/sueldos-crecieron-2-4-entre-enero-y-septiembre-segun-el-ine/2026-11-05/102527.html",
+    "criada": "2026-11-09T09:38:17Z",
+    "visual": {
+      "capa": {
+        "realce": "ganhou da inflação",
+        "rotulo": "CHILE · SALÁRIO",
+        "selo": "Hora média: CLP 7.650 (≈ R$ 43)",
+        "titulo": "O salário no Chile ganhou da inflação de novo"
+      },
+      "cenas": [
+        {
+          "frase": "O salário no Chile acaba de",
+          "numero": "CLP 7.650",
+          "realce": "ganhou da inflação",
+          "rotulo": "CHILE · SALÁRIO",
+          "sub": "Remuneração média por hora em setembro (INE), cerca de R$ 43",
+          "tipo": "capa",
+          "titulo": "O salário no Chile ganhou da inflação de novo"
+        },
+        {
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "frase": "Em doze meses até setembro, os",
+          "numero": "+7,7%",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Remunerações nominais, segundo o INE do Chile",
+          "tipo": "numero",
+          "titulo": "Alta dos salários no Chile"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Alta do salário",
+              "valor": "+7,7%"
+            },
+            {
+              "legenda": "Ganho real",
+              "valor": "+3,5%"
+            },
+            {
+              "legenda": "Hora média",
+              "valor": "+8,5%"
+            }
+          ],
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "frase": "Descontada a inflação, o ganho real",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Inflação acumulada de janeiro a setembro: 4%",
+          "tipo": "cartoes",
+          "titulo": "Salário subiu acima da inflação"
+        },
+        {
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "frase": "E a média por hora de",
+          "numero": "CLP 7.650",
+          "rotulo": "MÉDIA POR HORA",
+          "sub": "Remuneração média por hora em setembro, alta de 8,5% em 12 meses",
+          "tipo": "numero",
+          "titulo": "Uma hora de trabalho no Chile"
+        },
+        {
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "frase": "Em reais, isso dá cerca de",
+          "numero": "R$ 43",
+          "rotulo": "EM REAIS",
+          "sub": "Dólar a CLP 978,69 e R$ 5,49 (fechamento de 05/11/2026). Valor bruto",
+          "tipo": "numero",
+          "titulo": "A hora chilena convertida"
+        },
+        {
+          "fonte": "Fonte: IBGE (30/10/2026)",
+          "frase": "No Brasil, a renda média do",
+          "numero": "R$ 3.790",
+          "rotulo": "BRASIL",
+          "sub": "Por mês, no 3º trimestre de 2026 (IBGE, PNAD Contínua)",
+          "tipo": "numero",
+          "titulo": "Renda média do trabalhador brasileiro"
+        },
+        {
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "frase": "Ou seja, com cerca de oitenta",
+          "numero": "88 horas",
+          "rotulo": "CHILE X BRASIL",
+          "sub": "R$ 3.790 é a renda média mensal no Brasil (IBGE). No Chile, a hora média vale cerca de R$ 43",
+          "tipo": "numero",
+          "titulo": "Quanto tempo leva para ganhar R$ 3.790"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Mulheres: CLP 7.445",
+              "valor": "+8,9%"
+            },
+            {
+              "legenda": "Homens: CLP 7.837",
+              "valor": "+8,2%"
+            },
+            {
+              "legenda": "Média: CLP 7.650",
+              "valor": "+8,5%"
+            }
+          ],
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "frase": "E as mulheres tiveram alta ainda",
+          "rotulo": "POR HORA, EM SETEMBRO",
+          "sub": "Remuneração média por hora e alta em 12 meses",
+          "tipo": "cartoes",
+          "titulo": "Alta para homens e mulheres"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Chile",
+              "texto": "+3,5%",
+              "valor": 3.5
+            },
+            {
+              "nome": "Brasil",
+              "texto": "+3,6%",
+              "valor": 3.6
+            }
+          ],
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "frase": "No Brasil, a renda real também",
+          "rotulo": "GANHO REAL EM 12 MESES",
+          "sub": "Chile: salário real até set/2026 (INE). Brasil: renda real do 3º tri/2026 (IBGE)",
+          "tipo": "barras",
+          "titulo": "O ritmo é parecido. O ponto de partida, não"
+        },
+        {
+          "frase": "A diferença não está no ritmo.",
+          "rotulo": "PARA PENSAR",
+          "sub": "A diferença não está no ritmo. Está no ponto de partida.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Chile com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Chile é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "CLP 7.650",
+          "realce": "ganhou da inflação",
+          "rotulo": "CHILE · SALÁRIO",
+          "sub": "Remuneração média por hora em setembro (INE), cerca de R$ 43",
+          "tipo": "capa",
+          "titulo": "O salário no Chile ganhou da inflação de novo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Alta do salário",
+              "valor": "+7,7%"
+            },
+            {
+              "legenda": "Ganho real",
+              "valor": "+3,5%"
+            },
+            {
+              "legenda": "Hora média",
+              "valor": "+8,5%"
+            }
+          ],
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Inflação acumulada de janeiro a setembro: 4%",
+          "tipo": "cartoes",
+          "titulo": "Salário subiu acima da inflação"
+        },
+        {
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "itens": [
+            {
+              "s": "Alta de 8,5% em 12 meses, até setembro de 2026",
+              "t": "Média por hora: CLP 7.650"
+            },
+            {
+              "s": "Dólar a CLP 978,69 e R$ 5,49 (fechamento de 05/11/2026)",
+              "t": "Em reais: cerca de R$ 43"
+            },
+            {
+              "s": "Alta de 8,9% na hora trabalhada",
+              "t": "Mulheres: CLP 7.445"
+            },
+            {
+              "s": "Alta de 8,2% na hora trabalhada",
+              "t": "Homens: CLP 7.837"
+            }
+          ],
+          "rotulo": "A HORA NO CHILE",
+          "tipo": "lista",
+          "titulo": "O salário chileno em números"
+        },
+        {
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "numero": "88 horas",
+          "rotulo": "CHILE X BRASIL",
+          "sub": "R$ 3.790 é a renda média mensal no Brasil (IBGE). No Chile, a hora média vale cerca de R$ 43",
+          "tipo": "numero",
+          "titulo": "Quanto tempo leva para ganhar R$ 3.790"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Chile",
+              "texto": "+3,5%",
+              "valor": 3.5
+            },
+            {
+              "nome": "Brasil",
+              "texto": "+3,6%",
+              "valor": 3.6
+            }
+          ],
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "rotulo": "GANHO REAL EM 12 MESES",
+          "sub": "Chile: salário real até set/2026 (INE). Brasil: renda real do 3º tri/2026 (IBGE)",
+          "tipo": "barras",
+          "titulo": "O ritmo é parecido. O ponto de partida, não"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Chile com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Chile é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "CLP 7.650",
+          "realce": "ganhou da inflação",
+          "rotulo": "CHILE · SALÁRIO",
+          "sub": "Remuneração média por hora em setembro (INE), cerca de R$ 43",
+          "tipo": "capa",
+          "titulo": "O salário no Chile ganhou da inflação de novo"
+        },
+        {
+          "fonte": "Fontes: INE Chile, IBGE, câmbio de 05/11/2026",
+          "numero": "88 horas",
+          "rotulo": "CHILE X BRASIL",
+          "sub": "R$ 3.790 é a renda média mensal no Brasil (IBGE). No Chile, a hora média vale cerca de R$ 43",
+          "tipo": "numero",
+          "titulo": "Quanto tempo leva para ganhar R$ 3.790"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Alta do salário",
+              "valor": "+7,7%"
+            },
+            {
+              "legenda": "Ganho real",
+              "valor": "+3,5%"
+            },
+            {
+              "legenda": "Hora média",
+              "valor": "+8,5%"
+            }
+          ],
+          "fonte": "Fonte: INE Chile via Cooperativa (05/11/2026)",
+          "rotulo": "12 MESES ATÉ SETEMBRO",
+          "sub": "Inflação acumulada de janeiro a setembro: 4%",
+          "tipo": "cartoes",
+          "titulo": "Salário subiu acima da inflação"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Chile com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Chile é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "py-20261106-investimentos",
+    "pais": "PY",
+    "titulo": "Paraguai aprova 171 projetos de investimento em 2026, mais que em 2025, e desemprego cai para 4,1%",
+    "legenda_ig": "🇵🇾 O Paraguai está atraindo fábricas, e isso está virando emprego.\n\n🏭 171 projetos de investimento aprovados de janeiro a outubro de 2026\n📊 Em todo o ano de 2025 foram 162\n💰 US$ 615 milhões em investimentos comprometidos\n👷 5.034 empregos previstos\n📉 Desemprego no Paraguai: 4,1% no 3º trimestre (era 4,9% um ano antes)\n📝 Emprego formal fora do campo: +92 mil postos em um ano\n🇧🇷 No Brasil: desemprego de 5,2%, o menor para o período desde 2012\n\n📌 Fontes: La Tribuna (03/11/2026), INE Paraguai via Última Hora (31/10/2026), IBGE (30/10/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#paraguai #morarnoparaguai #emprego #investimento #morarfora #chegadebrasil",
+    "post_x": "🇵🇾 Paraguai aprovou 171 projetos de investimento em 2026, mais que em todo 2025.\n\n💰 US$ 615 milhões\n👷 5.034 empregos previstos\n📉 Desemprego: 4,1% (Brasil: 5,2%)\n\nSiga para mais 👇",
+    "nota": "Fonte: La Tribuna, 03/11/2026; INE Paraguai via Última Hora, 31/10/2026; IBGE PNAD Contínua, 30/10/2026",
+    "fonte": "La Tribuna",
+    "url": "https://www.latribuna.com.py/negocios/economia/2026/11/03/inversiones-por-usd-615-millones-impulsaran-el-empleo/",
+    "criada": "2026-11-09T09:38:17Z",
+    "visual": {
+      "capa": {
+        "realce": "atraindo fábricas",
+        "rotulo": "PARAGUAI · EMPREGO",
+        "selo": "171 projetos e US$ 615 milhões em 2026",
+        "titulo": "O Paraguai está atraindo fábricas e gerando emprego"
+      },
+      "cenas": [
+        {
+          "frase": "O Paraguai está atraindo fábricas, e",
+          "numero": "171 projetos",
+          "realce": "atraindo fábricas",
+          "rotulo": "PARAGUAI · EMPREGO",
+          "sub": "Aprovados de janeiro a outubro de 2026, mais que em todo 2025",
+          "tipo": "capa",
+          "titulo": "O Paraguai está atraindo fábricas e gerando emprego"
+        },
+        {
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "frase": "De janeiro a outubro de 2026,",
+          "numero": "171",
+          "rotulo": "JAN A OUT DE 2026",
+          "sub": "Aprovados pelo Conselho de Investimentos do Paraguai",
+          "tipo": "numero",
+          "titulo": "Projetos de investimento aprovados"
+        },
+        {
+          "barras": [
+            {
+              "nome": "2025 (ano todo)",
+              "texto": "162",
+              "valor": 162
+            },
+            {
+              "nome": "2026 (até out.)",
+              "texto": "171",
+              "valor": 171
+            }
+          ],
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "frase": "É mais do que no ano",
+          "rotulo": "PROJETOS APROVADOS",
+          "sub": "Projetos aprovados pelo Conselho de Investimentos do Paraguai",
+          "tipo": "barras",
+          "titulo": "2026 já passou o ano inteiro de 2025"
+        },
+        {
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "frase": "Juntos, somam quase seiscentos e quinze",
+          "numero": "US$ 615 mi",
+          "rotulo": "INVESTIMENTO",
+          "sub": "Soma dos 171 projetos aprovados até outubro (USD 614,95 milhões)",
+          "tipo": "numero",
+          "titulo": "Dinheiro comprometido em 2026"
+        },
+        {
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "frase": "E a previsão é de mais",
+          "numero": "5.034",
+          "rotulo": "EMPREGOS",
+          "sub": "Empregos previstos pelos 171 projetos aprovados em 2026",
+          "tipo": "numero",
+          "titulo": "Vagas previstas pelos projetos"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Projetos novos",
+              "valor": "18"
+            },
+            {
+              "legenda": "Investimento",
+              "valor": "US$ 55,65 mi"
+            },
+            {
+              "legenda": "Vagas",
+              "valor": "1.266"
+            }
+          ],
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "frase": "Só na última reunião foram dezoito",
+          "rotulo": "ÚLTIMA REUNIÃO",
+          "sub": "Projetos aprovados na última sessão do Conselho de Investimentos",
+          "tipo": "cartoes",
+          "titulo": "Só em uma reunião"
+        },
+        {
+          "fonte": "Fonte: INE Paraguai via Última Hora (31/10/2026)",
+          "frase": "O efeito já aparece no mercado",
+          "numero": "4,1%",
+          "rotulo": "DESEMPREGO · 3º TRI",
+          "sub": "No 3º trimestre de 2026, segundo o INE do Paraguai",
+          "tipo": "numero",
+          "titulo": "Desemprego no Paraguai"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Desemprego em 2025",
+              "valor": "4,9%"
+            },
+            {
+              "legenda": "Desemprego em 2026",
+              "valor": "4,1%"
+            },
+            {
+              "legenda": "Taxa de ocupação",
+              "valor": "70%"
+            }
+          ],
+          "fonte": "Fonte: INE Paraguai via Última Hora (31/10/2026)",
+          "frase": "Um ano antes, era quatro vírgula",
+          "rotulo": "EM UM ANO",
+          "sub": "3º trimestre de 2025 x 3º trimestre de 2026",
+          "tipo": "cartoes",
+          "titulo": "O mercado de trabalho melhorou"
+        },
+        {
+          "fonte": "Fonte: INE Paraguai via Última Hora (31/10/2026)",
+          "frase": "E o emprego formal fora do",
+          "numero": "+92 mil",
+          "rotulo": "EMPREGO FORMAL",
+          "sub": "De 1,15 milhão para 1,24 milhão de postos formais em um ano",
+          "tipo": "numero",
+          "titulo": "Mais carteira assinada fora do campo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "5,2%",
+              "valor": 5.2
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "4,1%",
+              "valor": 4.1
+            }
+          ],
+          "fonte": "Fontes: INE Paraguai e IBGE (3º tri/2026)",
+          "frase": "No Brasil, o desemprego está em",
+          "rotulo": "DESEMPREGO · 3º TRI 2026",
+          "sub": "No Brasil, é a menor taxa para o período desde 2012, mas ainda acima do vizinho",
+          "tipo": "barras",
+          "titulo": "Paraguai x Brasil"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Paraguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Paraguai é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "171 projetos",
+          "realce": "atraindo fábricas",
+          "rotulo": "PARAGUAI · EMPREGO",
+          "sub": "Aprovados de janeiro a outubro de 2026, mais que em todo 2025",
+          "tipo": "capa",
+          "titulo": "O Paraguai está atraindo fábricas e gerando emprego"
+        },
+        {
+          "barras": [
+            {
+              "nome": "2025 (ano todo)",
+              "texto": "162",
+              "valor": 162
+            },
+            {
+              "nome": "2026 (até out.)",
+              "texto": "171",
+              "valor": 171
+            }
+          ],
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "rotulo": "PROJETOS APROVADOS",
+          "sub": "Projetos aprovados pelo Conselho de Investimentos do Paraguai",
+          "tipo": "barras",
+          "titulo": "2026 já passou o ano inteiro de 2025"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Investimento",
+              "valor": "US$ 615 mi"
+            },
+            {
+              "legenda": "Empregos previstos",
+              "valor": "5.034"
+            },
+            {
+              "legenda": "Vagas só na última reunião",
+              "valor": "1.266"
+            }
+          ],
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "rotulo": "INVESTIMENTOS EM 2026",
+          "sub": "Investimento comprometido e vagas previstas, janeiro a outubro",
+          "tipo": "cartoes",
+          "titulo": "O que os 171 projetos trazem"
+        },
+        {
+          "fonte": "Fonte: INE Paraguai via Última Hora (31/10/2026)",
+          "itens": [
+            {
+              "s": "Era 4,9% no 3º trimestre de 2025",
+              "t": "Desemprego: 4,1%"
+            },
+            {
+              "s": "Fora do campo, passou de 1,15 milhão para 1,24 milhão de postos",
+              "t": "Emprego formal: +92 mil"
+            },
+            {
+              "s": "70% da população com 15 anos ou mais",
+              "t": "Ocupados: 3,29 milhões"
+            }
+          ],
+          "rotulo": "MERCADO DE TRABALHO",
+          "tipo": "lista",
+          "titulo": "O Paraguai no 3º trimestre de 2026"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "5,2%",
+              "valor": 5.2
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "4,1%",
+              "valor": 4.1
+            }
+          ],
+          "fonte": "Fontes: INE Paraguai e IBGE (3º tri/2026)",
+          "rotulo": "DESEMPREGO · 3º TRI 2026",
+          "sub": "No Brasil, é a menor taxa para o período desde 2012, mas ainda acima do vizinho",
+          "tipo": "barras",
+          "titulo": "Paraguai x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Paraguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Paraguai é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "171 projetos",
+          "realce": "atraindo fábricas",
+          "rotulo": "PARAGUAI · EMPREGO",
+          "sub": "Aprovados de janeiro a outubro de 2026, mais que em todo 2025",
+          "tipo": "capa",
+          "titulo": "O Paraguai está atraindo fábricas e gerando emprego"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Investimento",
+              "valor": "US$ 615 mi"
+            },
+            {
+              "legenda": "Empregos previstos",
+              "valor": "5.034"
+            },
+            {
+              "legenda": "Vagas só na última reunião",
+              "valor": "1.266"
+            }
+          ],
+          "fonte": "Fonte: La Tribuna (03/11/2026)",
+          "rotulo": "INVESTIMENTOS EM 2026",
+          "sub": "Investimento comprometido e vagas previstas, janeiro a outubro",
+          "tipo": "cartoes",
+          "titulo": "O que os 171 projetos trazem"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "5,2%",
+              "valor": 5.2
+            },
+            {
+              "nome": "Paraguai",
+              "texto": "4,1%",
+              "valor": 4.1
+            }
+          ],
+          "fonte": "Fontes: INE Paraguai e IBGE (3º tri/2026)",
+          "rotulo": "DESEMPREGO · 3º TRI 2026",
+          "sub": "No Brasil, é a menor taxa para o período desde 2012, mas ainda acima do vizinho",
+          "tipo": "barras",
+          "titulo": "Paraguai x Brasil"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Paraguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Paraguai é para você?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "br-20261107-dolar-alimentos",
     "pais": "BR",
     "titulo": "Dólar a R$ 5,48 chega ao seu café da manhã: açúcar sobe há 15 semanas",
