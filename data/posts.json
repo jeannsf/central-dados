@@ -1,5 +1,615 @@
 [
   {
+    "noticia_id": "br-20261109-celulares-sp",
+    "pais": "BR",
+    "titulo": "São Paulo: mais de 110 mil celulares levados em 9 meses, um a cada 3 minutos",
+    "legenda_ig": "📱 Em São Paulo, um celular é levado a cada 3 minutos.\n📊 Jan a set de 2026: quase 72 mil furtos e cerca de 39 mil roubos de celular na capital. Mais de 110 mil casos, 17 por hora.\n📉 Os roubos caíram 15,1% em relação a 2025, mas 17 dos 93 distritos tiveram alta.\n🏙️ No topo da alta: Santo Amaro, Consolação, Itaim Bibi, Sacomã e Pinheiros.\n🌍 Índice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º de 163.\n📌 Fontes: SSP-SP via Metrópoles (09/11/2026) e Índice Global da Paz 2026.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #segurança #saopaulo #chegadebrasil #portugal #novazelandia",
+    "post_x": "📱 São Paulo: mais de 110 mil celulares furtados ou roubados de jan a set de 2026. Um a cada 3 minutos.\n\nNo Índice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º.\n\nSiga para mais 👇",
+    "nota": "Fonte: SSP-SP via Metrópoles, 09/11/2026; Índice Global da Paz 2026 (IEP)",
+    "fonte": "Metrópoles",
+    "url": "https://www.metropoles.com/sao-paulo/veja-quais-bairros-tiveram-aumento-nos-furtos-e-roubos-de-celular-em-sp",
+    "criada": "2026-11-13T17:37:10Z",
+    "visual": {
+      "capa": {
+        "realce": "a cada 3 minutos",
+        "rotulo": "BRASIL · SEGURANÇA",
+        "selo": "110 mil casos em 9 meses",
+        "titulo": "Um celular levado a cada 3 minutos em SP"
+      },
+      "cenas": [
+        {
+          "frase": "Em São Paulo, um celular é levado",
+          "numero": "110 mil",
+          "realce": "a cada 3 minutos",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Furtos e roubos de celular de jan a set de 2026",
+          "tipo": "capa",
+          "titulo": "Em SP, um celular é levado a cada 3 minutos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Furtos",
+              "texto": "72 mil",
+              "valor": 72000
+            },
+            {
+              "nome": "Roubos",
+              "texto": "39 mil",
+              "valor": 39000
+            }
+          ],
+          "fonte": "SSP-SP via Metrópoles",
+          "frase": "De janeiro a setembro de 2026, foram",
+          "rotulo": "SÃO PAULO · JAN–SET 2026",
+          "sub": "Mais de 110 mil casos em nove meses, segundo a SSP-SP.",
+          "tipo": "barras",
+          "titulo": "Celulares levados na capital"
+        },
+        {
+          "frase": "Mais de cento e dez mil casos",
+          "numero": "110 mil",
+          "rotulo": "SÃO PAULO · 9 MESES",
+          "sub": "Dezessete por hora, um a cada três minutos",
+          "tipo": "numero",
+          "titulo": "Casos de furto e roubo de celular"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "casos por hora",
+              "valor": "17/h"
+            },
+            {
+              "legenda": "um celular levado",
+              "valor": "3 min"
+            },
+            {
+              "legenda": "roubos x 2025",
+              "valor": "-15,1%"
+            }
+          ],
+          "fonte": "SSP-SP via Metrópoles",
+          "frase": "Os roubos caíram quinze por cento em",
+          "rotulo": "O RITMO DOS CASOS",
+          "sub": "Os roubos caíram em 2026, mas o volume segue enorme.",
+          "tipo": "cartoes",
+          "titulo": "Uma rotina de perdas"
+        },
+        {
+          "frase": "E no topo estão bairros de classe",
+          "itens": [
+            {
+              "s": "Entre as maiores altas da cidade",
+              "t": "Santo Amaro e Consolação"
+            },
+            {
+              "s": "Bairros de classe média também subiram",
+              "t": "Itaim Bibi e Pinheiros"
+            },
+            {
+              "s": "Tiveram alta em 2026",
+              "t": "17 de 93 distritos"
+            }
+          ],
+          "rotulo": "BAIRROS COM ALTA",
+          "tipo": "lista",
+          "titulo": "Classe média no topo da alta"
+        },
+        {
+          "frase": "Ou seja: pagar mais caro para morar",
+          "rotulo": "A CONTA DA CLASSE MÉDIA",
+          "sub": "Pagar mais para morar num bairro bom não garante nada.",
+          "tipo": "texto",
+          "titulo": "Aluguel caro não compra segurança"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "No Índice Global da Paz de 2026,",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "frase": "Lá, tirar o celular do bolso na",
+          "rotulo": "DO OUTRO LADO",
+          "sub": "Tirar o celular do bolso na rua não é um risco calculado.",
+          "tipo": "texto",
+          "titulo": "Celular na mão, sem medo"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se dá",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se dá para viver com mais tranquilidade.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Dá para viver sem esse medo?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "110 mil",
+          "realce": "a cada 3 minutos",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Furtos e roubos de celular de jan a set de 2026",
+          "tipo": "capa",
+          "titulo": "Em SP, um celular é levado a cada 3 minutos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Furtos",
+              "texto": "72 mil",
+              "valor": 72000
+            },
+            {
+              "nome": "Roubos",
+              "texto": "39 mil",
+              "valor": 39000
+            }
+          ],
+          "fonte": "SSP-SP via Metrópoles",
+          "rotulo": "SÃO PAULO · JAN–SET 2026",
+          "sub": "Mais de 110 mil casos em nove meses, segundo a SSP-SP.",
+          "tipo": "barras",
+          "titulo": "Celulares levados na capital"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "casos por hora",
+              "valor": "17/h"
+            },
+            {
+              "legenda": "um celular levado",
+              "valor": "3 min"
+            },
+            {
+              "legenda": "roubos x 2025",
+              "valor": "-15,1%"
+            }
+          ],
+          "fonte": "SSP-SP via Metrópoles",
+          "rotulo": "O RITMO DOS CASOS",
+          "sub": "Os roubos caíram em 2026, mas o volume segue enorme.",
+          "tipo": "cartoes",
+          "titulo": "Uma rotina de perdas"
+        },
+        {
+          "fonte": "SSP-SP via Metrópoles",
+          "itens": [
+            {
+              "s": "Mesmo com a queda geral dos roubos em 2026",
+              "t": "17 de 93 distritos com alta"
+            },
+            {
+              "s": "No topo do ranking de aumento de casos",
+              "t": "Santo Amaro e Consolação"
+            },
+            {
+              "s": "Bairros de classe média também na lista de alta",
+              "t": "Itaim Bibi e Pinheiros"
+            },
+            {
+              "s": "Zona sul, entre os distritos que mais subiram",
+              "t": "Sacomã"
+            }
+          ],
+          "rotulo": "BAIRROS COM ALTA",
+          "tipo": "lista",
+          "titulo": "Bairro bom não é garantia"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Dá para viver sem esse medo?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "110 mil",
+          "realce": "a cada 3 minutos",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Furtos e roubos de celular de jan a set de 2026",
+          "tipo": "capa",
+          "titulo": "Em SP, um celular é levado a cada 3 minutos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Furtos",
+              "texto": "72 mil",
+              "valor": 72000
+            },
+            {
+              "nome": "Roubos",
+              "texto": "39 mil",
+              "valor": 39000
+            }
+          ],
+          "fonte": "SSP-SP via Metrópoles",
+          "rotulo": "SÃO PAULO · JAN–SET 2026",
+          "sub": "Mais de 110 mil casos em nove meses, segundo a SSP-SP.",
+          "tipo": "barras",
+          "titulo": "Celulares levados na capital"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Dá para viver sem esse medo?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261111-isp-territorios",
+    "pais": "BR",
+    "titulo": "1 em cada 3 moradores do RJ vive em área sob domínio de facção ou milícia",
+    "legenda_ig": "🚨 No Rio de Janeiro, 1 em cada 3 moradores vive em área dominada por facção ou milícia.\n📊 ISP-RJ (dados de 2025): 1.530 territórios, mais de 5 milhões de pessoas, 32,2% da população do estado.\n🗺️ Tudo isso em 614 km², só 1,4% do território.\n🔴 A maior facção controla 779 áreas, com quase 3 milhões de moradores. Milícias: 300 áreas e 917 mil moradores.\nℹ️ Em 2019 eram 868 áreas, mas o ISP diz que a comparação não é direta (o método mudou).\n🌍 Índice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º de 163.\n📌 Fontes: ISP-RJ via Observador/Lusa (11/11/2026) e Índice Global da Paz 2026.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #segurança #riodejaneiro #chegadebrasil #irlanda #portugal",
+    "post_x": "🚨 1 em cada 3 moradores do RJ vive em área sob domínio de facção ou milícia: 1.530 territórios, 5 milhões de pessoas (ISP-RJ).\n\nÍndice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º.\n\nSiga para mais 👇",
+    "nota": "Fonte: ISP-RJ via Observador (Agência Lusa), 11/11/2026; Índice Global da Paz 2026 (IEP)",
+    "fonte": "Observador (Agência Lusa), com dados do ISP-RJ",
+    "url": "https://observador.pt/2026/11/11/mais-de-1-3-da-populacao-do-rio-de-janeiro-vive-em-areas-do-crime-organizado/",
+    "criada": "2026-11-13T17:37:10Z",
+    "visual": {
+      "capa": {
+        "realce": "1 em cada 3",
+        "rotulo": "RIO · SEGURANÇA",
+        "selo": "5 milhões em 1.530 áreas",
+        "titulo": "1 em cada 3 no RJ vive sob domínio do crime"
+      },
+      "cenas": [
+        {
+          "frase": "No Rio de Janeiro, um em cada",
+          "numero": "32,2%",
+          "realce": "1 em cada 3",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Da população do estado, segundo o ISP-RJ (dados de 2025)",
+          "tipo": "capa",
+          "titulo": "1 em cada 3 moradores do RJ vive sob domínio do crime"
+        },
+        {
+          "frase": "São mil quinhentos e trinta territórios com",
+          "numero": "1.530",
+          "rotulo": "RIO DE JANEIRO · ISP",
+          "sub": "Mapeamento oficial com dados de 2025",
+          "tipo": "numero",
+          "titulo": "Territórios com facções e milícias"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "territórios",
+              "valor": "1.530"
+            },
+            {
+              "legenda": "moradores",
+              "valor": "+5 mi"
+            },
+            {
+              "legenda": "da população",
+              "valor": "32,2%"
+            }
+          ],
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "frase": "Onde vivem mais de cinco milhões de",
+          "rotulo": "RIO DE JANEIRO · ISP",
+          "sub": "Mapeamento oficial com dados de 2025, divulgado em 11/11/2026.",
+          "tipo": "cartoes",
+          "titulo": "O tamanho do domínio do crime"
+        },
+        {
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "frase": "Tudo isso em seiscentos e catorze quilômetros",
+          "numero": "1,4%",
+          "rotulo": "CONCENTRAÇÃO",
+          "sub": "Do território do estado (614 km²) concentra 32,2% da população sob domínio do crime.",
+          "tipo": "numero",
+          "titulo": "Um terço do povo em pouco espaço"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Maior facção",
+              "texto": "779 áreas",
+              "valor": 779
+            },
+            {
+              "nome": "Milícias",
+              "texto": "300 áreas",
+              "valor": 300
+            },
+            {
+              "nome": "2ª facção",
+              "texto": "274 áreas",
+              "valor": 274
+            },
+            {
+              "nome": "3ª facção",
+              "texto": "91 áreas",
+              "valor": 91
+            }
+          ],
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "frase": "Uma única facção controla setecentas e setenta",
+          "rotulo": "QUEM CONTROLA",
+          "sub": "Só a maior facção tem quase 3 milhões de moradores.",
+          "tipo": "barras",
+          "titulo": "Áreas por grupo criminoso"
+        },
+        {
+          "frase": "As milícias somam trezentas áreas e mais",
+          "numero": "300",
+          "rotulo": "MILÍCIAS",
+          "sub": "Com mais de 917 mil moradores",
+          "tipo": "numero",
+          "titulo": "Áreas sob controle de milícias"
+        },
+        {
+          "frase": "Em 2019, o mapa mostrava oitocentas e",
+          "rotulo": "EM 2019",
+          "sub": "O ISP avisa que a comparação não é direta, porque o método mudou.",
+          "tipo": "texto",
+          "titulo": "Eram 868 áreas mapeadas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "No Índice Global da Paz de 2026,",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se existe",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se existe lugar mais seguro para criar seus filhos.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde você quer criar seus filhos?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "32,2%",
+          "realce": "1 em cada 3",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Da população do estado, segundo o ISP-RJ (dados de 2025)",
+          "tipo": "capa",
+          "titulo": "1 em cada 3 moradores do RJ vive sob domínio do crime"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "territórios",
+              "valor": "1.530"
+            },
+            {
+              "legenda": "moradores",
+              "valor": "+5 mi"
+            },
+            {
+              "legenda": "da população",
+              "valor": "32,2%"
+            }
+          ],
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "rotulo": "RIO DE JANEIRO · ISP",
+          "sub": "Mapeamento oficial com dados de 2025, divulgado em 11/11/2026.",
+          "tipo": "cartoes",
+          "titulo": "O tamanho do domínio do crime"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Maior facção",
+              "texto": "779 áreas",
+              "valor": 779
+            },
+            {
+              "nome": "Milícias",
+              "texto": "300 áreas",
+              "valor": 300
+            },
+            {
+              "nome": "2ª facção",
+              "texto": "274 áreas",
+              "valor": 274
+            },
+            {
+              "nome": "3ª facção",
+              "texto": "91 áreas",
+              "valor": 91
+            }
+          ],
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "rotulo": "QUEM CONTROLA",
+          "sub": "Só a maior facção tem quase 3 milhões de moradores.",
+          "tipo": "barras",
+          "titulo": "Áreas por grupo criminoso"
+        },
+        {
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "numero": "1,4%",
+          "rotulo": "CONCENTRAÇÃO",
+          "sub": "Do território do estado (614 km²) concentra 32,2% da população sob domínio do crime.",
+          "tipo": "numero",
+          "titulo": "Um terço do povo em pouco espaço"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde você quer criar seus filhos?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "32,2%",
+          "realce": "1 em cada 3",
+          "rotulo": "BRASIL · SEGURANÇA",
+          "sub": "Da população do estado, segundo o ISP-RJ (dados de 2025)",
+          "tipo": "capa",
+          "titulo": "1 em cada 3 moradores do RJ vive sob domínio do crime"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "territórios",
+              "valor": "1.530"
+            },
+            {
+              "legenda": "moradores",
+              "valor": "+5 mi"
+            },
+            {
+              "legenda": "da população",
+              "valor": "32,2%"
+            }
+          ],
+          "fonte": "ISP-RJ via Observador/Lusa",
+          "rotulo": "RIO DE JANEIRO · ISP",
+          "sub": "Mapeamento oficial com dados de 2025, divulgado em 11/11/2026.",
+          "tipo": "cartoes",
+          "titulo": "O tamanho do domínio do crime"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde você quer criar seus filhos?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "br-20261108-inadimplencia",
     "pais": "BR",
     "titulo": "Inadimplência bate recorde: 84,2 milhões de brasileiros com contas atrasadas, segundo a Serasa",
