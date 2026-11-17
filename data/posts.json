@@ -1,5 +1,1883 @@
 [
   {
+    "noticia_id": "nz-20261105-visto-pais",
+    "pais": "NZ",
+    "titulo": "Nova Zelândia reserva até 2.500 vagas por ano para pais de imigrantes e faz 1ª seleção do novo modelo",
+    "legenda_ig": "👨‍👩‍👧 \"E os meus pais?\" A Nova Zelândia tem uma resposta.\n🏡 O país reserva até 2.500 vagas de residência por ano para pais de quem já mora lá.\n📅 A 1ª seleção do novo modelo foi em 10/11/2026.\n🕊️ Índice Global da Paz 2026: Nova Zelândia 2º. Brasil 124º de 163.\n📊 IDH da ONU: Nova Zelândia 17º x Brasil 84º.\n🌆 Auckland ficou em 7º entre as melhores cidades para viver (EIU 2025).\n📌 Fontes: New Zealand Shores (05/11/2026), Índice Global da Paz 2026, PNUD 2025 e EIU 2025.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #novazelandia #familia #chegadebrasil #qualidadedevida #intercambio",
+    "post_x": "👨‍👩‍👧 \"E os meus pais?\" A Nova Zelândia reserva até 2.500 vagas de residência por ano para pais de quem já mora lá.\n\n2º país mais pacífico do mundo (Brasil 124º). IDH 17º x Brasil 84º.\n\nSiga para mais 👇",
+    "nota": "Fonte: New Zealand Shores, 05/11/2026; Índice Global da Paz 2026; PNUD 2025; EIU 2025",
+    "fonte": "New Zealand Shores",
+    "url": "https://www.newzealandshores.com/news/parent-resident-visa-queue-first-selection-10-nov-2026/",
+    "criada": "2026-11-17T13:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "levar os pais",
+        "rotulo": "NOVA ZELÂNDIA · FAMÍLIA",
+        "selo": "2.500 vagas por ano para pais",
+        "titulo": "Na Nova Zelândia, dá para levar os pais"
+      },
+      "cenas": [
+        {
+          "frase": "Quem pensa em morar fora sempre",
+          "numero": "2.500",
+          "realce": "levar os pais",
+          "rotulo": "NOVA ZELÂNDIA · FAMÍLIA",
+          "sub": "Vagas de residência por ano para pais de quem mora lá",
+          "tipo": "capa",
+          "titulo": "Na Nova Zelândia, dá para pensar em levar os pais depois"
+        },
+        {
+          "fonte": "New Zealand Shores, 05/11/2026",
+          "frase": "O país reserva até duas mil",
+          "numero": "2.500",
+          "rotulo": "NOVA ZELÂNDIA · PAIS",
+          "sub": "Residências por ano para pais de quem já vive no país; limite mantido no novo modelo",
+          "tipo": "numero",
+          "titulo": "Vagas por ano só para pais"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "vagas por ano",
+              "valor": "2.500"
+            },
+            {
+              "legenda": "seleções por ano",
+              "valor": "4"
+            },
+            {
+              "legenda": "1ª seleção do novo modelo",
+              "valor": "10/11"
+            }
+          ],
+          "fonte": "New Zealand Shores, 05/11/2026",
+          "frase": "E em 10 de novembro de",
+          "rotulo": "NOVA ZELÂNDIA · PAIS",
+          "sub": "Limite anual mantido no novo modelo, que começou em outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "Vagas reservadas para os pais"
+        },
+        {
+          "frase": "Ou seja: dá para ir primeiro,",
+          "rotulo": "NA PRÁTICA",
+          "sub": "A Nova Zelândia mantém vagas fixas de residência para pais de quem já vive no país.",
+          "tipo": "texto",
+          "titulo": "Ir primeiro, reunir a família depois"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "No Índice Global da Paz de",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Posição entre 163 países. Quanto menor, mais pacífico.",
+          "tipo": "barras",
+          "titulo": "2º país mais pacífico do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "IDH Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "IDH Brasil",
+              "valor": "84º"
+            },
+            {
+              "legenda": "Auckland entre as cidades",
+              "valor": "7ª"
+            }
+          ],
+          "fonte": "PNUD 2025; EIU 2025",
+          "frase": "No ranking de desenvolvimento humano da",
+          "rotulo": "QUALIDADE DE VIDA",
+          "sub": "IDH da ONU (relatório 2025) e ranking de cidades da Economist (EIU 2025).",
+          "tipo": "cartoes",
+          "titulo": "Qualidade de vida em números"
+        },
+        {
+          "fonte": "EIU 2025",
+          "frase": "Auckland, a maior cidade, ficou em",
+          "numero": "7ª",
+          "rotulo": "AUCKLAND",
+          "sub": "Ranking de habitabilidade da Economist (EIU) de 2025",
+          "tipo": "numero",
+          "titulo": "Entre as melhores cidades para viver"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Imagine seus pais envelhecendo perto de você, num lugar assim.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "E se seus pais viessem depois?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "2.500",
+          "realce": "levar os pais",
+          "rotulo": "NOVA ZELÂNDIA · FAMÍLIA",
+          "sub": "Vagas de residência por ano para pais de quem mora lá",
+          "tipo": "capa",
+          "titulo": "Na Nova Zelândia, dá para pensar em levar os pais depois"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "vagas por ano",
+              "valor": "2.500"
+            },
+            {
+              "legenda": "seleções por ano",
+              "valor": "4"
+            },
+            {
+              "legenda": "1ª seleção do novo modelo",
+              "valor": "10/11"
+            }
+          ],
+          "fonte": "New Zealand Shores, 05/11/2026",
+          "rotulo": "NOVA ZELÂNDIA · PAIS",
+          "sub": "Limite anual mantido no novo modelo, que começou em outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "Vagas reservadas para os pais"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Posição entre 163 países. Quanto menor, mais pacífico.",
+          "tipo": "barras",
+          "titulo": "2º país mais pacífico do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "IDH Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "IDH Brasil",
+              "valor": "84º"
+            },
+            {
+              "legenda": "Auckland entre as cidades",
+              "valor": "7ª"
+            }
+          ],
+          "fonte": "PNUD 2025; EIU 2025",
+          "rotulo": "QUALIDADE DE VIDA",
+          "sub": "IDH da ONU (relatório 2025) e ranking de cidades da Economist (EIU 2025).",
+          "tipo": "cartoes",
+          "titulo": "Qualidade de vida em números"
+        },
+        {
+          "fonte": "IEP 2026; PNUD 2025; EIU 2025",
+          "itens": [
+            {
+              "s": "Índice Global da Paz 2026; Brasil em 124º de 163",
+              "t": "2º país mais pacífico"
+            },
+            {
+              "s": "O Brasil aparece em 84º no mesmo ranking da ONU",
+              "t": "IDH em 17º no mundo"
+            },
+            {
+              "s": "Ranking de cidades para viver da Economist (2025)",
+              "t": "Auckland, 7ª melhor cidade"
+            }
+          ],
+          "rotulo": "POR QUE A NOVA ZELÂNDIA",
+          "tipo": "lista",
+          "titulo": "Um lugar para a família toda"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "E se seus pais viessem depois?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "2.500",
+          "realce": "levar os pais",
+          "rotulo": "NOVA ZELÂNDIA · FAMÍLIA",
+          "sub": "Vagas de residência por ano para pais de quem mora lá",
+          "tipo": "capa",
+          "titulo": "Na Nova Zelândia, dá para pensar em levar os pais depois"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "vagas por ano",
+              "valor": "2.500"
+            },
+            {
+              "legenda": "seleções por ano",
+              "valor": "4"
+            },
+            {
+              "legenda": "1ª seleção do novo modelo",
+              "valor": "10/11"
+            }
+          ],
+          "fonte": "New Zealand Shores, 05/11/2026",
+          "rotulo": "NOVA ZELÂNDIA · PAIS",
+          "sub": "Limite anual mantido no novo modelo, que começou em outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "Vagas reservadas para os pais"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "IDH Nova Zelândia",
+              "valor": "17º"
+            },
+            {
+              "legenda": "IDH Brasil",
+              "valor": "84º"
+            },
+            {
+              "legenda": "Auckland entre as cidades",
+              "valor": "7ª"
+            }
+          ],
+          "fonte": "PNUD 2025; EIU 2025",
+          "rotulo": "QUALIDADE DE VIDA",
+          "sub": "IDH da ONU (relatório 2025) e ranking de cidades da Economist (EIU 2025).",
+          "tipo": "cartoes",
+          "titulo": "Qualidade de vida em números"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Nova Zelândia com outros 10 países",
+          "tipo": "cta",
+          "titulo": "E se seus pais viessem depois?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261106-custo-crime-pib",
+    "pais": "BR",
+    "titulo": "Crime organizado custa às empresas 4,2% do PIB, mais de R$ 450 bilhões por ano, e entra no Custo Brasil",
+    "legenda_ig": "💰 O crime organizado custa às empresas no Brasil 4,2% do PIB por ano: mais de R$ 450 bilhões.\n🛡️ O valor inclui segurança privada, seguros, riscos contratuais e interrupções logísticas.\n👤 Dividido pela população (213,4 milhões, IBGE), dá mais de R$ 2 mil por brasileiro por ano.\n🏭 81% dos industriais dizem que a violência encarece operar no país (CNI).\n📊 A segurança vira categoria própria na nova medição do Custo Brasil, que o MBC apresenta em 18/11/2026.\n📈 Juro real: Brasil 9,49% ao ano, o maior do mundo.\n🌍 Índice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º.\n📌 Fontes: Brasil em Folhas (06/11/2026), MBC/Monitor Deloitte, CNI, IBGE e Índice Global da Paz 2026.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #custobrasil #segurança #chegadebrasil #portugal #irlanda",
+    "post_x": "💰 O crime organizado custa às empresas 4,2% do PIB por ano: mais de R$ 450 bilhões, ou mais de R$ 2 mil por brasileiro.\n\nÍndice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º. Brasil 124º.\n\nSiga para mais 👇",
+    "nota": "Fonte: Brasil em Folhas (MBC/Monitor Deloitte, CNI), 06/11/2026; IBGE 2025; Índice Global da Paz 2026. Valor por pessoa calculado: R$ 450 bi ÷ 213,4 mi.",
+    "fonte": "Brasil em Folhas",
+    "url": "https://brasilemfolhas.com.br/2026/11/custo-brasil-passa-a-incluir-inseguranca-e-juros-reais/",
+    "criada": "2026-11-17T13:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "R$ 450 bilhões",
+        "rotulo": "BRASIL · CUSTO DO CRIME",
+        "selo": "4,2% do PIB, todo ano",
+        "titulo": "O crime custa R$ 450 bilhões por ano"
+      },
+      "cenas": [
+        {
+          "frase": "O crime no Brasil também tem",
+          "numero": "4,2% do PIB",
+          "realce": "R$ 450 bilhões",
+          "rotulo": "BRASIL · CUSTO DO CRIME",
+          "sub": "Custo anual do crime organizado só para o setor privado",
+          "tipo": "capa",
+          "titulo": "O crime custa mais de R$ 450 bilhões por ano às empresas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "do PIB por ano",
+              "valor": "4,2%"
+            },
+            {
+              "legenda": "pagos pelas empresas",
+              "valor": "R$ 450 bi"
+            },
+            {
+              "legenda": "por brasileiro/ano",
+              "valor": "R$ 2,1 mil"
+            }
+          ],
+          "fonte": "Brasil em Folhas, 06/11/2026; IBGE",
+          "frase": "O crime organizado custa às empresas",
+          "rotulo": "O TAMANHO DA CONTA",
+          "sub": "Estimativa do MBC com a Monitor Deloitte. Por pessoa: R$ 450 bi ÷ 213,4 mi (IBGE).",
+          "tipo": "cartoes",
+          "titulo": "Quanto o crime custa por ano"
+        },
+        {
+          "fonte": "MBC / Monitor Deloitte",
+          "frase": "Dinheiro gasto com segurança privada, seguros",
+          "itens": [
+            {
+              "s": "Vigilância e proteção que a empresa precisa pagar",
+              "t": "Segurança privada"
+            },
+            {
+              "s": "Apólices mais caras por causa do risco",
+              "t": "Seguros"
+            },
+            {
+              "s": "Contratos mais caros pelo risco de operar",
+              "t": "Riscos contratuais"
+            },
+            {
+              "s": "Interrupções no transporte de mercadorias",
+              "t": "Logística"
+            }
+          ],
+          "rotulo": "PARA ONDE VAI",
+          "tipo": "lista",
+          "titulo": "Onde o crime pesa nas empresas"
+        },
+        {
+          "frase": "Dividido pela população, dá mais de",
+          "numero": "R$ 2,1 mil",
+          "rotulo": "POR PESSOA",
+          "sub": "Por ano: R$ 450 bilhões divididos por 213,4 milhões de habitantes (IBGE 2025)",
+          "tipo": "numero",
+          "titulo": "Mais de R$ 2 mil por brasileiro"
+        },
+        {
+          "frase": "Oitenta e um por cento dos",
+          "numero": "81%",
+          "rotulo": "INDÚSTRIA · CNI",
+          "sub": "Dos industriais dizem que a violência encarece operar no Brasil",
+          "tipo": "numero",
+          "titulo": "Violência encarece produzir"
+        },
+        {
+          "frase": "Tanto que a segurança vai virar",
+          "rotulo": "CUSTO BRASIL",
+          "sub": "Nova medição do MBC sai em 18/11/2026. A última estimou R$ 1,7 trilhão por ano, 19,5% do PIB.",
+          "tipo": "texto",
+          "titulo": "Segurança vira categoria própria"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "9,49%",
+              "valor": 9.49
+            },
+            {
+              "nome": "Turquia",
+              "texto": "7,77%",
+              "valor": 7.77
+            },
+            {
+              "nome": "Argentina",
+              "texto": "6,80%",
+              "valor": 6.8
+            }
+          ],
+          "fonte": "Brasil em Folhas, 06/11/2026",
+          "frase": "O Brasil tem o maior juro",
+          "rotulo": "JURO REAL",
+          "sub": "Taxa real ao ano, em levantamento com 40 economias.",
+          "tipo": "barras",
+          "titulo": "O maior juro real do mundo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Portugal",
+              "texto": "7º",
+              "valor": 7
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "No Índice Global da Paz de",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Entre 163 países. Quanto menor a posição, mais pacífico.",
+          "tipo": "barras",
+          "titulo": "Posição no ranking da paz"
+        },
+        {
+          "frase": "Talvez a pergunta não seja quanto",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja quanto custa morar fora.",
+          "tipo": "texto",
+          "titulo": "Quanto custa continuar aqui?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa continuar aqui?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "4,2% do PIB",
+          "realce": "R$ 450 bilhões",
+          "rotulo": "BRASIL · CUSTO DO CRIME",
+          "sub": "Custo anual do crime organizado só para o setor privado",
+          "tipo": "capa",
+          "titulo": "O crime custa mais de R$ 450 bilhões por ano às empresas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "do PIB por ano",
+              "valor": "4,2%"
+            },
+            {
+              "legenda": "pagos pelas empresas",
+              "valor": "R$ 450 bi"
+            },
+            {
+              "legenda": "por brasileiro/ano",
+              "valor": "R$ 2,1 mil"
+            }
+          ],
+          "fonte": "Brasil em Folhas, 06/11/2026; IBGE",
+          "rotulo": "O TAMANHO DA CONTA",
+          "sub": "Estimativa do MBC com a Monitor Deloitte. Por pessoa: R$ 450 bi ÷ 213,4 mi (IBGE).",
+          "tipo": "cartoes",
+          "titulo": "Quanto o crime custa por ano"
+        },
+        {
+          "fonte": "MBC / Monitor Deloitte",
+          "itens": [
+            {
+              "s": "Vigilância e proteção que a empresa precisa pagar",
+              "t": "Segurança privada"
+            },
+            {
+              "s": "Apólices mais caras por causa do risco",
+              "t": "Seguros"
+            },
+            {
+              "s": "Contratos mais caros pelo risco de operar",
+              "t": "Riscos contratuais"
+            },
+            {
+              "s": "Interrupções no transporte de mercadorias",
+              "t": "Logística"
+            }
+          ],
+          "rotulo": "PARA ONDE VAI",
+          "tipo": "lista",
+          "titulo": "Onde o crime pesa nas empresas"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "9,49%",
+              "valor": 9.49
+            },
+            {
+              "nome": "Turquia",
+              "texto": "7,77%",
+              "valor": 7.77
+            },
+            {
+              "nome": "Argentina",
+              "texto": "6,80%",
+              "valor": 6.8
+            }
+          ],
+          "fonte": "Brasil em Folhas, 06/11/2026",
+          "rotulo": "JURO REAL",
+          "sub": "Taxa real ao ano, em levantamento com 40 economias.",
+          "tipo": "barras",
+          "titulo": "O maior juro real do mundo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa continuar aqui?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "4,2% do PIB",
+          "realce": "R$ 450 bilhões",
+          "rotulo": "BRASIL · CUSTO DO CRIME",
+          "sub": "Custo anual do crime organizado só para o setor privado",
+          "tipo": "capa",
+          "titulo": "O crime custa mais de R$ 450 bilhões por ano às empresas"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "do PIB por ano",
+              "valor": "4,2%"
+            },
+            {
+              "legenda": "pagos pelas empresas",
+              "valor": "R$ 450 bi"
+            },
+            {
+              "legenda": "por brasileiro/ano",
+              "valor": "R$ 2,1 mil"
+            }
+          ],
+          "fonte": "Brasil em Folhas, 06/11/2026; IBGE",
+          "rotulo": "O TAMANHO DA CONTA",
+          "sub": "Estimativa do MBC com a Monitor Deloitte. Por pessoa: R$ 450 bi ÷ 213,4 mi (IBGE).",
+          "tipo": "cartoes",
+          "titulo": "Quanto o crime custa por ano"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Quanto custa continuar aqui?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261102-taxa-agua-ceara",
+    "pais": "BR",
+    "titulo": "No sertão do Ceará, facção impõe 'taxa da água' e água mineral passa a chegar com escolta policial",
+    "legenda_ig": "🚰 No sertão do Ceará, até a água mineral precisa de escolta policial.\n📄 Em Banabuiú (CE), um edital de facção de 19/10/2026 condicionou a venda de água à autorização do grupo.\n💸 Cobranças: R$ 200 para uma loja funcionar e até R$ 750 por semana de quem distribui água.\n🏫 Em 21/10, uma escola municipal suspendeu as aulas por falta de água.\n🚓 Desde 31/10, SSPDS e Cagece levam a água em comboio com escolta policial.\n🌍 Índice Global da Paz 2026: Nova Zelândia 2º, Irlanda 5º, Portugal 7º, Uruguai 43º. Brasil 124º de 163.\n📌 Fontes: Metrópoles (02/11/2026) e Índice Global da Paz 2026.\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#morarfora #segurança #ceara #chegadebrasil #novazelandia #portugal",
+    "post_x": "🚰 No sertão do Ceará, a venda de água passou a depender de facção: R$ 750 por semana de quem distribui. Agora a água chega com escolta policial.\n\nÍndice Global da Paz 2026: Nova Zelândia 2º, Portugal 7º. Brasil 124º.\n\nSiga para mais 👇",
+    "nota": "Fonte: Metrópoles, 02/11/2026; Índice Global da Paz 2026 (IEP)",
+    "fonte": "Metrópoles",
+    "url": "https://www.metropoles.com/distrito-federal/na-mira/comando-vermelho-impoe-taxa-da-agua-e-forca-comercio-a-operar-sob-escolta",
+    "criada": "2026-11-17T13:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "até a água",
+        "rotulo": "CEARÁ · SEGURANÇA",
+        "selo": "Até R$ 750 por semana à facção",
+        "titulo": "No Ceará, até a água precisa de escolta"
+      },
+      "cenas": [
+        {
+          "frase": "No sertão do Ceará, até a",
+          "numero": "R$ 750",
+          "realce": "até a água",
+          "rotulo": "CEARÁ · SEGURANÇA",
+          "sub": "Por semana, cobrados de quem distribui água em Banabuiú",
+          "tipo": "capa",
+          "titulo": "No sertão do Ceará, até a água precisa de escolta policial"
+        },
+        {
+          "fonte": "Metrópoles, 02/11/2026",
+          "frase": "Em Banabuiú, uma facção espalhou um",
+          "itens": [
+            {
+              "s": "Venda de água só com autorização do grupo",
+              "t": "19/10: edital da facção"
+            },
+            {
+              "s": "Escola municipal suspende aulas por falta total de água",
+              "t": "21/10: escola sem aulas"
+            },
+            {
+              "s": "SSPDS e Cagece levam água mineral em comboio policial",
+              "t": "31/10: água com escolta"
+            }
+          ],
+          "rotulo": "LINHA DO TEMPO",
+          "tipo": "lista",
+          "titulo": "Como a água virou alvo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "para a loja abrir",
+              "valor": "R$ 200"
+            },
+            {
+              "legenda": "por semana na distribuição",
+              "valor": "R$ 750"
+            },
+            {
+              "legenda": "presos em flagrante",
+              "valor": "3"
+            }
+          ],
+          "fonte": "Metrópoles, 02/11/2026",
+          "frase": "Loja que quisesse funcionar tinha que",
+          "rotulo": "BANABUIÚ (CE)",
+          "sub": "Valores do edital e das extorsões de outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "O preço cobrado pela facção"
+        },
+        {
+          "frase": "Uma escola municipal chegou a suspender",
+          "numero": "21/10",
+          "rotulo": "EDUCAÇÃO",
+          "sub": "Dia em que uma escola municipal de Banabuiú suspendeu as aulas sem abastecimento",
+          "tipo": "numero",
+          "titulo": "Escola fechada por falta de água"
+        },
+        {
+          "frase": "Desde 31 de outubro, a água",
+          "numero": "31/10",
+          "rotulo": "OPERAÇÃO DE EMERGÊNCIA",
+          "sub": "Desde então, SSPDS e Cagece levam a água em comboio, com polícia todos os dias",
+          "tipo": "numero",
+          "titulo": "Água mineral chega com escolta"
+        },
+        {
+          "frase": "Água. O item mais básico de",
+          "rotulo": "PENSE NISSO",
+          "sub": "Em Banabuiú, até a venda de garrafão passou a depender da autorização de uma facção.",
+          "tipo": "texto",
+          "titulo": "Água: o item mais básico de uma casa"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Portugal",
+              "texto": "7º",
+              "valor": 7
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "No Índice Global da Paz de",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Entre 163 países. Quanto menor a posição, mais pacífico.",
+          "tipo": "barras",
+          "titulo": "Posição no ranking da paz"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "frase": "A Nova Zelândia está em segundo.",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se dá para viver em paz.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde a água chega sem escolta?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 750",
+          "realce": "até a água",
+          "rotulo": "CEARÁ · SEGURANÇA",
+          "sub": "Por semana, cobrados de quem distribui água em Banabuiú",
+          "tipo": "capa",
+          "titulo": "No sertão do Ceará, até a água precisa de escolta policial"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "para a loja abrir",
+              "valor": "R$ 200"
+            },
+            {
+              "legenda": "por semana na distribuição",
+              "valor": "R$ 750"
+            },
+            {
+              "legenda": "presos em flagrante",
+              "valor": "3"
+            }
+          ],
+          "fonte": "Metrópoles, 02/11/2026",
+          "rotulo": "BANABUIÚ (CE)",
+          "sub": "Valores do edital e das extorsões de outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "O preço cobrado pela facção"
+        },
+        {
+          "fonte": "Metrópoles, 02/11/2026",
+          "itens": [
+            {
+              "s": "Venda de água só com autorização do grupo",
+              "t": "19/10: edital da facção"
+            },
+            {
+              "s": "Escola municipal suspende aulas por falta total de água",
+              "t": "21/10: escola sem aulas"
+            },
+            {
+              "s": "SSPDS e Cagece levam água mineral em comboio policial",
+              "t": "31/10: água com escolta"
+            }
+          ],
+          "rotulo": "LINHA DO TEMPO",
+          "tipo": "lista",
+          "titulo": "Como a água virou alvo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Portugal",
+              "texto": "7º",
+              "valor": 7
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Entre 163 países. Quanto menor a posição, mais pacífico.",
+          "tipo": "barras",
+          "titulo": "Posição no ranking da paz"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            },
+            {
+              "legenda": "Uruguai",
+              "valor": "43º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Países do guia bem à frente"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde a água chega sem escolta?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 750",
+          "realce": "até a água",
+          "rotulo": "CEARÁ · SEGURANÇA",
+          "sub": "Por semana, cobrados de quem distribui água em Banabuiú",
+          "tipo": "capa",
+          "titulo": "No sertão do Ceará, até a água precisa de escolta policial"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "para a loja abrir",
+              "valor": "R$ 200"
+            },
+            {
+              "legenda": "por semana na distribuição",
+              "valor": "R$ 750"
+            },
+            {
+              "legenda": "presos em flagrante",
+              "valor": "3"
+            }
+          ],
+          "fonte": "Metrópoles, 02/11/2026",
+          "rotulo": "BANABUIÚ (CE)",
+          "sub": "Valores do edital e das extorsões de outubro de 2026.",
+          "tipo": "cartoes",
+          "titulo": "O preço cobrado pela facção"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Nova Zelândia",
+              "valor": "2º"
+            },
+            {
+              "legenda": "Irlanda",
+              "valor": "5º"
+            },
+            {
+              "legenda": "Portugal",
+              "valor": "7º"
+            }
+          ],
+          "fonte": "Índice Global da Paz 2026",
+          "rotulo": "ÍNDICE GLOBAL DA PAZ",
+          "sub": "Ranking 2026 com 163 países. O Brasil ficou em 124º.",
+          "tipo": "cartoes",
+          "titulo": "Onde a rua é tranquila"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Onde a água chega sem escolta?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "uy-20261103-bid-empregos",
+    "pais": "UY",
+    "titulo": "Uruguai tem os melhores empregos da América Latina; Chile é 2º e Brasil, 3º (BID)",
+    "legenda_ig": "🏆 O Uruguai tem os melhores empregos da América Latina, segundo o Índice de Melhores Empregos 2026 do BID (dados de 2024).\n🥇 Uruguai: 72,2 pontos\n🥈 Chile: 69,9\n🥉 Brasil: 64,4 (média da região: 58,0)\n📊 Na qualidade do emprego, que mede formalidade e renda suficiente para sair da pobreza: Uruguai 64,0, Chile 62,5, Brasil 54,4 e média regional 40,6.\n⚠️ Na região, cerca de 69% dos trabalhadores não contribuem para a previdência.\n✈️ Os dois primeiros do ranking ficam a poucas horas de voo do Brasil.\n\n📌 Fonte: BID, via Emol (03/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#uruguai #chile #emprego #morarfora #americalatina #chegadebrasil",
+    "post_x": "🏆 Índice de Melhores Empregos 2026 do BID: Uruguai em 1º (72,2), Chile em 2º (69,9) e Brasil em 3º (64,4). Na qualidade do emprego: Uruguai 64,0, Chile 62,5, Brasil 54,4. Siga para mais 👇",
+    "nota": "Fonte: BID via Emol, 03/11/2026",
+    "fonte": "Emol",
+    "url": "https://www.emol.com/noticias/Economia/2026/11/03/1216013/indice-mejores-trabajos-bid-ranking.html",
+    "criada": "2026-11-17T12:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "melhores empregos",
+        "rotulo": "URUGUAI · EMPREGO",
+        "selo": "Uruguai 72,2 x Brasil 64,4",
+        "titulo": "O Uruguai tem os melhores empregos da América Latina"
+      },
+      "cenas": [
+        {
+          "frase": "Existe um país aqui do lado",
+          "numero": "1º lugar",
+          "realce": "aqui do lado",
+          "rotulo": "URUGUAI · EMPREGO",
+          "sub": "Uruguai no índice do BID 2026",
+          "tipo": "capa",
+          "titulo": "O emprego é melhor aqui do lado"
+        },
+        {
+          "frase": "O Banco Interamericano de Desenvolvimento publicou o",
+          "numero": "2026",
+          "rotulo": "BID · 2026",
+          "sub": "América Latina e Caribe, com dados de 2024",
+          "tipo": "numero",
+          "titulo": "Índice de Melhores Empregos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "72,2",
+              "valor": 72.2
+            },
+            {
+              "nome": "Chile",
+              "texto": "69,9",
+              "valor": 69.9
+            },
+            {
+              "nome": "Brasil",
+              "texto": "64,4",
+              "valor": 64.4
+            }
+          ],
+          "frase": "Em primeiro lugar, o Uruguai, com",
+          "rotulo": "RANKING BID 2026",
+          "sub": "Pontuação geral de 0 a 100",
+          "tipo": "barras",
+          "titulo": "Pódio do emprego"
+        },
+        {
+          "frase": "Mas a diferença maior está na",
+          "rotulo": "QUALIDADE DO EMPREGO",
+          "sub": "Trabalho formal e com renda suficiente para sair da pobreza.",
+          "tipo": "texto",
+          "titulo": "O que é emprego de qualidade"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "64,0",
+              "valor": 64
+            },
+            {
+              "nome": "Chile",
+              "texto": "62,5",
+              "valor": 62.5
+            },
+            {
+              "nome": "Brasil",
+              "texto": "54,4",
+              "valor": 54.4
+            }
+          ],
+          "frase": "O Uruguai marca sessenta e quatro.",
+          "rotulo": "QUALIDADE DO EMPREGO",
+          "sub": "Pontuação de qualidade (0 a 100)",
+          "tipo": "barras",
+          "titulo": "Uruguai e Chile na frente"
+        },
+        {
+          "frase": "A média da região é só",
+          "numero": "40,6",
+          "rotulo": "MÉDIA DA REGIÃO",
+          "sub": "Uruguai tem 64,0 e Brasil 54,4",
+          "tipo": "numero",
+          "titulo": "Qualidade do emprego na região"
+        },
+        {
+          "frase": "Na região, cerca de sessenta e nove",
+          "numero": "69%",
+          "rotulo": "PREVIDÊNCIA",
+          "sub": "dos trabalhadores da América Latina",
+          "tipo": "numero",
+          "titulo": "Sem contribuir para a previdência"
+        },
+        {
+          "frase": "Ter emprego não é o mesmo",
+          "itens": [
+            {
+              "s": "Qualidade 64,0 · geral 72,2",
+              "t": "Uruguai"
+            },
+            {
+              "s": "Qualidade 62,5 · geral 69,9",
+              "t": "Chile"
+            },
+            {
+              "s": "Qualidade 54,4 · geral 64,4",
+              "t": "Brasil"
+            }
+          ],
+          "rotulo": "EMPREGO X BOM EMPREGO",
+          "tipo": "lista",
+          "titulo": "A diferença está na qualidade"
+        },
+        {
+          "frase": "E os dois ficam a poucas",
+          "rotulo": "URUGUAI E CHILE",
+          "sub": "Os dois primeiros do ranking ficam a poucas horas de voo do Brasil.",
+          "tipo": "texto",
+          "titulo": "Bem aqui do lado"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "1º lugar",
+          "realce": "melhores empregos",
+          "rotulo": "URUGUAI · EMPREGO",
+          "sub": "Índice de Melhores Empregos 2026 do BID",
+          "tipo": "capa",
+          "titulo": "O Uruguai tem os melhores empregos da América Latina"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "72,2",
+              "valor": 72.2
+            },
+            {
+              "nome": "Chile",
+              "texto": "69,9",
+              "valor": 69.9
+            },
+            {
+              "nome": "Brasil",
+              "texto": "64,4",
+              "valor": 64.4
+            },
+            {
+              "nome": "Média da região",
+              "texto": "58,0",
+              "valor": 58
+            }
+          ],
+          "fonte": "BID / Emol",
+          "rotulo": "RANKING BID 2026",
+          "sub": "Pontuação geral de 0 a 100, com dados de 2024",
+          "tipo": "barras",
+          "titulo": "Pódio: Uruguai, Chile e Brasil"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "64,0",
+              "valor": 64
+            },
+            {
+              "nome": "Chile",
+              "texto": "62,5",
+              "valor": 62.5
+            },
+            {
+              "nome": "Brasil",
+              "texto": "54,4",
+              "valor": 54.4
+            },
+            {
+              "nome": "Média da região",
+              "texto": "40,6",
+              "valor": 40.6
+            }
+          ],
+          "fonte": "BID / Emol",
+          "rotulo": "QUALIDADE DO EMPREGO",
+          "sub": "Mede formalidade e renda suficiente para sair da pobreza",
+          "tipo": "barras",
+          "titulo": "Onde o trabalho é formal e paga melhor"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "Argentina (5º)",
+              "valor": "62,0"
+            },
+            {
+              "legenda": "Paraguai (7º)",
+              "valor": "59,8"
+            },
+            {
+              "legenda": "Média da região",
+              "valor": "58,0"
+            }
+          ],
+          "fonte": "BID / Emol",
+          "rotulo": "OUTROS VIZINHOS",
+          "sub": "Pontuação geral no índice do BID 2026",
+          "tipo": "cartoes",
+          "titulo": "E o resto da América do Sul?"
+        },
+        {
+          "fonte": "BID / Emol",
+          "itens": [
+            {
+              "s": "Trabalhadores da região que não contribuem",
+              "t": "69% sem previdência"
+            },
+            {
+              "s": "Na região, subiu só 4 pontos entre 2010 e 2024",
+              "t": "Formalidade de 31%"
+            },
+            {
+              "s": "Uruguai 80,4 x Chile 77,4 x Brasil 74,4",
+              "t": "Quantidade de vagas"
+            }
+          ],
+          "rotulo": "O QUE O ÍNDICE MOSTRA",
+          "tipo": "lista",
+          "titulo": "Ter emprego não é ter bom emprego"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "1º lugar",
+          "realce": "melhores empregos",
+          "rotulo": "URUGUAI · EMPREGO",
+          "sub": "Índice de Melhores Empregos 2026 do BID",
+          "tipo": "capa",
+          "titulo": "O Uruguai tem os melhores empregos da América Latina"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "72,2",
+              "valor": 72.2
+            },
+            {
+              "nome": "Chile",
+              "texto": "69,9",
+              "valor": 69.9
+            },
+            {
+              "nome": "Brasil",
+              "texto": "64,4",
+              "valor": 64.4
+            },
+            {
+              "nome": "Média da região",
+              "texto": "58,0",
+              "valor": 58
+            }
+          ],
+          "fonte": "BID / Emol",
+          "rotulo": "RANKING BID 2026",
+          "sub": "Pontuação geral de 0 a 100, com dados de 2024",
+          "tipo": "barras",
+          "titulo": "Pódio: Uruguai, Chile e Brasil"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Uruguai",
+              "texto": "64,0",
+              "valor": 64
+            },
+            {
+              "nome": "Chile",
+              "texto": "62,5",
+              "valor": 62.5
+            },
+            {
+              "nome": "Brasil",
+              "texto": "54,4",
+              "valor": 54.4
+            },
+            {
+              "nome": "Média da região",
+              "texto": "40,6",
+              "valor": 40.6
+            }
+          ],
+          "fonte": "BID / Emol",
+          "rotulo": "QUALIDADE DO EMPREGO",
+          "sub": "Mede formalidade e renda suficiente para sair da pobreza",
+          "tipo": "barras",
+          "titulo": "Onde o trabalho é formal e paga melhor"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Uruguai com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Uruguai é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261116-dolar-577",
+    "pais": "BR",
+    "titulo": "Dólar passa de R$ 5,77 e o salário mínimo encolhe para US$ 281",
+    "legenda_ig": "💸 O dólar passou de R$ 5,77 em 16/11/2026, o maior valor desde abril de 2025.\n📈 Em 30/10 ele estava em R$ 5,44: alta de 6% em 17 dias.\n📉 O salário mínimo de R$ 1.621 caiu de US$ 298 para US$ 281.\n🇵🇹 Em Portugal, o mínimo é € 920 (≈ R$ 5.851, com o euro a R$ 6,36): mais de 3,5x o daqui.\n🇨🇦 Na Colúmbia Britânica, uma educadora infantil ganha em geral C$ 24 por hora (≈ R$ 97). Em menos de 17 horas, ela ganha um mínimo brasileiro.\n🤔 Quem ganha em moeda forte não sente o dólar subir. Quem ganha em real sente todo mês.\n\n📌 Fontes: Mix Vale / Banco Central, Infobae, Job Bank (Canadá)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#dolar #salariominimo #morarfora #portugal #canada #chegadebrasil",
+    "post_x": "💸 O dólar passou de R$ 5,77 em 16/11/2026, maior nível desde abril de 2025. O salário mínimo de R$ 1.621 caiu de US$ 298 para US$ 281 em 17 dias. Em Portugal, o mínimo é € 920 (≈ R$ 5.851). Siga para mais 👇",
+    "nota": "Fonte: Mix Vale / Banco Central, 16/11/2026 (euro: Infobae; salário BC: Job Bank 2023-2024)",
+    "fonte": "Mix Vale / Banco Central (PTAX)",
+    "url": "https://www.mixvale.com.br/2026/11/16/dolar-supera-r-577-e-bate-maior-valor-desde-abril-de-2025-ibovespa-cai-mais-de-1/",
+    "criada": "2026-11-17T12:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "seu salário encolhe",
+        "rotulo": "BRASIL · DÓLAR",
+        "selo": "Mínimo: US$ 298 → US$ 281",
+        "titulo": "Dólar passa de R$ 5,77 e seu salário encolhe"
+      },
+      "cenas": [
+        {
+          "frase": "Seu salário encolheu de novo.",
+          "numero": "R$ 5,77",
+          "realce": "encolheu de novo",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Dólar em 16/11/2026",
+          "tipo": "capa",
+          "titulo": "Seu salário encolheu de novo"
+        },
+        {
+          "frase": "Na segunda-feira, dia 16 de novembro",
+          "numero": "+2,09%",
+          "rotulo": "16/11/2026",
+          "sub": "Maior valor desde abril de 2025",
+          "tipo": "numero",
+          "titulo": "Dólar passa de R$ 5,77"
+        },
+        {
+          "barras": [
+            {
+              "nome": "30/10",
+              "texto": "R$ 5,44",
+              "valor": 5.44
+            },
+            {
+              "nome": "16/11",
+              "texto": "R$ 5,77",
+              "valor": 5.77
+            }
+          ],
+          "frase": "No dia 30 de outubro, ele",
+          "rotulo": "DÓLAR EM REAIS",
+          "sub": "30/10 x 16/11/2026",
+          "tipo": "barras",
+          "titulo": "Alta de 6% em 17 dias"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "30/10",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "16/11",
+              "valor": "US$ 281"
+            },
+            {
+              "legenda": "em 17 dias",
+              "valor": "-US$ 17"
+            }
+          ],
+          "frase": "O que isso significa na prática?",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário, menos dólares",
+          "tipo": "cartoes",
+          "titulo": "R$ 1.621 em dólar"
+        },
+        {
+          "frase": "E tudo que tem dólar no preço",
+          "itens": [
+            {
+              "s": "Produtos importados ou com peças importadas",
+              "t": "Celular e eletrônicos"
+            },
+            {
+              "s": "O petróleo é negociado em dólar",
+              "t": "Combustível"
+            },
+            {
+              "s": "Trigo, café e açúcar são cotados em dólar",
+              "t": "Comida"
+            }
+          ],
+          "rotulo": "NO SEU BOLSO",
+          "tipo": "lista",
+          "titulo": "O que tende a subir junto"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 5.851",
+              "valor": 5851
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "frase": "Agora olha do outro lado.",
+          "rotulo": "SALÁRIO MÍNIMO EM REAIS",
+          "sub": "€ 920 com o euro a R$ 6,36",
+          "tipo": "barras",
+          "titulo": "Portugal x Brasil"
+        },
+        {
+          "frase": "No Canadá, uma educadora infantil na",
+          "numero": "C$ 24/h",
+          "rotulo": "CANADÁ · EDUCAÇÃO INFANTIL",
+          "sub": "≈ R$ 97 por hora na Colúmbia Britânica",
+          "tipo": "numero",
+          "titulo": "Quanto ganha por hora"
+        },
+        {
+          "frase": "Em menos de dezessete horas de",
+          "numero": "17 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "R$ 1.621 com C$ 24 por hora",
+          "tipo": "numero",
+          "titulo": "Um mínimo brasileiro em"
+        },
+        {
+          "frase": "Quem ganha em moeda forte não",
+          "rotulo": "MOEDA FORTE",
+          "sub": "Em Portugal e no Canadá, a alta do dólar não corta o salário de quem ganha lá.",
+          "tipo": "texto",
+          "titulo": "Quem ganha em real sente todo mês"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 5,77",
+          "realce": "seu salário encolhe",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Maior valor desde abril de 2025 (16/11/2026)",
+          "tipo": "capa",
+          "titulo": "Dólar passa de R$ 5,77 e seu salário encolhe de novo"
+        },
+        {
+          "barras": [
+            {
+              "nome": "30/10/2026",
+              "texto": "R$ 5,44",
+              "valor": 5.44
+            },
+            {
+              "nome": "16/11/2026",
+              "texto": "R$ 5,77",
+              "valor": 5.77
+            }
+          ],
+          "fonte": "Mix Vale / Banco Central",
+          "rotulo": "DÓLAR EM REAIS",
+          "sub": "Cotação de 30/10 x 16/11/2026; só em 16/11, +2,09%",
+          "tipo": "barras",
+          "titulo": "Em 17 dias, o dólar subiu 6%"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em 30/10/2026",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "em 16/11/2026",
+              "valor": "US$ 281"
+            },
+            {
+              "legenda": "em 17 dias",
+              "valor": "-US$ 17"
+            }
+          ],
+          "fonte": "Governo federal / Mix Vale",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário em reais, menos dólares no bolso",
+          "tipo": "cartoes",
+          "titulo": "O mínimo de R$ 1.621 vale menos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 5.851",
+              "valor": 5851
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Governo de Portugal / Infobae",
+          "rotulo": "SALÁRIO MÍNIMO EM REAIS",
+          "sub": "Mínimo de € 920 com o euro a R$ 6,36 (16/11/2026)",
+          "tipo": "barras",
+          "titulo": "Portugal paga mais de 3,5x o mínimo daqui"
+        },
+        {
+          "fonte": "Job Bank Canadá / Infobae / dolarhoje",
+          "itens": [
+            {
+              "s": "Educadora infantil: C$ 24 por hora ≈ R$ 97",
+              "t": "Canadá (Colúmbia Britânica)"
+            },
+            {
+              "s": "É o que ela trabalha para ganhar um mínimo brasileiro",
+              "t": "Menos de 17 horas"
+            },
+            {
+              "s": "Salário mínimo de € 920 ≈ R$ 5.851 por mês",
+              "t": "Portugal"
+            },
+            {
+              "s": "Salário mínimo de R$ 1.621 ≈ US$ 281 por mês",
+              "t": "Brasil"
+            }
+          ],
+          "rotulo": "QUEM GANHA EM MOEDA FORTE",
+          "tipo": "lista",
+          "titulo": "O dólar sobe e eles nem sentem"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 5,77",
+          "realce": "seu salário encolhe",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Maior valor desde abril de 2025 (16/11/2026)",
+          "tipo": "capa",
+          "titulo": "Dólar passa de R$ 5,77 e seu salário encolhe de novo"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em 30/10/2026",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "em 16/11/2026",
+              "valor": "US$ 281"
+            },
+            {
+              "legenda": "alta do dólar",
+              "valor": "+6%"
+            }
+          ],
+          "fonte": "Governo federal / Mix Vale",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Dólar de R$ 5,44 (30/10) para R$ 5,77 (16/11)",
+          "tipo": "cartoes",
+          "titulo": "O mínimo de R$ 1.621 vale menos"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Portugal",
+              "texto": "R$ 5.851",
+              "valor": 5851
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Governo de Portugal / Infobae",
+          "rotulo": "SALÁRIO MÍNIMO EM REAIS",
+          "sub": "Mínimo de € 920 com o euro a R$ 6,36 (16/11/2026)",
+          "tipo": "barras",
+          "titulo": "Portugal paga mais de 3,5x o mínimo daqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ca-20261115-bc-pnp-cuidados",
+    "pais": "CA",
+    "titulo": "Canadá chama mais de 380 profissionais de educação infantil, saúde e construção",
+    "legenda_ig": "🇨🇦 O Canadá está chamando quem cuida, ensina e constrói.\n📅 Em 13/11/2026, a Colúmbia Britânica fez uma nova rodada de convites para mais de 380 profissionais:\n👶 153 educadores da primeira infância\n🏗️ 128 trabalhadores da construção civil\n🏥 103 profissionais de saúde\n🐾 menos de 5 da área veterinária\n💰 Uma educadora infantil na província ganha em geral C$ 24 por hora (≈ R$ 97). Em tempo integral, cerca de R$ 16,8 mil por mês.\n🇧🇷 No Brasil, o salário mínimo é R$ 1.621: ela ganha isso em menos de 17 horas.\n\n📌 Fontes: WelcomeBC (governo da Colúmbia Britânica), Job Bank Canadá\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#canada #colombiabritanica #educacaoinfantil #morarfora #trabalhonocanada #chegadebrasil",
+    "post_x": "🇨🇦 Em 13/11/2026, a Colúmbia Britânica convidou mais de 380 profissionais: 153 da educação infantil, 128 da construção e 103 da saúde. Uma educadora infantil ganha em geral C$ 24/h (≈ R$ 97). Siga para mais 👇",
+    "nota": "Fonte: WelcomeBC, 13/11/2026 (salário: Job Bank 2023-2024; câmbio dolarhoje 16/11/2026)",
+    "fonte": "WelcomeBC (governo da Colúmbia Britânica)",
+    "url": "https://www.welcomebc.ca/Immigrate-to-B-C/Invitations-To-Apply",
+    "criada": "2026-11-17T12:00:00Z",
+    "visual": {
+      "capa": {
+        "realce": "cuida, ensina e constrói",
+        "rotulo": "CANADÁ · PROFISSÕES",
+        "selo": "Educadora infantil: C$ 24/h ≈ R$ 97",
+        "titulo": "O Canadá está chamando quem cuida, ensina e constrói"
+      },
+      "cenas": [
+        {
+          "frase": "O Canadá está chamando gente que",
+          "numero": "+380",
+          "realce": "cuida, ensina e constrói",
+          "rotulo": "CANADÁ · PROFISSÕES",
+          "sub": "convites em 13/11/2026",
+          "tipo": "capa",
+          "titulo": "O Canadá está chamando quem cuida, ensina e constrói"
+        },
+        {
+          "frase": "No dia 13 de novembro de",
+          "numero": "+380",
+          "rotulo": "COLÚMBIA BRITÂNICA",
+          "sub": "profissionais que a província quer manter",
+          "tipo": "numero",
+          "titulo": "Nova rodada de convites"
+        },
+        {
+          "frase": "Foram cento e cinquenta e três educadores",
+          "itens": [
+            {
+              "s": "153 educadores da primeira infância",
+              "t": "Educação infantil"
+            },
+            {
+              "s": "128 trabalhadores",
+              "t": "Construção civil"
+            },
+            {
+              "s": "103 profissionais",
+              "t": "Saúde"
+            }
+          ],
+          "rotulo": "CONVITES POR ÁREA",
+          "tipo": "lista",
+          "titulo": "Quem foi chamado"
+        },
+        {
+          "frase": "Por que essas áreas?",
+          "rotulo": "ÁREAS PRIORITÁRIAS",
+          "sub": "Educação infantil, saúde e construção estão entre as prioridades da província.",
+          "tipo": "texto",
+          "titulo": "Cuidar, ensinar e construir"
+        },
+        {
+          "frase": "Uma educadora infantil na Colúmbia Britânica",
+          "numero": "C$ 24",
+          "rotulo": "EDUCAÇÃO INFANTIL",
+          "sub": "na Colúmbia Britânica",
+          "tipo": "numero",
+          "titulo": "Salário típico por hora"
+        },
+        {
+          "frase": "Com o dólar canadense a quatro",
+          "numero": "R$ 97",
+          "rotulo": "EM REAIS",
+          "sub": "com C$ 1 = R$ 4,04 (16/11/2026)",
+          "tipo": "numero",
+          "titulo": "Por hora de trabalho"
+        },
+        {
+          "frase": "Em tempo integral, perto de dezesseis",
+          "numero": "R$ 16,8 mil",
+          "rotulo": "POR MÊS",
+          "sub": "40 horas por semana, antes de impostos",
+          "tipo": "numero",
+          "titulo": "Em tempo integral"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Educadora (BC)",
+              "texto": "R$ 16,8 mil",
+              "valor": 16823
+            },
+            {
+              "nome": "Mínimo Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "frase": "No Brasil, o salário mínimo é",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "Educadora infantil em BC x mínimo do Brasil",
+          "tipo": "barras",
+          "titulo": "Por mês, em reais"
+        },
+        {
+          "frase": "Ou seja: mais de dez vezes",
+          "numero": "10x",
+          "rotulo": "A DIFERENÇA",
+          "sub": "um mínimo em menos de 17 horas de trabalho",
+          "tipo": "numero",
+          "titulo": "O mínimo brasileiro, todo mês"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Você trabalha numa dessas áreas?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "+380",
+          "realce": "cuida, ensina e constrói",
+          "rotulo": "CANADÁ · PROFISSÕES",
+          "sub": "profissionais convidados na Colúmbia Britânica em 13/11/2026",
+          "tipo": "capa",
+          "titulo": "O Canadá está chamando quem cuida, ensina e constrói"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Educação infantil",
+              "texto": "153",
+              "valor": 153
+            },
+            {
+              "nome": "Construção civil",
+              "texto": "128",
+              "valor": 128
+            },
+            {
+              "nome": "Saúde",
+              "texto": "103",
+              "valor": 103
+            }
+          ],
+          "fonte": "WelcomeBC (13/11/2026)",
+          "rotulo": "CONVITES EM 13/11/2026",
+          "sub": "Convites da Colúmbia Britânica por área; veterinária teve menos de 5",
+          "tipo": "barras",
+          "titulo": "As áreas que a província quer"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "por hora",
+              "valor": "C$ 24"
+            },
+            {
+              "legenda": "por hora, em reais",
+              "valor": "R$ 97"
+            },
+            {
+              "legenda": "por mês, tempo integral",
+              "valor": "R$ 16,8 mil"
+            }
+          ],
+          "fonte": "Job Bank Canadá / dolarhoje",
+          "rotulo": "EDUCAÇÃO INFANTIL",
+          "sub": "Salário típico na Colúmbia Britânica, C$ 1 = R$ 4,04",
+          "tipo": "cartoes",
+          "titulo": "Quanto ganha uma educadora infantil"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Educadora infantil (BC)",
+              "texto": "R$ 16,8 mil",
+              "valor": 16823
+            },
+            {
+              "nome": "Salário mínimo Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Job Bank Canadá / dolarhoje / Governo federal",
+          "rotulo": "POR MÊS, EM REAIS",
+          "sub": "Educadora infantil em tempo integral x salário mínimo do Brasil",
+          "tipo": "barras",
+          "titulo": "Mais de 10x o mínimo brasileiro"
+        },
+        {
+          "fonte": "WelcomeBC (13/11/2026)",
+          "itens": [
+            {
+              "s": "153 convites para educadores da primeira infância",
+              "t": "Educação infantil"
+            },
+            {
+              "s": "128 convites em ofícios prioritários",
+              "t": "Construção civil"
+            },
+            {
+              "s": "103 convites em ocupações prioritárias",
+              "t": "Saúde"
+            },
+            {
+              "s": "Menos de 5 convites nesta rodada",
+              "t": "Veterinária"
+            }
+          ],
+          "rotulo": "ÁREAS EM DESTAQUE",
+          "tipo": "lista",
+          "titulo": "Onde a província precisa de gente"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Você trabalha numa dessas áreas?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "+380",
+          "realce": "cuida, ensina e constrói",
+          "rotulo": "CANADÁ · PROFISSÕES",
+          "sub": "profissionais convidados na Colúmbia Britânica em 13/11/2026",
+          "tipo": "capa",
+          "titulo": "O Canadá está chamando quem cuida, ensina e constrói"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Educação infantil",
+              "texto": "153",
+              "valor": 153
+            },
+            {
+              "nome": "Construção civil",
+              "texto": "128",
+              "valor": 128
+            },
+            {
+              "nome": "Saúde",
+              "texto": "103",
+              "valor": 103
+            }
+          ],
+          "fonte": "WelcomeBC (13/11/2026)",
+          "rotulo": "CONVITES EM 13/11/2026",
+          "sub": "Convites da Colúmbia Britânica por área; veterinária teve menos de 5",
+          "tipo": "barras",
+          "titulo": "As áreas que a província quer"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Educadora infantil (BC)",
+              "texto": "R$ 16,8 mil",
+              "valor": 16823
+            },
+            {
+              "nome": "Salário mínimo Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Job Bank Canadá / dolarhoje / Governo federal",
+          "rotulo": "POR MÊS, EM REAIS",
+          "sub": "Educadora infantil (C$ 24/h) em tempo integral x mínimo do Brasil",
+          "tipo": "barras",
+          "titulo": "Mais de 10x o mínimo brasileiro"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Você trabalha numa dessas áreas?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "br-20261109-celulares-sp",
     "pais": "BR",
     "titulo": "São Paulo: mais de 110 mil celulares levados em 9 meses, um a cada 3 minutos",
