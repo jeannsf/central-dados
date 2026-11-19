@@ -1,5 +1,312 @@
 [
   {
+    "noticia_id": "br-20261118-dolar-586",
+    "pais": "BR",
+    "titulo": "Dólar fecha a R$ 5,86 e o salário mínimo vale só US$ 277",
+    "legenda_ig": "💸 O dólar fechou a R$ 5,86 em 18/11/2026, alta de 1,46% no dia e o maior fechamento desde abril de 2025.\n🏦 Nem dois leilões do Banco Central, somando US$ 1 bilhão, seguraram a alta.\n📉 O salário mínimo de R$ 1.621 caiu de US$ 298 (30/10) para US$ 277.\n🇺🇸 Na Flórida, o mínimo subiu para US$ 15 por hora em 30/09/2026: um mínimo brasileiro em 18 horas de trabalho.\n📊 Com 40 horas por semana, são cerca de US$ 2.600 por mês, mais de 9x o mínimo daqui.\n⏱️ Mesmo no piso federal dos EUA (US$ 7,25/h), bastam 38 horas.\n🤔 Quem ganha em dólar não sente o dólar subir. Quem ganha em real sente todo mês.\n\n📌 Fontes: Metrópoles, Ballotpedia, governo federal\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#dolar #salariominimo #morarfora #estadosunidos #florida #chegadebrasil",
+    "post_x": "💸 Dólar fecha a R$ 5,86 (18/11/2026), maior nível desde abril de 2025. O mínimo de R$ 1.621 agora vale US$ 277. Na Flórida, o mínimo é US$ 15/h: dá isso em 18 horas de trabalho. Siga para mais 👇",
+    "nota": "Fonte: Metrópoles, 18/11/2026 (mínimos dos EUA: Ballotpedia, 2026)",
+    "fonte": "Metrópoles",
+    "url": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-fechamento-18-novembro",
+    "criada": "2026-11-19T00:36:29Z",
+    "visual": {
+      "capa": {
+        "realce": "só US$ 277",
+        "rotulo": "BRASIL · DÓLAR",
+        "selo": "Flórida: um mínimo em 18 horas",
+        "titulo": "Dólar a R$ 5,86: seu mínimo vale só US$ 277"
+      },
+      "cenas": [
+        {
+          "frase": "Seu salário encolheu de novo.",
+          "numero": "R$ 5,86",
+          "realce": "encolheu de novo",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Dólar em 18/11/2026",
+          "tipo": "capa",
+          "titulo": "Seu salário encolheu de novo"
+        },
+        {
+          "frase": "Na quarta-feira, 18 de novembro de",
+          "numero": "+1,46%",
+          "rotulo": "18/11/2026",
+          "sub": "Alta em um só dia",
+          "tipo": "numero",
+          "titulo": "Dólar fecha a R$ 5,86"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "maior desde abr/2025",
+              "valor": "R$ 5,86"
+            },
+            {
+              "legenda": "máxima do dia",
+              "valor": "R$ 5,87"
+            },
+            {
+              "legenda": "em 2 leilões do BC",
+              "valor": "US$ 1 bi"
+            }
+          ],
+          "frase": "É o maior fechamento desde abril",
+          "rotulo": "DÓLAR NO DIA",
+          "sub": "18/11/2026",
+          "tipo": "cartoes",
+          "titulo": "Nem o Banco Central segurou"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "30/10",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "18/11",
+              "valor": "US$ 277"
+            },
+            {
+              "legenda": "em 19 dias",
+              "valor": "-US$ 21"
+            }
+          ],
+          "frase": "O que isso faz com o",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário, menos dólares",
+          "tipo": "cartoes",
+          "titulo": "R$ 1.621 em dólar"
+        },
+        {
+          "frase": "Na Flórida, o salário mínimo passou",
+          "numero": "US$ 15",
+          "rotulo": "EUA · FLÓRIDA",
+          "sub": "Desde 30/09/2026; antes era US$ 14",
+          "tipo": "numero",
+          "titulo": "Salário mínimo por hora"
+        },
+        {
+          "frase": "Em dezoito horas de trabalho, alguém",
+          "numero": "18 horas",
+          "rotulo": "FLÓRIDA X BRASIL",
+          "sub": "US$ 277 com US$ 15 por hora",
+          "tipo": "numero",
+          "titulo": "Um mínimo brasileiro em"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Flórida",
+              "texto": "US$ 2.600",
+              "valor": 2600
+            },
+            {
+              "nome": "Brasil",
+              "texto": "US$ 277",
+              "valor": 277
+            }
+          ],
+          "frase": "Trabalhando quarenta horas por semana, são",
+          "rotulo": "MÍNIMO POR MÊS",
+          "sub": "Em dólar, 40 horas por semana",
+          "tipo": "barras",
+          "titulo": "Mais de 9x o mínimo daqui"
+        },
+        {
+          "frase": "Mesmo o piso federal, de sete",
+          "numero": "38 horas",
+          "rotulo": "EUA · PISO FEDERAL",
+          "sub": "Com US$ 7,25 por hora: menos de uma semana",
+          "tipo": "numero",
+          "titulo": "Um mínimo brasileiro em"
+        },
+        {
+          "frase": "Quem ganha em dólar não sente",
+          "rotulo": "MOEDA FORTE",
+          "sub": "Quando o dólar sobe, o salário de quem ganha em dólar continua o mesmo.",
+          "tipo": "texto",
+          "titulo": "Quem ganha em real sente todo mês"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 5,86",
+          "realce": "só US$ 277",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Maior fechamento desde abril de 2025 (18/11/2026)",
+          "tipo": "capa",
+          "titulo": "Dólar fecha a R$ 5,86 e seu mínimo vale só US$ 277"
+        },
+        {
+          "barras": [
+            {
+              "nome": "30/10",
+              "texto": "R$ 5,44",
+              "valor": 5.44
+            },
+            {
+              "nome": "16/11",
+              "texto": "R$ 5,77",
+              "valor": 5.77
+            },
+            {
+              "nome": "18/11",
+              "texto": "R$ 5,86",
+              "valor": 5.86
+            }
+          ],
+          "fonte": "Metrópoles / Mix Vale",
+          "rotulo": "DÓLAR EM REAIS",
+          "sub": "Só em 18/11/2026: +1,46%, mesmo com 2 leilões do BC de US$ 1 bi",
+          "tipo": "barras",
+          "titulo": "Em 19 dias, de R$ 5,44 para R$ 5,86"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em 30/10/2026",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "em 18/11/2026",
+              "valor": "US$ 277"
+            },
+            {
+              "legenda": "em 19 dias",
+              "valor": "-US$ 21"
+            }
+          ],
+          "fonte": "Governo federal / Metrópoles",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário em reais, menos dólares no bolso",
+          "tipo": "cartoes",
+          "titulo": "O mínimo de R$ 1.621 vale menos"
+        },
+        {
+          "fonte": "Ballotpedia / Metrópoles",
+          "itens": [
+            {
+              "s": "Mínimo de US$ 17,13 por hora em 2026",
+              "t": "Washington: 16 horas"
+            },
+            {
+              "s": "Mínimo de US$ 15 por hora desde 30/09/2026",
+              "t": "Flórida: 18 horas"
+            },
+            {
+              "s": "US$ 7,25 por hora, menos de uma semana",
+              "t": "Piso federal: 38 horas"
+            },
+            {
+              "s": "R$ 1.621 ≈ US$ 277 com o dólar a R$ 5,86",
+              "t": "Brasil: 1 mês inteiro"
+            }
+          ],
+          "rotulo": "EUA X BRASIL",
+          "tipo": "lista",
+          "titulo": "Horas para ganhar um mínimo brasileiro"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Flórida",
+              "texto": "US$ 2.600",
+              "valor": 2600
+            },
+            {
+              "nome": "EUA (federal)",
+              "texto": "US$ 1.257",
+              "valor": 1257
+            },
+            {
+              "nome": "Brasil",
+              "texto": "US$ 277",
+              "valor": 277
+            }
+          ],
+          "fonte": "Ballotpedia / Metrópoles",
+          "rotulo": "SALÁRIO MÍNIMO POR MÊS",
+          "sub": "Em dólar, com 40 horas por semana nos EUA",
+          "tipo": "barras",
+          "titulo": "Na Flórida, mais de 9x o mínimo daqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 5,86",
+          "realce": "só US$ 277",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Maior fechamento desde abril de 2025 (18/11/2026)",
+          "tipo": "capa",
+          "titulo": "Dólar fecha a R$ 5,86 e seu mínimo vale só US$ 277"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "mínimo no Brasil",
+              "valor": "US$ 277"
+            },
+            {
+              "legenda": "para ganhar isso na Flórida",
+              "valor": "18 horas"
+            },
+            {
+              "legenda": "no piso federal dos EUA",
+              "valor": "38 horas"
+            }
+          ],
+          "fonte": "Ballotpedia / Metrópoles",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Com o dólar a R$ 5,86 (18/11/2026)",
+          "tipo": "cartoes",
+          "titulo": "R$ 1.621 viram US$ 277"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Flórida",
+              "texto": "US$ 2.600",
+              "valor": 2600
+            },
+            {
+              "nome": "EUA (federal)",
+              "texto": "US$ 1.257",
+              "valor": 1257
+            },
+            {
+              "nome": "Brasil",
+              "texto": "US$ 277",
+              "valor": 277
+            }
+          ],
+          "fonte": "Ballotpedia / Metrópoles",
+          "rotulo": "SALÁRIO MÍNIMO POR MÊS",
+          "sub": "Em dólar, com 40 horas por semana nos EUA",
+          "tipo": "barras",
+          "titulo": "Na Flórida, mais de 9x o mínimo daqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "nz-20261105-visto-pais",
     "pais": "NZ",
     "titulo": "Nova Zelândia reserva até 2.500 vagas por ano para pais de imigrantes e faz 1ª seleção do novo modelo",
