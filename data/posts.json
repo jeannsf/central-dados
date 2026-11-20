@@ -1,5 +1,1252 @@
 [
   {
+    "noticia_id": "ie-20261103-brasileiros-permits",
+    "pais": "IE",
+    "titulo": "Irlanda: brasileiros ficam com 11% das permissões de trabalho e dividem o 2º lugar",
+    "legenda_ig": "🇮🇪 A Irlanda está contratando brasileiros\n\n📊 Brasileiros ficaram com 11% das permissões de trabalho para quem vem de fora da Europa — 2º lugar, empatados com as Filipinas (a Índia lidera com 32%)\n🏢 8.328 empresas contrataram estrangeiros de fora da Europa em 2025\n🏥 Saúde e assistência social: 26% das contratações\n💻 Tecnologia: 12%\n🍽️ Hotelaria e alimentação: 11%\n🏗️ Construção quase dobrou a fatia desde 2021: 6%\n\n💶 Salário mínimo na Irlanda: € 14,15 por hora\n🇧🇷 No Brasil: R$ 1.621 por mês, cerca de R$ 7,37 por hora\n\n📌 Fonte: Irish Examiner, relatório ESRI/EMN Ireland (03/11/2026); Ibec; Governo Federal\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#Irlanda #MorarNaIrlanda #MorarFora #TrabalharNoExterior #BrasileirosNaIrlanda #ChegaDeBrasil",
+    "post_x": "🇮🇪 A Irlanda está contratando brasileiros: 11% das permissões de trabalho para quem vem de fora da Europa foram para nós, 2º lugar.\n\nSaúde lidera (26%), depois tecnologia (12%).\n\nMínimo lá: € 14,15/hora. Aqui: R$ 7,37/hora.\n\nSiga para mais 👇",
+    "nota": "Fonte: Irish Examiner (relatório ESRI/EMN Ireland), 03/11/2026; salário mínimo: Ibec e Governo Federal",
+    "fonte": "Irish Examiner",
+    "url": "https://www.irishexaminer.com/news/arid-41932158.html",
+    "criada": "2026-11-19T22:36:55Z",
+    "visual": {
+      "capa": {
+        "realce": "contratando brasileiros",
+        "rotulo": "IRLANDA · TRABALHO",
+        "selo": "Brasileiros: 11% das permissões",
+        "titulo": "A Irlanda está contratando brasileiros"
+      },
+      "cenas": [
+        {
+          "frase": "A Irlanda está contratando brasileiros.",
+          "numero": "11%",
+          "realce": "contratando brasileiros",
+          "rotulo": "IRLANDA · TRABALHO",
+          "sub": "das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "capa",
+          "titulo": "A Irlanda está contratando brasileiros"
+        },
+        {
+          "frase": "Um relatório divulgado em novembro de 2026",
+          "numero": "11%",
+          "rotulo": "IRLANDA · TRABALHO",
+          "sub": "das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "numero",
+          "titulo": "Brasileiros ficaram com"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Índia",
+              "texto": "32%",
+              "valor": 32
+            },
+            {
+              "nome": "Brasil",
+              "texto": "11%",
+              "valor": 11
+            },
+            {
+              "nome": "Filipinas",
+              "texto": "11%",
+              "valor": 11
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "frase": "Empatados com as Filipinas, em segundo lugar.",
+          "rotulo": "QUEM MAIS É CONTRATADO",
+          "sub": "Fatia das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "barras",
+          "titulo": "Brasil em 2º lugar entre estrangeiros"
+        },
+        {
+          "frase": "Nos últimos quatro anos, a Irlanda emitiu",
+          "numero": "30 a 40 mil",
+          "rotulo": "ÚLTIMOS 4 ANOS",
+          "sub": "para trabalhadores de fora da Europa",
+          "tipo": "numero",
+          "titulo": "Permissões emitidas ou renovadas"
+        },
+        {
+          "frase": "E em 2025, oito mil, trezentas",
+          "numero": "8.328",
+          "rotulo": "EM 2025",
+          "sub": "empresas irlandesas contrataram gente de fora da Europa",
+          "tipo": "numero",
+          "titulo": "Empresas que contrataram estrangeiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Saúde e assistência",
+              "texto": "26%",
+              "valor": 26
+            },
+            {
+              "nome": "Tecnologia",
+              "texto": "12%",
+              "valor": 12
+            },
+            {
+              "nome": "Hotelaria e alimentação",
+              "texto": "11%",
+              "valor": 11
+            },
+            {
+              "nome": "Construção",
+              "texto": "6%",
+              "valor": 6
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "frase": "Onde estão as vagas?",
+          "rotulo": "ONDE ESTÃO AS VAGAS",
+          "sub": "Fatia das permissões de trabalho por setor em 2025",
+          "tipo": "barras",
+          "titulo": "Saúde lidera as contratações"
+        },
+        {
+          "frase": "A construção quase dobrou sua fatia",
+          "numero": "6%",
+          "rotulo": "CONSTRUÇÃO",
+          "sub": "das permissões em 2025, quase o dobro de 2021",
+          "tipo": "numero",
+          "titulo": "Setor quase dobrou a fatia"
+        },
+        {
+          "frase": "Agora compare com o Brasil.",
+          "itens": [
+            {
+              "s": "Mínimo de 2026",
+              "t": "R$ 1.621 por mês"
+            },
+            {
+              "s": "Considerando 220 horas por mês",
+              "t": "Cerca de R$ 7,37 por hora"
+            },
+            {
+              "s": "Com o dólar perto de R$ 5,93 em novembro de 2026",
+              "t": "Pago em real"
+            }
+          ],
+          "rotulo": "BRASIL",
+          "tipo": "lista",
+          "titulo": "Salário mínimo no Brasil"
+        },
+        {
+          "frase": "Na Irlanda, o mínimo é de",
+          "numero": "€ 14,15",
+          "rotulo": "IRLANDA",
+          "sub": "por hora, em euro, desde janeiro de 2026",
+          "tipo": "numero",
+          "titulo": "Salário mínimo na Irlanda"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "PENSE NISSO",
+          "sub": "Talvez a pergunta não seja se existe lugar para você lá fora.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Irlanda com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Irlanda é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "11%",
+          "realce": "contratando brasileiros",
+          "rotulo": "IRLANDA · TRABALHO",
+          "sub": "das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "capa",
+          "titulo": "A Irlanda está contratando brasileiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Índia",
+              "texto": "32%",
+              "valor": 32
+            },
+            {
+              "nome": "Brasil",
+              "texto": "11%",
+              "valor": 11
+            },
+            {
+              "nome": "Filipinas",
+              "texto": "11%",
+              "valor": 11
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "rotulo": "QUEM MAIS É CONTRATADO",
+          "sub": "Fatia das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "barras",
+          "titulo": "Brasil em 2º lugar entre estrangeiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Saúde e assistência",
+              "texto": "26%",
+              "valor": 26
+            },
+            {
+              "nome": "Tecnologia",
+              "texto": "12%",
+              "valor": 12
+            },
+            {
+              "nome": "Hotelaria e alimentação",
+              "texto": "11%",
+              "valor": 11
+            },
+            {
+              "nome": "Construção",
+              "texto": "6%",
+              "valor": 6
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "rotulo": "ONDE ESTÃO AS VAGAS",
+          "sub": "Fatia das permissões de trabalho por setor em 2025",
+          "tipo": "barras",
+          "titulo": "Saúde lidera as contratações"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "permissões emitidas ou renovadas em 4 anos",
+              "valor": "30 a 40 mil"
+            },
+            {
+              "legenda": "empresas contrataram estrangeiros em 2025",
+              "valor": "8.328"
+            },
+            {
+              "legenda": "construção quase dobrou a fatia desde 2021",
+              "valor": "2x"
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "rotulo": "IRLANDA EM NÚMEROS",
+          "sub": "Contratações de trabalhadores de fora da Europa",
+          "tipo": "cartoes",
+          "titulo": "Um país que busca gente de fora"
+        },
+        {
+          "fonte": "Fonte: Ibec e Governo Federal",
+          "itens": [
+            {
+              "s": "Mínimo nacional em vigor desde 1º de janeiro de 2026",
+              "t": "Irlanda: € 14,15 por hora"
+            },
+            {
+              "s": "Mínimo de 2026, definido por decreto do governo federal",
+              "t": "Brasil: R$ 1.621 por mês"
+            },
+            {
+              "s": "R$ 1.621 divididos por 220 horas de trabalho no mês",
+              "t": "Brasil: cerca de R$ 7,37 por hora"
+            }
+          ],
+          "rotulo": "IRLANDA X BRASIL",
+          "tipo": "lista",
+          "titulo": "Salário mínimo lado a lado"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Irlanda com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Irlanda é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "11%",
+          "realce": "2º lugar",
+          "rotulo": "IRLANDA · TRABALHO",
+          "sub": "das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "capa",
+          "titulo": "Brasileiros em 2º lugar nas contratações da Irlanda"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Índia",
+              "texto": "32%",
+              "valor": 32
+            },
+            {
+              "nome": "Brasil",
+              "texto": "11%",
+              "valor": 11
+            },
+            {
+              "nome": "Filipinas",
+              "texto": "11%",
+              "valor": 11
+            }
+          ],
+          "fonte": "Fonte: Irish Examiner / ESRI",
+          "rotulo": "QUEM MAIS É CONTRATADO",
+          "sub": "Fatia das permissões de trabalho para quem vem de fora da Europa",
+          "tipo": "barras",
+          "titulo": "Brasil em 2º lugar entre estrangeiros"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "por hora na Irlanda",
+              "valor": "€ 14,15"
+            },
+            {
+              "legenda": "por hora no Brasil",
+              "valor": "R$ 7,37"
+            },
+            {
+              "legenda": "mínimo mensal no Brasil",
+              "valor": "R$ 1.621"
+            }
+          ],
+          "fonte": "Fonte: Ibec e Governo Federal",
+          "rotulo": "IRLANDA X BRASIL",
+          "sub": "Irlanda paga em euro; Brasil, em real",
+          "tipo": "cartoes",
+          "titulo": "Salário mínimo por hora"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare a Irlanda com outros 10 países",
+          "tipo": "cta",
+          "titulo": "A Irlanda é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261119-dolar-593",
+    "pais": "BR",
+    "titulo": "Dólar bate R$ 5,93 e o salário mínimo vale só US$ 273",
+    "legenda_ig": "💸 O dólar chegou a R$ 5,93 nesta quinta-feira, 19/11/2026.\n🏦 O Banco Central vendeu US$ 1 bilhão à vista, e às 15h a moeda ainda subia, a R$ 5,8959.\n📈 Desde 25/10, o dólar acumula alta de 17,6% contra o real.\n📉 O salário mínimo de R$ 1.621 caiu de US$ 298 (30/10) para cerca de US$ 273.\n🇨🇦 No Canadá, o mínimo federal é C$ 18,15 por hora desde 01/04/2026: cerca de R$ 74,66 por hora no câmbio de 19/11.\n⏱️ Lá, um mínimo brasileiro sai em cerca de 22 horas de trabalho.\n📊 Com 40 horas por semana, são cerca de R$ 12.900 por mês: quase 8x o mínimo daqui.\n🤔 Quem ganha em moeda forte não perde salário quando o real cai.\n\n📌 Fontes: Terra (Estadão Conteúdo), Governo do Canadá, Banco Central (PTAX)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#dolar #salariominimo #morarfora #canada #cambio #chegadebrasil",
+    "post_x": "💸 Dólar bate R$ 5,93 (19/11/2026), mesmo com o BC vendendo US$ 1 bi. O mínimo de R$ 1.621 agora vale US$ 273. No Canadá, o mínimo federal é C$ 18,15/h (≈ R$ 74,66): dá isso em 22 horas. Siga para mais 👇",
+    "nota": "Fonte: Terra (Estadão Conteúdo), 19/11/2026; mínimo federal do Canadá: Governo do Canadá (24/03/2026); câmbio CAD: PTAX 19/11/2026 (R$ 4,1134)",
+    "fonte": "Terra (Estadão Conteúdo)",
+    "url": "https://www.terra.com.br/economia/dolar-abre-em-alta-e-bate-r-593-apos-aprovacao-de-pacote-fiscal-no-senado,200205943a7addce692de48f982036d3c7od4efp.html",
+    "criada": "2026-11-19T21:39:46Z",
+    "visual": {
+      "capa": {
+        "realce": "só US$ 273",
+        "rotulo": "BRASIL · DÓLAR",
+        "selo": "Canadá: um mínimo em 22 horas",
+        "titulo": "Dólar a R$ 5,93: seu mínimo vale só US$ 273"
+      },
+      "cenas": [
+        {
+          "frase": "O dólar chegou a cinco reais",
+          "numero": "R$ 5,93",
+          "realce": "R$ 5,93",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Máxima de 19/11/2026",
+          "tipo": "capa",
+          "titulo": "O dólar chegou a R$ 5,93"
+        },
+        {
+          "frase": "O Banco Central vendeu um bilhão",
+          "numero": "US$ 1 bi",
+          "rotulo": "BANCO CENTRAL",
+          "sub": "Vendido à vista em 19/11/2026",
+          "tipo": "numero",
+          "titulo": "Leilão para segurar a alta"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "às 15h",
+              "valor": "R$ 5,8959"
+            },
+            {
+              "legenda": "desde 25/10",
+              "valor": "+17,6%"
+            },
+            {
+              "legenda": "no ano",
+              "valor": "+6,9%"
+            }
+          ],
+          "frase": "Às três da tarde, a moeda",
+          "rotulo": "DÓLAR CONTRA O REAL",
+          "sub": "Dados de 19/11/2026",
+          "tipo": "cartoes",
+          "titulo": "E a alta continuou"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "30/10",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "19/11",
+              "valor": "US$ 273"
+            },
+            {
+              "legenda": "em 20 dias",
+              "valor": "-US$ 25"
+            }
+          ],
+          "frase": "O mínimo de mil seiscentos e",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário, menos dólares",
+          "tipo": "cartoes",
+          "titulo": "R$ 1.621 em dólar"
+        },
+        {
+          "frase": "O salário mínimo federal de lá",
+          "numero": "C$ 18,15",
+          "rotulo": "CANADÁ · MÍNIMO FEDERAL",
+          "sub": "Em vigor desde 01/04/2026",
+          "tipo": "numero",
+          "titulo": "Salário mínimo por hora"
+        },
+        {
+          "frase": "No câmbio de hoje, são cerca",
+          "numero": "R$ 74,66",
+          "rotulo": "CANADÁ EM REAIS",
+          "sub": "Câmbio de 19/11/2026: C$ 1 = R$ 4,11",
+          "tipo": "numero",
+          "titulo": "Uma hora de trabalho vale"
+        },
+        {
+          "frase": "Em vinte e duas horas de",
+          "numero": "22 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "R$ 1.621 com R$ 74,66 por hora",
+          "tipo": "numero",
+          "titulo": "Um mínimo brasileiro em"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "R$ 12.940",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "frase": "Trabalhando quarenta horas por semana, são",
+          "rotulo": "MÍNIMO POR MÊS",
+          "sub": "Em reais, 40 horas por semana no Canadá",
+          "tipo": "barras",
+          "titulo": "Quase 8x o mínimo daqui"
+        },
+        {
+          "frase": "Quem ganha em moeda forte não",
+          "rotulo": "MOEDA FORTE",
+          "sub": "Quando o real cai, quem ganha em moeda forte continua com o mesmo salário.",
+          "tipo": "texto",
+          "titulo": "Quem ganha em real sente todo mês"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 5,93",
+          "realce": "só US$ 273",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Máxima de 19/11/2026, mesmo com o BC vendendo US$ 1 bi",
+          "tipo": "capa",
+          "titulo": "Dólar bate R$ 5,93 e seu mínimo vale só US$ 273"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "máxima do dia",
+              "valor": "R$ 5,93"
+            },
+            {
+              "legenda": "vendido pelo BC",
+              "valor": "US$ 1 bi"
+            },
+            {
+              "legenda": "desde 25/10",
+              "valor": "+17,6%"
+            }
+          ],
+          "fonte": "Terra / Estadão Conteúdo",
+          "rotulo": "DÓLAR EM 19/11/2026",
+          "sub": "Às 15h, a moeda ainda subia 0,50%, a R$ 5,8959",
+          "tipo": "cartoes",
+          "titulo": "Nem US$ 1 bilhão segurou"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em 30/10/2026",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "com dólar a R$ 5,93",
+              "valor": "US$ 273"
+            },
+            {
+              "legenda": "em 20 dias",
+              "valor": "-US$ 25"
+            }
+          ],
+          "fonte": "Governo federal / Terra",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mesmo salário em reais, menos dólares no bolso",
+          "tipo": "cartoes",
+          "titulo": "O mínimo de R$ 1.621 vale menos"
+        },
+        {
+          "fonte": "Governo do Canadá / Banco Central",
+          "itens": [
+            {
+              "s": "Cerca de R$ 74,66 por hora, desde 01/04/2026",
+              "t": "Mínimo federal: C$ 18,15/h"
+            },
+            {
+              "s": "R$ 1.621 divididos por R$ 74,66 por hora",
+              "t": "Um mínimo brasileiro em 22 horas"
+            },
+            {
+              "s": "Alta acumulada de 21% desde 2021",
+              "t": "Reajuste todo ano pela inflação"
+            }
+          ],
+          "rotulo": "CANADÁ · SALÁRIO MÍNIMO",
+          "sub": "Câmbio PTAX de 19/11/2026: C$ 1 = R$ 4,11",
+          "tipo": "lista",
+          "titulo": "Quanto vale uma hora no Canadá"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "R$ 12.940",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Governo do Canadá / Banco Central",
+          "rotulo": "MÍNIMO POR MÊS EM REAIS",
+          "sub": "40 horas por semana no Canadá, câmbio de 19/11/2026",
+          "tipo": "barras",
+          "titulo": "No Canadá, quase 8x o mínimo daqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 5,93",
+          "realce": "só US$ 273",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "Máxima de 19/11/2026, mesmo com o BC vendendo US$ 1 bi",
+          "tipo": "capa",
+          "titulo": "Dólar bate R$ 5,93 e seu mínimo vale só US$ 273"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em 30/10/2026",
+              "valor": "US$ 298"
+            },
+            {
+              "legenda": "em 19/11/2026",
+              "valor": "US$ 273"
+            },
+            {
+              "legenda": "dólar desde 25/10",
+              "valor": "+17,6%"
+            }
+          ],
+          "fonte": "Governo federal / Terra",
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Com o dólar a R$ 5,93 (19/11/2026)",
+          "tipo": "cartoes",
+          "titulo": "R$ 1.621 viram US$ 273"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá",
+              "texto": "R$ 12.940",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil",
+              "texto": "R$ 1.621",
+              "valor": 1621
+            }
+          ],
+          "fonte": "Governo do Canadá / Banco Central",
+          "rotulo": "MÍNIMO POR MÊS EM REAIS",
+          "sub": "C$ 18,15/h, 40 horas por semana, câmbio de 19/11/2026",
+          "tipo": "barras",
+          "titulo": "No Canadá, quase 8x o mínimo daqui"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Até quando ganhar em real?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "ca-20261117-fila-ircc",
+    "pais": "CA",
+    "titulo": "Canadá concluiu 3 milhões de pedidos em 2026 e paga cerca de R$ 156 por hora em média",
+    "legenda_ig": "🇨🇦 O Canadá concluiu 3.001.860 pedidos de imigração de janeiro a setembro de 2026.\n⚡ Só em setembro foram 311.510: mais de 10 mil por dia.\n📉 A fila caiu 35.180 pedidos em setembro, para 1.508.675.\n💼 Trabalho e estudo somaram 368.985 pedidos concluídos no ano.\n💰 O salário médio no Canadá chegou a C$ 37,89 por hora em outubro: cerca de R$ 156 por hora no câmbio de 19/11/2026.\n🇧🇷 A renda média do brasileiro é R$ 3.790 por mês. Lá, o salário médio paga isso em cerca de 24 horas.\n⏱️ Até o mínimo federal, C$ 18,15 por hora, passa de R$ 74.\n\n📌 Fontes: IRCC (via CIC News, 17/11/2026), Statistics Canada, IBGE, Governo do Canadá\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#canada #morarnocanada #trabalharnocanada #morarfora #salario #chegadebrasil",
+    "post_x": "🇨🇦 O Canadá concluiu 3 milhões de pedidos de imigração de jan a set/2026, mais de 10 mil por dia em setembro. E paga bem: salário médio de C$ 37,89/h (≈ R$ 156). A renda média do brasileiro sai lá em 24 horas. Siga para mais 👇",
+    "nota": "Fonte: CIC News (dados do IRCC), 17/11/2026; salário médio: Statistics Canada (out/2026); câmbio CAD: PTAX 19/11/2026 (R$ 4,1134)",
+    "fonte": "CIC News (dados do IRCC)",
+    "url": "https://www.cicnews.com/2026/11/canada-reports-drop-in-immigration-and-citizenship-applications-awaiting-finalization-1182599.html",
+    "criada": "2026-11-19T21:39:46Z",
+    "visual": {
+      "capa": {
+        "realce": "está acelerando",
+        "rotulo": "CANADÁ · OPORTUNIDADE",
+        "selo": "Mais de 10 mil pedidos por dia",
+        "titulo": "O Canadá está acelerando: 3 milhões em 2026"
+      },
+      "cenas": [
+        {
+          "frase": "O Canadá está acelerando.",
+          "numero": "3 milhões",
+          "realce": "acelerando",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "Pedidos concluídos de jan a set/2026",
+          "tipo": "capa",
+          "titulo": "O Canadá está acelerando"
+        },
+        {
+          "frase": "Só em setembro, foram trezentos e",
+          "numero": "311 mil",
+          "rotulo": "SÓ EM SETEMBRO",
+          "sub": "Mais de 10 mil por dia",
+          "tipo": "numero",
+          "titulo": "Pedidos concluídos no mês"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "em setembro",
+              "valor": "-35 mil"
+            },
+            {
+              "legenda": "ainda na fila",
+              "valor": "1,5 mi"
+            },
+            {
+              "legenda": "concluídos no ano",
+              "valor": "3 mi"
+            }
+          ],
+          "frase": "E a fila encolheu trinta e",
+          "rotulo": "A FILA DO CANADÁ",
+          "sub": "Dados até 30/09/2026",
+          "tipo": "cartoes",
+          "titulo": "Menos gente esperando"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "de trabalho",
+              "valor": "204 mil"
+            },
+            {
+              "legenda": "de estudo",
+              "valor": "165 mil"
+            },
+            {
+              "legenda": "no total",
+              "valor": "369 mil"
+            }
+          ],
+          "frase": "Só de trabalho e estudo, foram",
+          "rotulo": "CONCLUÍDOS EM 2026",
+          "sub": "De janeiro a setembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Trabalho e estudo"
+        },
+        {
+          "frase": "O salário médio chegou a trinta",
+          "numero": "C$ 37,89",
+          "rotulo": "CANADÁ · SALÁRIO MÉDIO",
+          "sub": "Outubro de 2026, alta de 2,2% em 12 meses",
+          "tipo": "numero",
+          "titulo": "Salário médio por hora"
+        },
+        {
+          "frase": "No câmbio de hoje, são cerca",
+          "numero": "R$ 156",
+          "rotulo": "CANADÁ EM REAIS",
+          "sub": "Câmbio de 19/11/2026: C$ 1 = R$ 4,11",
+          "tipo": "numero",
+          "titulo": "Uma hora de trabalho vale"
+        },
+        {
+          "frase": "No Canadá, o salário médio paga",
+          "numero": "24 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "R$ 3.790 por mês no Brasil",
+          "tipo": "numero",
+          "titulo": "A renda média do Brasil sai em"
+        },
+        {
+          "frase": "E até o mínimo federal, de",
+          "numero": "R$ 74",
+          "rotulo": "CANADÁ · MÍNIMO FEDERAL",
+          "sub": "C$ 18,15 por hora desde abril de 2026",
+          "tipo": "numero",
+          "titulo": "Até o mínimo passa de"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá (média)",
+              "texto": "R$ 27 mil",
+              "valor": 27015
+            },
+            {
+              "nome": "Canadá (mínimo)",
+              "texto": "R$ 12,9 mil",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil (média)",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "frase": "Enquanto o real perde valor, o",
+          "rotulo": "POR MÊS EM REAIS",
+          "sub": "Canadá com 40 horas por semana",
+          "tipo": "barras",
+          "titulo": "Pagando em moeda forte"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "3 milhões",
+          "realce": "3 milhões de pedidos",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "Pedidos de imigração concluídos de janeiro a setembro",
+          "tipo": "capa",
+          "titulo": "O Canadá concluiu 3 milhões de pedidos em 2026"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "concluídos no mês",
+              "valor": "311 mil"
+            },
+            {
+              "legenda": "por dia",
+              "valor": "+10 mil"
+            },
+            {
+              "legenda": "na fila",
+              "valor": "-35 mil"
+            }
+          ],
+          "fonte": "IRCC / CIC News",
+          "rotulo": "CANADÁ EM SETEMBRO",
+          "sub": "Dados do órgão de imigração do Canadá até 30/09/2026",
+          "tipo": "cartoes",
+          "titulo": "A fila está andando"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "de trabalho",
+              "valor": "204 mil"
+            },
+            {
+              "legenda": "de estudo",
+              "valor": "165 mil"
+            },
+            {
+              "legenda": "de visitante",
+              "valor": "1,9 mi"
+            }
+          ],
+          "fonte": "IRCC / CIC News",
+          "rotulo": "CONCLUÍDOS EM 2026",
+          "sub": "Pedidos concluídos de janeiro a setembro de 2026",
+          "tipo": "cartoes",
+          "titulo": "Trabalho, estudo e visita"
+        },
+        {
+          "fonte": "Statistics Canada / IBGE / BC",
+          "numero": "24 horas",
+          "rotulo": "CANADÁ X BRASIL",
+          "sub": "R$ 3.790 por mês no Brasil x C$ 37,89 por hora (≈ R$ 156) no Canadá",
+          "tipo": "numero",
+          "titulo": "A renda média do Brasil sai em"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá (média)",
+              "texto": "R$ 27 mil",
+              "valor": 27015
+            },
+            {
+              "nome": "Canadá (mínimo)",
+              "texto": "R$ 12,9 mil",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil (média)",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE / BC",
+          "rotulo": "POR MÊS EM REAIS",
+          "sub": "Canadá com 40 horas por semana, câmbio de 19/11/2026",
+          "tipo": "barras",
+          "titulo": "Quanto se ganha por mês"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "3 milhões",
+          "realce": "3 milhões de pedidos",
+          "rotulo": "CANADÁ · OPORTUNIDADE",
+          "sub": "De janeiro a setembro de 2026",
+          "tipo": "capa",
+          "titulo": "O Canadá concluiu 3 milhões de pedidos em 2026"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "concluídos no mês",
+              "valor": "311 mil"
+            },
+            {
+              "legenda": "por dia",
+              "valor": "+10 mil"
+            },
+            {
+              "legenda": "na fila",
+              "valor": "-35 mil"
+            }
+          ],
+          "fonte": "IRCC / CIC News",
+          "rotulo": "CANADÁ EM SETEMBRO",
+          "sub": "Dados do órgão de imigração até 30/09/2026",
+          "tipo": "cartoes",
+          "titulo": "A fila está andando"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Canadá (média)",
+              "texto": "R$ 27 mil",
+              "valor": 27015
+            },
+            {
+              "nome": "Canadá (mínimo)",
+              "texto": "R$ 12,9 mil",
+              "valor": 12940
+            },
+            {
+              "nome": "Brasil (média)",
+              "texto": "R$ 3.790",
+              "valor": 3790
+            }
+          ],
+          "fonte": "Statistics Canada / IBGE / BC",
+          "rotulo": "POR MÊS EM REAIS",
+          "sub": "Canadá com 40 horas por semana, câmbio de 19/11/2026",
+          "tipo": "barras",
+          "titulo": "Quanto se ganha por mês"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Canadá com outros 10 países",
+          "tipo": "cta",
+          "titulo": "O Canadá é para você?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "pt-20261118-319mil-residencias",
+    "pais": "PT",
+    "titulo": "Portugal concedeu 319 mil residências de longo prazo em 2025, e os brasileiros lideram",
+    "legenda_ig": "🇵🇹 Portugal concedeu 319 mil autorizações de residência de longo prazo em 2025, alta de 130% sobre 2024 (OCDE).\n💼 75% foram por motivo de trabalho, 12% por livre circulação e 6% por reagrupamento familiar.\n🇧🇷 Brasileiros receberam 115.709 novas autorizações de residência em 2025: 34,2% de todas as concessões, à frente da Índia (25.694).\n👥 Já são 493.622 brasileiros vivendo em Portugal, 31,1% de todos os estrangeiros.\n💶 O salário mínimo subiu para € 920 em 2026 (+5,7%) e o salário médio anual chegou a € 26.202.\n📊 A OCDE destacou altas expressivas em Portugal, Itália e Espanha.\n\n📌 Fontes: OCDE (via Observador/Lusa, 18/11/2026), AIMA (via DN Brasil), Diário da República, Eurostat\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\n\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#portugal #moraremportugal #brasileirosemportugal #morarfora #europa #chegadebrasil",
+    "post_x": "🇵🇹 Portugal concedeu 319 mil autorizações de residência de longo prazo em 2025, alta de 130% (OCDE). 3 em cada 4 por trabalho. E os brasileiros lideram: 115 mil novas autorizações, mais de 1/3 do total. Siga para mais 👇",
+    "nota": "Fonte: Observador (Lusa, dados da OCDE), 18/11/2026; brasileiros: AIMA via DN Brasil (22/09/2026); salário mínimo: Diário da República; salário médio: Eurostat",
+    "fonte": "Observador (Lusa)",
+    "url": "https://observador.pt/2026/11/18/portugal-concedeu-319-mil-autorizacoes-de-residencia-de-longo-prazo-em-2025/",
+    "criada": "2026-11-19T21:39:46Z",
+    "visual": {
+      "capa": {
+        "realce": "disse sim",
+        "rotulo": "PORTUGAL · OPORTUNIDADE",
+        "selo": "Brasileiros: 1 em cada 3 novas",
+        "titulo": "Portugal disse sim a 319 mil em 2025"
+      },
+      "cenas": [
+        {
+          "frase": "Portugal está dizendo sim.",
+          "numero": "319 mil",
+          "realce": "dizendo sim",
+          "rotulo": "PORTUGAL · OPORTUNIDADE",
+          "sub": "Residências de longo prazo em 2025",
+          "tipo": "capa",
+          "titulo": "Portugal está dizendo sim"
+        },
+        {
+          "frase": "É cento e trinta por cento",
+          "numero": "+130%",
+          "rotulo": "PORTUGAL · OCDE",
+          "sub": "Muitos eram pedidos antigos resolvidos",
+          "tipo": "numero",
+          "titulo": "Alta sobre 2024"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "trabalho",
+              "valor": "75%"
+            },
+            {
+              "legenda": "livre circulação",
+              "valor": "12%"
+            },
+            {
+              "legenda": "família",
+              "valor": "6%"
+            }
+          ],
+          "frase": "Três em cada quatro autorizações foram",
+          "rotulo": "POR QUE MOTIVO",
+          "sub": "Autorizações de 2025",
+          "tipo": "cartoes",
+          "titulo": "3 em cada 4 por trabalho"
+        },
+        {
+          "frase": "Em 2025, cento e quinze mil",
+          "numero": "115 mil",
+          "rotulo": "BRASILEIROS EM 2025",
+          "sub": "34,2% de todas as concessões do ano",
+          "tipo": "numero",
+          "titulo": "Novas autorizações para brasileiros"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "115.709",
+              "valor": 115709
+            },
+            {
+              "nome": "Índia",
+              "texto": "25.694",
+              "valor": 25694
+            },
+            {
+              "nome": "Nepal",
+              "texto": "17.689",
+              "valor": 17689
+            }
+          ],
+          "frase": "Mais de um terço de todas",
+          "rotulo": "NOVAS AUTORIZAÇÕES EM 2025",
+          "sub": "Por nacionalidade",
+          "tipo": "barras",
+          "titulo": "Brasileiros lideram"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "brasileiros",
+              "valor": "493.622"
+            },
+            {
+              "legenda": "dos estrangeiros",
+              "valor": "31,1%"
+            },
+            {
+              "legenda": "em 2025",
+              "valor": "+1,9%"
+            }
+          ],
+          "frase": "Hoje, quase quinhentos mil brasileiros vivem",
+          "rotulo": "BRASILEIROS EM PORTUGAL",
+          "sub": "Residentes em 31/12/2025",
+          "tipo": "cartoes",
+          "titulo": "Quase meio milhão"
+        },
+        {
+          "frase": "O salário mínimo português subiu para",
+          "numero": "€ 920",
+          "rotulo": "PORTUGAL · SALÁRIO MÍNIMO",
+          "sub": "Alta de 5,7% sobre 2025",
+          "tipo": "numero",
+          "titulo": "Mínimo em 2026"
+        },
+        {
+          "frase": "E o salário médio anual chegou",
+          "numero": "€ 26.202",
+          "rotulo": "PORTUGAL · SALÁRIO MÉDIO",
+          "sub": "Alta de 4,8% em 2025 (Eurostat)",
+          "tipo": "numero",
+          "titulo": "Salário médio por ano"
+        },
+        {
+          "frase": "A OCDE destacou Portugal, Itália e",
+          "itens": [
+            {
+              "s": "Alta expressiva, segundo a OCDE",
+              "t": "Portugal"
+            },
+            {
+              "s": "Alta expressiva, segundo a OCDE",
+              "t": "Itália"
+            },
+            {
+              "s": "Alta expressiva, segundo a OCDE",
+              "t": "Espanha"
+            }
+          ],
+          "rotulo": "DESTAQUE DA OCDE",
+          "sub": "Residências permanentes",
+          "tipo": "lista",
+          "titulo": "Maiores altas em 2025"
+        },
+        {
+          "frase": "Meio milhão de brasileiros já fizeram",
+          "rotulo": "A ESCOLHA DE MEIO MILHÃO",
+          "sub": "Quase 500 mil brasileiros vivem hoje em Portugal, a maior comunidade estrangeira do país.",
+          "tipo": "texto",
+          "titulo": "Meio milhão já escolheu Portugal"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "+130%",
+          "realce": "319 mil residências",
+          "rotulo": "PORTUGAL · OPORTUNIDADE",
+          "sub": "Autorizações de longo prazo, alta sobre 2024 (OCDE)",
+          "tipo": "capa",
+          "titulo": "Portugal concedeu 319 mil residências em 2025"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "trabalho",
+              "valor": "75%"
+            },
+            {
+              "legenda": "livre circulação",
+              "valor": "12%"
+            },
+            {
+              "legenda": "família",
+              "valor": "6%"
+            }
+          ],
+          "fonte": "OCDE / Observador (Lusa)",
+          "rotulo": "POR QUE MOTIVO",
+          "sub": "Autorizações de longo prazo concedidas em 2025",
+          "tipo": "cartoes",
+          "titulo": "3 em cada 4 foram por trabalho"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "115.709",
+              "valor": 115709
+            },
+            {
+              "nome": "Índia",
+              "texto": "25.694",
+              "valor": 25694
+            },
+            {
+              "nome": "Nepal",
+              "texto": "17.689",
+              "valor": 17689
+            },
+            {
+              "nome": "Bangladesh",
+              "texto": "17.499",
+              "valor": 17499
+            }
+          ],
+          "fonte": "AIMA / DN Brasil",
+          "rotulo": "NOVAS AUTORIZAÇÕES EM 2025",
+          "sub": "Brasil teve 34,2% de todas as novas concessões",
+          "tipo": "barras",
+          "titulo": "Brasileiros lideram com folga"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "brasileiros",
+              "valor": "493.622"
+            },
+            {
+              "legenda": "dos estrangeiros",
+              "valor": "31,1%"
+            },
+            {
+              "legenda": "em 2025",
+              "valor": "+1,9%"
+            }
+          ],
+          "fonte": "AIMA / DN Brasil",
+          "rotulo": "BRASILEIROS EM PORTUGAL",
+          "sub": "Residentes em 31/12/2025",
+          "tipo": "cartoes",
+          "titulo": "Quase meio milhão vivendo lá"
+        },
+        {
+          "fonte": "Diário da República / Eurostat / OCDE",
+          "itens": [
+            {
+              "s": "Em vigor desde 01/01/2026, alta de 5,7%",
+              "t": "Salário mínimo: € 920"
+            },
+            {
+              "s": "Alta de 4,8% em 2025, acima da média da UE",
+              "t": "Salário médio: € 26.202 por ano"
+            },
+            {
+              "s": "Portugal, Itália e Espanha entre as maiores altas",
+              "t": "Destaque da OCDE"
+            }
+          ],
+          "rotulo": "PORTUGAL · RENDA",
+          "sub": "Dados de 2025 e 2026",
+          "tipo": "lista",
+          "titulo": "Salário em euro, em alta"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "+130%",
+          "realce": "319 mil residências",
+          "rotulo": "PORTUGAL · OPORTUNIDADE",
+          "sub": "Alta sobre 2024, segundo a OCDE",
+          "tipo": "capa",
+          "titulo": "Portugal concedeu 319 mil residências em 2025"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Brasil",
+              "texto": "115.709",
+              "valor": 115709
+            },
+            {
+              "nome": "Índia",
+              "texto": "25.694",
+              "valor": 25694
+            },
+            {
+              "nome": "Nepal",
+              "texto": "17.689",
+              "valor": 17689
+            }
+          ],
+          "fonte": "AIMA / DN Brasil",
+          "rotulo": "NOVAS AUTORIZAÇÕES EM 2025",
+          "sub": "Brasil teve 34,2% de todas as novas concessões",
+          "tipo": "barras",
+          "titulo": "Brasileiros lideram com folga"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "por trabalho",
+              "valor": "75%"
+            },
+            {
+              "legenda": "mínimo 2026",
+              "valor": "€ 920"
+            },
+            {
+              "legenda": "brasileiros lá",
+              "valor": "493 mil"
+            }
+          ],
+          "fonte": "OCDE / Observador (Lusa)",
+          "rotulo": "PORTUGAL EM NÚMEROS",
+          "sub": "Dados de 2025 e 2026",
+          "tipo": "cartoes",
+          "titulo": "Trabalho e salário em euro"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare Portugal com outros 10 países",
+          "tipo": "cta",
+          "titulo": "Portugal é para você?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "br-20261118-dolar-586",
     "pais": "BR",
     "titulo": "Dólar fecha a R$ 5,86 e o salário mínimo vale só US$ 277",
