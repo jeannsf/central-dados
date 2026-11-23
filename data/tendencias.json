@@ -161,6 +161,71 @@
   },
   {
     "id": null,
+    "titulo": "Portugal: AIMA faz 3 anos com 89 mil processos nos tribunais e verba maior em 2027",
+    "resumo": "A agência de migrações de Portugal completou três anos com 840 funcionários e cerca de 89 mil processos aguardando decisão nos tribunais administrativos em 18/09/2026, 28,8% menos que os 125 mil de abril. A proposta de Orçamento de 2027 eleva a verba da AIMA para 135 milhões de euros, contra 97,4 milhões em 2026.",
+    "contexto": "A AIMA substituiu o SEF em outubro de 2023. O número de residentes estrangeiros passou de cerca de 1 milhão para quase 1,6 milhão no período. O governo diz ter resolvido 98% das 940 mil notificações da operação especial de recuperação; César Teixeira assume a presidência da agência.",
+    "por_que": "Brasileiros são a maior comunidade estrangeira em Portugal e dependem da AIMA para autorizações de residência, renovações e reagrupamento familiar. Menos pendências e mais orçamento afetam prazos de quem já está lá ou vai pedir.",
+    "pais": "PT",
+    "paises": [
+      "PT"
+    ],
+    "origem": "BR",
+    "categoria": "Imigração",
+    "direcao": "sem_dados",
+    "crescimento_resumo": null,
+    "identificada": "2026-10-31T16:20:00Z",
+    "atualizada": "2026-10-31T16:20:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-30",
+        "evidencia": "840 funcionários; cerca de 89 mil processos nos tribunais administrativos em 18/09, contra 125 mil em abril; mais de 300 mil autorizações de residência até dez/2025; orçamento proposto de 135 milhões de euros em 2027 (97,4 milhões em 2026); equipe judicial especial prorrogada até 30/01/2027.",
+        "nome": "The Portugal News",
+        "tipo": "imprensa",
+        "titulo": "AIMA marks three years in Portugal",
+        "url": "https://www.theportugalnews.com/news/2026-10-30/aima-marks-three-years-in-portugal/1108772"
+      },
+      {
+        "coletada": "2026-10-31T16:20:00Z",
+        "data": "2026-10-29",
+        "evidencia": "840 trabalhadores e 89 mil processos pendentes nos tribunais; ministro Leitão Amaro diz que 98% das pendências foram resolvidas.",
+        "nome": "ECO (SAPO)",
+        "tipo": "imprensa",
+        "titulo": "AIMA faz três anos com 840 trabalhadores e 89 mil processos pendentes nos tribunais",
+        "url": "https://eco.sapo.pt/2026/10/29/aima-faz-tres-anos-com-840-trabalhadores-e-89-mil-processos-pendentes-nos-tribunais/"
+      }
+    ],
+    "evidencias": [
+      "Processos da AIMA nos tribunais administrativos: cerca de 125 mil em abril e 89 mil em 18/09/2026 (The Portugal News, 30/10/2026).",
+      "Residentes estrangeiros passaram de cerca de 1 milhão para quase 1,6 milhão em três anos (The Portugal News).",
+      "Orçamento proposto para 2027: 135 milhões de euros (97,4 milhões em 2026).",
+      "Limite: as matérias não trazem recorte por nacionalidade; não há dado específico sobre brasileiros nessas fontes. O índice de 98% de resolução é declaração do governo."
+    ],
+    "evolucao": [
+      {
+        "data": "2026-04",
+        "fonte": "The Portugal News",
+        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
+        "valor": 125000
+      },
+      {
+        "data": "2026-09-18",
+        "fonte": "The Portugal News",
+        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
+        "valor": 89000
+      }
+    ],
+    "evolucao_nota": "Dois pontos da mesma métrica, citados na mesma reportagem. Mostram a queda das ações judiciais pendentes, não o interesse pelo tema.",
+    "publico": [
+      "Brasileiros que já vivem em Portugal e aguardam renovação ou reagrupamento",
+      "Brasileiros planejando pedir visto para Portugal"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": null,
     "titulo": "Canadá anuncia nas próximas semanas as metas de imigração de 2027 a 2029",
     "resumo": "O governo canadense precisa apresentar ao Parlamento o novo plano de níveis de imigração até 1º de novembro de 2026 ou nos primeiros dias de sessão seguintes. O plano define quantos residentes permanentes e temporários o país aceita até 2029.",
     "contexto": "Todo ano o Canadá publica um plano de três anos com metas por programa (Express Entry, programas provinciais, família, estudantes e trabalhadores temporários). O plano 2026-2028 saiu em 5/11/2025. Consultores falam em possível alta, mas nada está confirmado.",
@@ -347,65 +412,56 @@
   },
   {
     "id": null,
-    "titulo": "Portugal: AIMA faz 3 anos com 89 mil processos nos tribunais e verba maior em 2027",
-    "resumo": "A agência de migrações de Portugal completou três anos com 840 funcionários e cerca de 89 mil processos aguardando decisão nos tribunais administrativos em 18/09/2026, 28,8% menos que os 125 mil de abril. A proposta de Orçamento de 2027 eleva a verba da AIMA para 135 milhões de euros, contra 97,4 milhões em 2026.",
-    "contexto": "A AIMA substituiu o SEF em outubro de 2023. O número de residentes estrangeiros passou de cerca de 1 milhão para quase 1,6 milhão no período. O governo diz ter resolvido 98% das 940 mil notificações da operação especial de recuperação; César Teixeira assume a presidência da agência.",
-    "por_que": "Brasileiros são a maior comunidade estrangeira em Portugal e dependem da AIMA para autorizações de residência, renovações e reagrupamento familiar. Menos pendências e mais orçamento afetam prazos de quem já está lá ou vai pedir.",
-    "pais": "PT",
+    "titulo": "Êxodo de milionários deve bater recorde: 165 mil mudando de país em 2026",
+    "resumo": "Levantamento da New World Wealth, divulgado pela The Economist e citado pela InfoMoney, prevê 165 mil pessoas de grande fortuna mudando de país em 2026, contra 140 mil em 2025. Portugal e EUA estão entre os preferidos dos brasileiros de alta renda.",
+    "contexto": "O mercado de migração por investimento movimentou cerca de US$ 40 bilhões em 2025, o dobro de 2019. Mais de 5 milhões de brasileiros vivem no exterior, segundo o Itamaraty.",
+    "por_que": "Mostra que a migração planejada está crescendo no mundo, não só no Brasil; porém o dado é de junho e não traz número de brasileiros.",
+    "pais": "US",
     "paises": [
+      "US",
       "PT"
     ],
     "origem": "BR",
-    "categoria": "Imigração",
-    "direcao": "sem_dados",
-    "crescimento_resumo": null,
-    "identificada": "2026-10-31T16:20:00Z",
-    "atualizada": "2026-10-31T16:20:00Z",
-    "status": "aguardando",
+    "categoria": "Economia",
+    "direcao": "caindo",
+    "crescimento_resumo": "+18% (165 mil x 140 mil)",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "expirada",
     "fontes": [
       {
-        "coletada": "2026-10-31T16:20:00Z",
-        "data": "2026-10-30",
-        "evidencia": "840 funcionários; cerca de 89 mil processos nos tribunais administrativos em 18/09, contra 125 mil em abril; mais de 300 mil autorizações de residência até dez/2025; orçamento proposto de 135 milhões de euros em 2027 (97,4 milhões em 2026); equipe judicial especial prorrogada até 30/01/2027.",
-        "nome": "The Portugal News",
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-06-15",
+        "evidencia": "165 mil em 2026 contra 140 mil em 2025 (New World Wealth). Não informa quantos são brasileiros.",
+        "nome": "InfoMoney",
         "tipo": "imprensa",
-        "titulo": "AIMA marks three years in Portugal",
-        "url": "https://www.theportugalnews.com/news/2026-10-30/aima-marks-three-years-in-portugal/1108772"
-      },
-      {
-        "coletada": "2026-10-31T16:20:00Z",
-        "data": "2026-10-29",
-        "evidencia": "840 trabalhadores e 89 mil processos pendentes nos tribunais; ministro Leitão Amaro diz que 98% das pendências foram resolvidas.",
-        "nome": "ECO (SAPO)",
-        "tipo": "imprensa",
-        "titulo": "AIMA faz três anos com 840 trabalhadores e 89 mil processos pendentes nos tribunais",
-        "url": "https://eco.sapo.pt/2026/10/29/aima-faz-tres-anos-com-840-trabalhadores-e-89-mil-processos-pendentes-nos-tribunais/"
+        "titulo": "Êxodo dos milionários bate recorde global; para onde vão os brasileiros mais ricos?",
+        "url": "https://www.infomoney.com.br/mundo/exodo-dos-milionarios-bate-recorde-global-para-onde-vao-os-brasileiros-mais-ricos/"
       }
     ],
     "evidencias": [
-      "Processos da AIMA nos tribunais administrativos: cerca de 125 mil em abril e 89 mil em 18/09/2026 (The Portugal News, 30/10/2026).",
-      "Residentes estrangeiros passaram de cerca de 1 milhão para quase 1,6 milhão em três anos (The Portugal News).",
-      "Orçamento proposto para 2027: 135 milhões de euros (97,4 milhões em 2026).",
-      "Limite: as matérias não trazem recorte por nacionalidade; não há dado específico sobre brasileiros nessas fontes. O índice de 98% de resolução é declaração do governo."
+      "165 mil milionários devem mudar de país em 2026, contra 140 mil em 2025.",
+      "Mercado de migração por investimento: cerca de US$ 40 bilhões em 2025.",
+      "Limite: sem número de brasileiros e com uma só fonte nesta coleta."
     ],
     "evolucao": [
       {
-        "data": "2026-04",
-        "fonte": "The Portugal News",
-        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
-        "valor": 125000
+        "data": "2025-12-31",
+        "fonte": "New World Wealth",
+        "unidade": "milionários que mudaram de país",
+        "valor": 140000
       },
       {
-        "data": "2026-09-18",
-        "fonte": "The Portugal News",
-        "unidade": "processos da AIMA pendentes nos tribunais administrativos",
-        "valor": 89000
+        "data": "2026-12-31",
+        "fonte": "New World Wealth",
+        "unidade": "milionários que mudaram de país (previsão)",
+        "valor": 165000
       }
     ],
-    "evolucao_nota": "Dois pontos da mesma métrica, citados na mesma reportagem. Mostram a queda das ações judiciais pendentes, não o interesse pelo tema.",
+    "evolucao_nota": "O valor de 2026 é uma previsão.",
     "publico": [
-      "Brasileiros que já vivem em Portugal e aguardam renovação ou reagrupamento",
-      "Brasileiros planejando pedir visto para Portugal"
+      "Brasileiros de alta renda",
+      "Investidores interessados em vistos por investimento"
     ],
     "imagem": null,
     "imagem_credito": null
@@ -458,110 +514,6 @@
       "Brasileiros que planejam ir para Portugal",
       "Pais com filhos em idade escolar",
       "Quem já está em Portugal e quer trocar de emprego"
-    ],
-    "imagem": null,
-    "imagem_credito": null
-  },
-  {
-    "id": null,
-    "titulo": "EUA prorrogam taxa de US$ 100 mil para novos vistos H-1B até 2027",
-    "resumo": "Proclamação de 18/09/2026 estendeu por 12 meses a taxa de US$ 100 mil sobre a entrada de novos trabalhadores H-1B, agora até 21/09/2027. Uma ordem executiva também aumentou a fiscalização dos pedidos.",
-    "contexto": "A política foi declarada ilegal por um juiz federal em junho de 2026 e o governo recorreu. Segundo a própria proclamação, só cerca de 700 pagamentos foram feitos no último ano. Há outras regras propostas que endurecem o H-1B e o OPT de estudantes.",
-    "por_que": "Afeta diretamente o caminho de trabalho qualificado nos EUA, um dos vistos mais procurados por brasileiros depois da eleição (EB-2 NIW e EB-1A são alternativas).",
-    "pais": "US",
-    "paises": [
-      "US"
-    ],
-    "origem": null,
-    "categoria": "Empregos internacionais",
-    "direcao": "caindo",
-    "crescimento_resumo": null,
-    "identificada": "2026-10-31T04:30:00Z",
-    "atualizada": "2026-10-31T04:30:00Z",
-    "status": "expirada",
-    "fontes": [
-      {
-        "coletada": "2026-10-31T04:30:00Z",
-        "data": "2026-09-21",
-        "evidencia": "Taxa de US$ 100 mil prorrogada até 21/09/2027; cerca de 700 pagamentos no último ano; regra proposta de US$ 103.265.",
-        "nome": "Forbes",
-        "tipo": "imprensa",
-        "titulo": "Trump Enacts Additional Immigration Policies Against H-1B Visa Holders",
-        "url": "https://www.forbes.com/sites/stuartanderson/2026/09/21/trump-enacts-additional-immigration-policies-against-h-1b-visa-holders/"
-      },
-      {
-        "coletada": "2026-10-31T04:30:00Z",
-        "data": null,
-        "evidencia": "Resumo das mudanças de outubro; data exata não verificada nesta coleta.",
-        "nome": "Brown Immigration Law",
-        "tipo": "escritório de advocacia",
-        "titulo": "October 2026 Immigration News",
-        "url": "https://brownimmigrationlaw.com/immigration-news-october-2026/"
-      }
-    ],
-    "evidencias": [
-      "Prorrogação assinada em 18/09/2026.",
-      "Só cerca de 700 pagamentos da taxa em 12 meses, segundo a proclamação.",
-      "Disputa judicial em andamento."
-    ],
-    "evolucao": [],
-    "evolucao_nota": "Sem série histórica.",
-    "publico": [
-      "Profissionais de tecnologia",
-      "Estudantes nos EUA (OPT)"
-    ],
-    "imagem": null,
-    "imagem_credito": null
-  },
-  {
-    "id": null,
-    "titulo": "Paraguai: residências concedidas sobem 81% e brasileiros ficam com 76%",
-    "resumo": "No 1º semestre de 2026 o Paraguai concedeu 29.765 autorizações de residência, 81% a mais que no mesmo período de 2025. Brasileiros receberam 22.628, cerca de 76% do total.",
-    "contexto": "Dados da Direção Nacional de Migrações do Paraguai, divulgados pela Agência IP. O país atrai pela residência via Mercosul, impostos de 10% (sistema 'triplo 10') e proximidade com o Sul do Brasil.",
-    "por_que": "É o único destino com dado oficial de crescimento recente e com brasileiros como maioria absoluta dos novos residentes.",
-    "pais": "PY",
-    "paises": [
-      "PY"
-    ],
-    "origem": "BR",
-    "categoria": "Vistos e documentação",
-    "direcao": "subindo",
-    "crescimento_resumo": "+81% em residências (1º sem.)",
-    "identificada": "2026-10-31T04:30:00Z",
-    "atualizada": "2026-10-31T04:30:00Z",
-    "status": "aguardando",
-    "fontes": [
-      {
-        "coletada": "2026-10-31T04:30:00Z",
-        "data": "2026-10-28",
-        "evidencia": "29.765 autorizações no 1º semestre (+81%); 22.628 para brasileiros; 33.243 solicitações (+62%).",
-        "nome": "Paraíba Business (dados da DNM via Agência IP)",
-        "tipo": "imprensa (dados oficiais)",
-        "titulo": "Buscas por morar no Paraguai disparam e brasileiros lideram concessões de residência",
-        "url": "https://paraibabusiness.com.br/buscas-por-morar-no-paraguai-disparam-e-brasileiros-lideram-concessoes-de-residencia/"
-      },
-      {
-        "coletada": "2026-10-31T04:30:00Z",
-        "data": "2026-10-29",
-        "evidencia": "Residência via Mercosul e alíquota máxima de 10% em IRE, IVA e IRP.",
-        "nome": "Gazeta do Povo",
-        "tipo": "imprensa",
-        "titulo": "Busca por morar no Paraguai sobe 1.700% após eleição",
-        "url": "https://gazetadopovo.com.br/parana/brasileiros-aceleram-busca-por-mudanca-para-o-paraguai-apos-eleicoes-de-2026"
-      }
-    ],
-    "evidencias": [
-      "Autorizações de residência: 29.765 no 1º semestre de 2026, +81% sobre o 1º semestre de 2025.",
-      "Solicitações: 33.243, +62%.",
-      "Em 2025 inteiro foram cerca de 40,6 mil autorizações, 23,5 mil para brasileiros: o 1º semestre de 2026 quase igualou o ano anterior.",
-      "Limite: autorização de residência não prova mudança definitiva."
-    ],
-    "evolucao": [],
-    "evolucao_nota": "Os números disponíveis não são comparáveis em série (ano de 2025 inteiro contra 1º semestre de 2026). O crescimento de 81% é a comparação oficial semestre contra semestre.",
-    "publico": [
-      "Brasileiros do Sul e Centro-Oeste",
-      "Empreendedores interessados em impostos menores",
-      "Aposentados que buscam custo de vida menor"
     ],
     "imagem": null,
     "imagem_credito": null
@@ -623,56 +575,104 @@
   },
   {
     "id": null,
-    "titulo": "Êxodo de milionários deve bater recorde: 165 mil mudando de país em 2026",
-    "resumo": "Levantamento da New World Wealth, divulgado pela The Economist e citado pela InfoMoney, prevê 165 mil pessoas de grande fortuna mudando de país em 2026, contra 140 mil em 2025. Portugal e EUA estão entre os preferidos dos brasileiros de alta renda.",
-    "contexto": "O mercado de migração por investimento movimentou cerca de US$ 40 bilhões em 2025, o dobro de 2019. Mais de 5 milhões de brasileiros vivem no exterior, segundo o Itamaraty.",
-    "por_que": "Mostra que a migração planejada está crescendo no mundo, não só no Brasil; porém o dado é de junho e não traz número de brasileiros.",
-    "pais": "US",
+    "titulo": "Paraguai: residências concedidas sobem 81% e brasileiros ficam com 76%",
+    "resumo": "No 1º semestre de 2026 o Paraguai concedeu 29.765 autorizações de residência, 81% a mais que no mesmo período de 2025. Brasileiros receberam 22.628, cerca de 76% do total.",
+    "contexto": "Dados da Direção Nacional de Migrações do Paraguai, divulgados pela Agência IP. O país atrai pela residência via Mercosul, impostos de 10% (sistema 'triplo 10') e proximidade com o Sul do Brasil.",
+    "por_que": "É o único destino com dado oficial de crescimento recente e com brasileiros como maioria absoluta dos novos residentes.",
+    "pais": "PY",
     "paises": [
-      "US",
-      "PT"
+      "PY"
     ],
     "origem": "BR",
-    "categoria": "Economia",
+    "categoria": "Vistos e documentação",
+    "direcao": "subindo",
+    "crescimento_resumo": "+81% em residências (1º sem.)",
+    "identificada": "2026-10-31T04:30:00Z",
+    "atualizada": "2026-10-31T04:30:00Z",
+    "status": "aguardando",
+    "fontes": [
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-28",
+        "evidencia": "29.765 autorizações no 1º semestre (+81%); 22.628 para brasileiros; 33.243 solicitações (+62%).",
+        "nome": "Paraíba Business (dados da DNM via Agência IP)",
+        "tipo": "imprensa (dados oficiais)",
+        "titulo": "Buscas por morar no Paraguai disparam e brasileiros lideram concessões de residência",
+        "url": "https://paraibabusiness.com.br/buscas-por-morar-no-paraguai-disparam-e-brasileiros-lideram-concessoes-de-residencia/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": "2026-10-29",
+        "evidencia": "Residência via Mercosul e alíquota máxima de 10% em IRE, IVA e IRP.",
+        "nome": "Gazeta do Povo",
+        "tipo": "imprensa",
+        "titulo": "Busca por morar no Paraguai sobe 1.700% após eleição",
+        "url": "https://gazetadopovo.com.br/parana/brasileiros-aceleram-busca-por-mudanca-para-o-paraguai-apos-eleicoes-de-2026"
+      }
+    ],
+    "evidencias": [
+      "Autorizações de residência: 29.765 no 1º semestre de 2026, +81% sobre o 1º semestre de 2025.",
+      "Solicitações: 33.243, +62%.",
+      "Em 2025 inteiro foram cerca de 40,6 mil autorizações, 23,5 mil para brasileiros: o 1º semestre de 2026 quase igualou o ano anterior.",
+      "Limite: autorização de residência não prova mudança definitiva."
+    ],
+    "evolucao": [],
+    "evolucao_nota": "Os números disponíveis não são comparáveis em série (ano de 2025 inteiro contra 1º semestre de 2026). O crescimento de 81% é a comparação oficial semestre contra semestre.",
+    "publico": [
+      "Brasileiros do Sul e Centro-Oeste",
+      "Empreendedores interessados em impostos menores",
+      "Aposentados que buscam custo de vida menor"
+    ],
+    "imagem": null,
+    "imagem_credito": null
+  },
+  {
+    "id": null,
+    "titulo": "EUA prorrogam taxa de US$ 100 mil para novos vistos H-1B até 2027",
+    "resumo": "Proclamação de 18/09/2026 estendeu por 12 meses a taxa de US$ 100 mil sobre a entrada de novos trabalhadores H-1B, agora até 21/09/2027. Uma ordem executiva também aumentou a fiscalização dos pedidos.",
+    "contexto": "A política foi declarada ilegal por um juiz federal em junho de 2026 e o governo recorreu. Segundo a própria proclamação, só cerca de 700 pagamentos foram feitos no último ano. Há outras regras propostas que endurecem o H-1B e o OPT de estudantes.",
+    "por_que": "Afeta diretamente o caminho de trabalho qualificado nos EUA, um dos vistos mais procurados por brasileiros depois da eleição (EB-2 NIW e EB-1A são alternativas).",
+    "pais": "US",
+    "paises": [
+      "US"
+    ],
+    "origem": null,
+    "categoria": "Empregos internacionais",
     "direcao": "caindo",
-    "crescimento_resumo": "+18% (165 mil x 140 mil)",
+    "crescimento_resumo": null,
     "identificada": "2026-10-31T04:30:00Z",
     "atualizada": "2026-10-31T04:30:00Z",
     "status": "expirada",
     "fontes": [
       {
         "coletada": "2026-10-31T04:30:00Z",
-        "data": "2026-06-15",
-        "evidencia": "165 mil em 2026 contra 140 mil em 2025 (New World Wealth). Não informa quantos são brasileiros.",
-        "nome": "InfoMoney",
+        "data": "2026-09-21",
+        "evidencia": "Taxa de US$ 100 mil prorrogada até 21/09/2027; cerca de 700 pagamentos no último ano; regra proposta de US$ 103.265.",
+        "nome": "Forbes",
         "tipo": "imprensa",
-        "titulo": "Êxodo dos milionários bate recorde global; para onde vão os brasileiros mais ricos?",
-        "url": "https://www.infomoney.com.br/mundo/exodo-dos-milionarios-bate-recorde-global-para-onde-vao-os-brasileiros-mais-ricos/"
+        "titulo": "Trump Enacts Additional Immigration Policies Against H-1B Visa Holders",
+        "url": "https://www.forbes.com/sites/stuartanderson/2026/09/21/trump-enacts-additional-immigration-policies-against-h-1b-visa-holders/"
+      },
+      {
+        "coletada": "2026-10-31T04:30:00Z",
+        "data": null,
+        "evidencia": "Resumo das mudanças de outubro; data exata não verificada nesta coleta.",
+        "nome": "Brown Immigration Law",
+        "tipo": "escritório de advocacia",
+        "titulo": "October 2026 Immigration News",
+        "url": "https://brownimmigrationlaw.com/immigration-news-october-2026/"
       }
     ],
     "evidencias": [
-      "165 mil milionários devem mudar de país em 2026, contra 140 mil em 2025.",
-      "Mercado de migração por investimento: cerca de US$ 40 bilhões em 2025.",
-      "Limite: sem número de brasileiros e com uma só fonte nesta coleta."
+      "Prorrogação assinada em 18/09/2026.",
+      "Só cerca de 700 pagamentos da taxa em 12 meses, segundo a proclamação.",
+      "Disputa judicial em andamento."
     ],
-    "evolucao": [
-      {
-        "data": "2025-12-31",
-        "fonte": "New World Wealth",
-        "unidade": "milionários que mudaram de país",
-        "valor": 140000
-      },
-      {
-        "data": "2026-12-31",
-        "fonte": "New World Wealth",
-        "unidade": "milionários que mudaram de país (previsão)",
-        "valor": 165000
-      }
-    ],
-    "evolucao_nota": "O valor de 2026 é uma previsão.",
+    "evolucao": [],
+    "evolucao_nota": "Sem série histórica.",
     "publico": [
-      "Brasileiros de alta renda",
-      "Investidores interessados em vistos por investimento"
+      "Profissionais de tecnologia",
+      "Estudantes nos EUA (OPT)"
     ],
     "imagem": null,
     "imagem_credito": null
