@@ -1,5 +1,846 @@
 [
   {
+    "noticia_id": "br-20261115-golpes-rj",
+    "pais": "BR",
+    "titulo": "Golpes batem recorde no RJ: 127,8 mil em 9 meses, e o Brasil é só o 124º em paz no mundo",
+    "legenda_ig": "🚨 No Rio, o crime que mais cresce não usa arma: usa o seu celular.\n📈 127.813 golpes (estelionatos) de janeiro a setembro de 2026, recorde desde 2003 e 12% acima de 2025.\n🚗 17.753 carros roubados: cerca de 3 por hora.\n📱 Mais de 44 mil celulares roubados ou furtados: um a cada 9 minutos.\n🌍 Índice Global da Paz 2026: Nova Zelândia 2º, Portugal 7º, Uruguai 43º… Brasil 124º.\n📰 Fonte: ISP, via Agência O Globo (15/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#seguranca #riodejaneiro #morarfora #morarnoexterior #qualidadedevida #chegadebrasil",
+    "post_x": "🚨 Rio, jan–set/2026: 127.813 golpes (recorde desde 2003, +12%), 17.753 carros roubados (3 por hora) e 44 mil celulares levados (1 a cada 9 min).\n\nÍndice Global da Paz: Nova Zelândia 2º, Portugal 7º. Brasil 124º.\n\nSiga para mais 👇",
+    "nota": "Fonte: ISP via Agência O Globo (Tribuna do Sertão), 15/11/2026; GPI 2026",
+    "fonte": "Agência O Globo (via Tribuna do Sertão)",
+    "url": "https://www.tribunadosertao.com.br/rj-em-foco/2026/11/15/1022163-roubos-de-veiculos-e-avanco-das-faccoes-sao-desafios-da-seguranca-no-rio",
+    "criada": "2026-11-23T22:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "bate recorde",
+        "rotulo": "RIO · SEGURANÇA",
+        "selo": "127.813 golpes de jan a set/2026",
+        "titulo": "Golpe bate recorde no Rio: 127 mil em 9 meses"
+      },
+      "cenas": [
+        {
+          "frase": "No Rio de Janeiro, o crime",
+          "numero": "127.813",
+          "realce": "não usa arma",
+          "rotulo": "RIO · SEGURANÇA",
+          "sub": "golpes jan–set/2026",
+          "tipo": "capa",
+          "titulo": "O crime que mais cresce não usa arma"
+        },
+        {
+          "frase": "De janeiro a setembro de 2026,",
+          "numero": "127.813",
+          "rotulo": "GOLPES NO RJ",
+          "sub": "Recorde desde 2003 (ISP)",
+          "tipo": "numero",
+          "titulo": "Estelionatos em 9 meses"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "maior desde",
+              "valor": "2003"
+            },
+            {
+              "legenda": "contra 2025",
+              "valor": "+12%"
+            },
+            {
+              "legenda": "perto de liderar",
+              "valor": "nº 1"
+            }
+          ],
+          "frase": "É o maior número desde 2003.",
+          "rotulo": "RECORDE",
+          "sub": "Fonte: ISP",
+          "tipo": "cartoes",
+          "titulo": "Golpes no Rio em 2026"
+        },
+        {
+          "frase": "Foram dezessete mil, setecentos e cinquenta",
+          "numero": "17.753",
+          "rotulo": "CARROS ROUBADOS",
+          "sub": "Cerca de 3 por hora (+3,6%)",
+          "tipo": "numero",
+          "titulo": "Roubos de veículos jan–set"
+        },
+        {
+          "frase": "E mais de quarenta e quatro",
+          "numero": "44 mil",
+          "rotulo": "CELULARES",
+          "sub": "Um a cada 9 minutos, em média",
+          "tipo": "numero",
+          "titulo": "Roubados ou furtados"
+        },
+        {
+          "frase": "Agora compare.",
+          "itens": [
+            {
+              "s": "2º lugar no mundo",
+              "t": "Nova Zelândia"
+            },
+            {
+              "s": "7º lugar",
+              "t": "Portugal"
+            },
+            {
+              "s": "43º lugar",
+              "t": "Uruguai"
+            }
+          ],
+          "rotulo": "AGORA COMPARE",
+          "tipo": "lista",
+          "titulo": "Índice Global da Paz 2026"
+        },
+        {
+          "frase": "E o Brasil, em centésimo vigésimo",
+          "numero": "124º",
+          "rotulo": "E O BRASIL?",
+          "sub": "122 posições atrás da Nova Zelândia",
+          "tipo": "numero",
+          "titulo": "Posição do Brasil no GPI 2026"
+        },
+        {
+          "frase": "Tem gente que já escolheu viver",
+          "rotulo": "OUTRA REALIDADE",
+          "sub": "Tem gente que já escolheu viver em países mais pacíficos, pelo caminho legal.",
+          "tipo": "texto",
+          "titulo": "Celular na mão sem medo"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "A PERGUNTA",
+          "sub": "Viver mais tranquilo é possível.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare 11 países com a vida no Brasil",
+          "tipo": "cta",
+          "titulo": "Quer viver onde é mais seguro?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "127.813",
+          "realce": "mais cresce",
+          "rotulo": "RIO DE JANEIRO · SEGURANÇA",
+          "sub": "estelionatos de janeiro a setembro de 2026 (ISP)",
+          "tipo": "capa",
+          "titulo": "O golpe virou o crime que mais cresce no Rio"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "golpes registrados",
+              "valor": "127,8 mil"
+            },
+            {
+              "legenda": "contra 2025",
+              "valor": "+12%"
+            },
+            {
+              "legenda": "maior desde o início da série",
+              "valor": "2003"
+            }
+          ],
+          "rotulo": "RECORDE DO ISP",
+          "sub": "Jan–set/2026. Fonte: ISP via Agência O Globo",
+          "tipo": "cartoes",
+          "titulo": "Golpes no RJ em 2026"
+        },
+        {
+          "itens": [
+            {
+              "s": "17.753 — cerca de 3 por hora (+3,6%)",
+              "t": "Carros roubados"
+            },
+            {
+              "s": "Mais de 44 mil — um a cada 9 minutos",
+              "t": "Celulares levados"
+            },
+            {
+              "s": "127.813, perto de virar o crime nº 1 do estado",
+              "t": "Golpes"
+            }
+          ],
+          "rotulo": "O DIA A DIA NO RIO",
+          "tipo": "lista",
+          "titulo": "Em 9 meses de 2026"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Portugal",
+              "texto": "7º",
+              "valor": 7
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "rotulo": "PAZ GLOBAL 2026",
+          "sub": "Quanto menor, mais seguro. Fonte: GPI 2026",
+          "tipo": "barras",
+          "titulo": "Posição no Índice Global da Paz"
+        },
+        {
+          "numero": "122 posições",
+          "rotulo": "A DIFERENÇA",
+          "sub": "NZ é a 2ª mais pacífica do mundo; o Brasil é o 124º (GPI 2026)",
+          "tipo": "numero",
+          "titulo": "Distância do Brasil para a Nova Zelândia"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare 11 países com a vida no Brasil",
+          "tipo": "cta",
+          "titulo": "Quer viver onde é mais seguro?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "127.813",
+          "realce": "bate recorde",
+          "rotulo": "RIO · SEGURANÇA",
+          "sub": "estelionatos jan–set/2026, maior número desde 2003",
+          "tipo": "capa",
+          "titulo": "Golpe bate recorde no Rio: 127 mil em 9 meses"
+        },
+        {
+          "itens": [
+            {
+              "s": "127.813 (+12%), recorde desde 2003",
+              "t": "Golpes"
+            },
+            {
+              "s": "17.753 — cerca de 3 por hora",
+              "t": "Carros roubados"
+            },
+            {
+              "s": "Mais de 44 mil — um a cada 9 minutos",
+              "t": "Celulares levados"
+            }
+          ],
+          "rotulo": "EM 9 MESES",
+          "tipo": "lista",
+          "titulo": "O que o Rio registrou em 2026"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Nova Zelândia",
+              "texto": "2º",
+              "valor": 2
+            },
+            {
+              "nome": "Portugal",
+              "texto": "7º",
+              "valor": 7
+            },
+            {
+              "nome": "Uruguai",
+              "texto": "43º",
+              "valor": 43
+            },
+            {
+              "nome": "Brasil",
+              "texto": "124º",
+              "valor": 124
+            }
+          ],
+          "rotulo": "PAZ GLOBAL 2026",
+          "sub": "Quanto menor, mais seguro. Fonte: GPI 2026",
+          "tipo": "barras",
+          "titulo": "Posição no Índice Global da Paz"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare 11 países com a vida no Brasil",
+          "tipo": "cta",
+          "titulo": "Quer viver onde é mais seguro?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261117-aluguel-fipezap",
+    "pais": "BR",
+    "titulo": "Aluguel sobe 9,01% em 12 meses, quase o dobro da inflação; lá fora, salário anda na frente",
+    "legenda_ig": "🏠 Seu aluguel está subindo quase o dobro da inflação.\n📈 Aluguel residencial: +9,01% em 12 meses (FipeZAP), +0,49% só em outubro de 2026.\n📉 Inflação oficial (IPCA) no período: 4,63%.\n💰 Renda média no Brasil: R$ 3.790. Mínimo: R$ 1.621.\n🇺🇾 Uruguai: salário +5,98% em 12 meses, com inflação de 4,7%.\n🇨🇱 Chile: salário real +3,5%.\n🇵🇹 Portugal: salário médio de € 26.202 por ano.\n📰 Fonte: FipeZAP, via Jornal do Comércio (17/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#aluguel #custodevida #morarfora #morarnoexterior #inflacao #chegadebrasil",
+    "post_x": "🏠 Aluguel no Brasil: +9,01% em 12 meses (FipeZAP), quase o dobro do IPCA (4,63%).\n\nNo Uruguai, o salário subiu 5,98%. No Chile, o salário real subiu 3,5%. Lá fora, o salário anda na frente das contas.\n\nSiga para mais 👇",
+    "nota": "Fonte: FipeZAP via Jornal do Comércio, 17/11/2026",
+    "fonte": "Jornal do Comércio",
+    "url": "https://www.jornaldocomercio.com/economia/2026/11/1270860-aluguel-continua-a-subir-acima-da-inflacao.html",
+    "criada": "2026-11-23T22:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "o dobro",
+        "rotulo": "BRASIL · ALUGUEL",
+        "selo": "Aluguel +9,01% x IPCA +4,63%",
+        "titulo": "Seu aluguel sobe quase o dobro da inflação"
+      },
+      "cenas": [
+        {
+          "frase": "Seu aluguel está subindo quase o",
+          "numero": "+9,01%",
+          "realce": "o dobro",
+          "rotulo": "BRASIL · ALUGUEL",
+          "sub": "em 12 meses (FipeZAP)",
+          "tipo": "capa",
+          "titulo": "Aluguel sobe quase o dobro da inflação"
+        },
+        {
+          "frase": "Segundo o índice FipeZAP, o aluguel",
+          "numero": "+9,01%",
+          "rotulo": "FIPEZAP",
+          "sub": "Até outubro de 2026",
+          "tipo": "numero",
+          "titulo": "Aluguel residencial em 12 meses"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Aluguel",
+              "texto": "+9,01%",
+              "valor": 9.01
+            },
+            {
+              "nome": "IPCA",
+              "texto": "+4,63%",
+              "valor": 4.63
+            }
+          ],
+          "frase": "No mesmo período, a inflação oficial,",
+          "rotulo": "ALUGUEL X INFLAÇÃO",
+          "sub": "FipeZAP x IPCA, 12 meses",
+          "tipo": "barras",
+          "titulo": "Quase o dobro"
+        },
+        {
+          "frase": "Só em outubro de 2026, a",
+          "numero": "+0,49%",
+          "rotulo": "SÓ EM OUTUBRO",
+          "sub": "Em um único mês de 2026",
+          "tipo": "numero",
+          "titulo": "Alta do aluguel no mês"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "renda média",
+              "valor": "R$ 3.790"
+            },
+            {
+              "legenda": "mínimo",
+              "valor": "R$ 1.621"
+            },
+            {
+              "legenda": "aluguel em 12 meses",
+              "valor": "+9,01%"
+            }
+          ],
+          "frase": "Agora pense no salário.",
+          "rotulo": "E O SALÁRIO?",
+          "sub": "Renda média e mínimo",
+          "tipo": "cartoes",
+          "titulo": "Quanto ganha o brasileiro"
+        },
+        {
+          "frase": "No Uruguai, os salários subiram quase",
+          "numero": "+5,98%",
+          "rotulo": "URUGUAI",
+          "sub": "Com inflação de 4,7%",
+          "tipo": "numero",
+          "titulo": "Salário em 12 meses"
+        },
+        {
+          "frase": "No Chile, o salário real subiu",
+          "numero": "+3,5%",
+          "rotulo": "CHILE",
+          "sub": "Acima da inflação",
+          "tipo": "numero",
+          "titulo": "Salário real em 12 meses"
+        },
+        {
+          "frase": "Em Portugal, o salário médio anual",
+          "numero": "€ 26.202",
+          "rotulo": "PORTUGAL",
+          "sub": "2025, alta de 4,8%",
+          "tipo": "numero",
+          "titulo": "Salário médio anual"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "A PERGUNTA",
+          "sub": "Lá fora, tem gente vendo o salário andar na frente das contas.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Seu salário anda na frente?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "+9,01%",
+          "realce": "o dobro",
+          "rotulo": "BRASIL · ALUGUEL",
+          "sub": "alta do aluguel residencial em 12 meses (FipeZAP)",
+          "tipo": "capa",
+          "titulo": "Seu aluguel sobe quase o dobro da inflação"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Aluguel",
+              "texto": "+9,01%",
+              "valor": 9.01
+            },
+            {
+              "nome": "IPCA",
+              "texto": "+4,63%",
+              "valor": 4.63
+            }
+          ],
+          "rotulo": "12 MESES ATÉ OUT/2026",
+          "sub": "Fonte: FipeZAP e IPCA, via Jornal do Comércio",
+          "tipo": "barras",
+          "titulo": "Aluguel x inflação no Brasil"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "aluguel só em outubro",
+              "valor": "+0,49%"
+            },
+            {
+              "legenda": "renda média mensal",
+              "valor": "R$ 3.790"
+            },
+            {
+              "legenda": "salário mínimo",
+              "valor": "R$ 1.621"
+            }
+          ],
+          "rotulo": "O BOLSO DO BRASILEIRO",
+          "sub": "FipeZAP out/2026; renda média e mínimo no Brasil",
+          "tipo": "cartoes",
+          "titulo": "Casa sobe, renda não acompanha"
+        },
+        {
+          "itens": [
+            {
+              "s": "Salário +5,98% em 12 meses x inflação 4,7%",
+              "t": "Uruguai"
+            },
+            {
+              "s": "Salário real +3,5% em 12 meses",
+              "t": "Chile"
+            },
+            {
+              "s": "Salário médio de € 26.202 por ano (2025, +4,8%)",
+              "t": "Portugal"
+            }
+          ],
+          "rotulo": "LÁ FORA",
+          "tipo": "lista",
+          "titulo": "Onde o salário anda na frente"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Aluguel no Brasil",
+              "texto": "+9,01%",
+              "valor": 9.01
+            },
+            {
+              "nome": "Salário no Uruguai",
+              "texto": "+5,98%",
+              "valor": 5.98
+            },
+            {
+              "nome": "IPCA Brasil",
+              "texto": "+4,63%",
+              "valor": 4.63
+            }
+          ],
+          "rotulo": "ALTA EM 12 MESES",
+          "sub": "Brasil: aluguel (FipeZAP). Uruguai: salário (INE)",
+          "tipo": "barras",
+          "titulo": "O que sobe mais rápido?"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Seu salário anda na frente das contas?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "+9,01%",
+          "realce": "o dobro",
+          "rotulo": "BRASIL · ALUGUEL",
+          "sub": "em 12 meses, contra IPCA de 4,63%",
+          "tipo": "capa",
+          "titulo": "Seu aluguel sobe quase o dobro da inflação"
+        },
+        {
+          "barras": [
+            {
+              "nome": "Aluguel BR",
+              "texto": "+9,01%",
+              "valor": 9.01
+            },
+            {
+              "nome": "Salário Uruguai",
+              "texto": "+5,98%",
+              "valor": 5.98
+            },
+            {
+              "nome": "IPCA BR",
+              "texto": "+4,63%",
+              "valor": 4.63
+            }
+          ],
+          "rotulo": "12 MESES ATÉ OUT/2026",
+          "sub": "FipeZAP, IPCA e INE Uruguai",
+          "tipo": "barras",
+          "titulo": "Aluguel x inflação x salário lá fora"
+        },
+        {
+          "itens": [
+            {
+              "s": "Salário +5,98% x inflação 4,7%",
+              "t": "Uruguai"
+            },
+            {
+              "s": "Salário real +3,5% em 12 meses",
+              "t": "Chile"
+            },
+            {
+              "s": "Salário médio € 26.202/ano",
+              "t": "Portugal"
+            }
+          ],
+          "rotulo": "LÁ FORA",
+          "tipo": "lista",
+          "titulo": "Onde o salário anda na frente"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Seu salário anda na frente das contas?"
+        }
+      ]
+    }
+  },
+  {
+    "noticia_id": "br-20261123-dolar-6",
+    "pais": "BR",
+    "titulo": "Dólar passa de R$ 6 e fecha a R$ 5,92: salário mínimo cai de US$ 325 para US$ 274 em um mês",
+    "legenda_ig": "💵 O dólar passou de R$ 6 nesta segunda (23/11/2026) e fechou a R$ 5,92.\n📅 Em 23/10, estava em R$ 4,99.\n🏦 Nem os leilões do Banco Central (US$ 2 bilhões) seguraram a alta.\n📉 Salário mínimo de R$ 1.621: era cerca de US$ 325, hoje vale cerca de US$ 274.\n🇺🇸 Na Flórida, o mínimo é US$ 15 por hora: o mínimo brasileiro de um mês sai em cerca de 18 horas.\n📰 Fonte: Gazeta do Povo (23/11/2026)\n\n💬 Comente QUERO O GUIA que eu te mando o link no direct\n🔗 Ou acesse o link na bio\nSiga @NivelMaisCurios para mais conteúdo sobre morar fora pelo caminho legal.\n\n#dolar #economia #morarfora #morarnoexterior #salariominimo #chegadebrasil",
+    "post_x": "💵 Dólar passou de R$ 6 hoje e fechou a R$ 5,92. Em 23/10 era R$ 4,99.\n\nO mínimo de R$ 1.621 caiu de US$ 325 para US$ 274 em um mês. Na Flórida, isso sai em 18 horas de trabalho (US$ 15/h).\n\nSiga para mais 👇",
+    "nota": "Fonte: Gazeta do Povo, 23/11/2026",
+    "fonte": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br/economia/apos-bater-r-6-dolar-fecha-em-leve-queda-com-indicacoes-ao-bc-no-radar/",
+    "criada": "2026-11-23T22:30:00Z",
+    "visual": {
+      "capa": {
+        "realce": "passou de R$ 6",
+        "rotulo": "BRASIL · DÓLAR",
+        "selo": "Mínimo: US$ 325 → US$ 274",
+        "titulo": "O dólar passou de R$ 6. E o seu salário?"
+      },
+      "cenas": [
+        {
+          "frase": "O dólar passou de seis reais.",
+          "numero": "R$ 5,92",
+          "realce": "R$ 6",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "fechamento em 23/11/2026",
+          "tipo": "capa",
+          "titulo": "O dólar passou de R$ 6"
+        },
+        {
+          "frase": "E fechou a cinco reais e",
+          "numero": "R$ 5,92",
+          "rotulo": "FECHAMENTO",
+          "sub": "Depois de passar de R$ 6 no dia",
+          "tipo": "numero",
+          "titulo": "Dólar em 23/11/2026"
+        },
+        {
+          "barras": [
+            {
+              "nome": "23/10",
+              "texto": "R$ 4,99",
+              "valor": 4.99
+            },
+            {
+              "nome": "23/11",
+              "texto": "R$ 5,92",
+              "valor": 5.92
+            }
+          ],
+          "frase": "Um mês atrás, em 23 de",
+          "rotulo": "EM UM MÊS",
+          "sub": "Dólar comercial",
+          "tipo": "barras",
+          "titulo": "Quanto custa um dólar"
+        },
+        {
+          "frase": "O mercado desconfia do pacote fiscal",
+          "itens": [
+            {
+              "s": "Economia de até R$ 60 bi sob desconfiança",
+              "t": "Pacote fiscal"
+            },
+            {
+              "s": "Expectativa de juros altos",
+              "t": "Juros nos EUA"
+            },
+            {
+              "s": "Leilões de US$ 2 bi não seguraram",
+              "t": "Banco Central"
+            }
+          ],
+          "rotulo": "POR QUE SUBIU",
+          "tipo": "lista",
+          "titulo": "O que pesou"
+        },
+        {
+          "frase": "Em outubro, o salário mínimo de",
+          "numero": "US$ 325",
+          "rotulo": "MÍNIMO EM OUTUBRO",
+          "sub": "Com o dólar a R$ 4,99",
+          "tipo": "numero",
+          "titulo": "R$ 1.621 em dólar"
+        },
+        {
+          "frase": "Hoje, vale cerca de duzentos e",
+          "numero": "US$ 274",
+          "rotulo": "MÍNIMO HOJE",
+          "sub": "Com o dólar a R$ 5,92",
+          "tipo": "numero",
+          "titulo": "R$ 1.621 em dólar"
+        },
+        {
+          "frase": "Cinquenta e um dólares a menos,",
+          "numero": "-US$ 51",
+          "rotulo": "A PERDA",
+          "sub": "No salário mínimo, sem mudar nada",
+          "tipo": "numero",
+          "titulo": "Em um mês"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "mínimo lá",
+              "valor": "US$ 15/h"
+            },
+            {
+              "legenda": "= mínimo BR",
+              "valor": "18 h"
+            },
+            {
+              "legenda": "mínimo BR/mês",
+              "valor": "US$ 274"
+            }
+          ],
+          "frase": "Na Flórida, o salário mínimo é",
+          "rotulo": "FLÓRIDA",
+          "sub": "Mínimo da Flórida: US$ 15/h",
+          "tipo": "cartoes",
+          "titulo": "Brasil x Flórida"
+        },
+        {
+          "frase": "Talvez a pergunta não seja se",
+          "rotulo": "A PERGUNTA",
+          "sub": "Quem ganha em moeda forte não sente esse tombo.",
+          "tipo": "texto",
+          "titulo": "Até quando você vai esperar?"
+        },
+        {
+          "frase": "Comente quero o guia",
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Vai continuar ganhando em real?"
+        }
+      ],
+      "ig": [
+        {
+          "numero": "R$ 5,92",
+          "realce": "passou de R$ 6",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "fechamento em 23/11/2026, depois de passar de R$ 6 no dia",
+          "tipo": "capa",
+          "titulo": "O dólar passou de R$ 6 e o seu salário encolheu"
+        },
+        {
+          "barras": [
+            {
+              "nome": "23/10/2026",
+              "texto": "R$ 4,99",
+              "valor": 4.99
+            },
+            {
+              "nome": "23/11 (fechamento)",
+              "texto": "R$ 5,92",
+              "valor": 5.92
+            },
+            {
+              "nome": "23/11 (máxima)",
+              "texto": "acima de R$ 6",
+              "valor": 6
+            }
+          ],
+          "rotulo": "EM UM MÊS",
+          "sub": "Dólar comercial. Fonte: Gazeta do Povo",
+          "tipo": "barras",
+          "titulo": "Quanto custa um dólar"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "pacote fiscal sob desconfiança",
+              "valor": "R$ 60 bi"
+            },
+            {
+              "legenda": "juros altos por mais tempo",
+              "valor": "EUA"
+            },
+            {
+              "legenda": "leilões do BC não seguraram",
+              "valor": "US$ 2 bi"
+            }
+          ],
+          "rotulo": "POR QUE SUBIU",
+          "sub": "Segundo a Gazeta do Povo, 23/11/2026",
+          "tipo": "cartoes",
+          "titulo": "O que pesou no dólar"
+        },
+        {
+          "barras": [
+            {
+              "nome": "23/10 (R$ 4,99)",
+              "texto": "US$ 325",
+              "valor": 325
+            },
+            {
+              "nome": "23/11 (R$ 5,92)",
+              "texto": "US$ 274",
+              "valor": 274
+            }
+          ],
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mínimo convertido pelo dólar de cada data",
+          "tipo": "barras",
+          "titulo": "R$ 1.621 valem cada vez menos"
+        },
+        {
+          "itens": [
+            {
+              "s": "Mínimo de US$ 15 por hora",
+              "t": "Flórida (EUA)"
+            },
+            {
+              "s": "Sai em cerca de 18 horas de trabalho lá",
+              "t": "Mínimo brasileiro"
+            },
+            {
+              "s": "O mínimo daqui perdeu US$ 51",
+              "t": "Em um mês"
+            }
+          ],
+          "rotulo": "LÁ FORA",
+          "tipo": "lista",
+          "titulo": "Quem ganha em moeda forte"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Vai continuar ganhando em real?"
+        }
+      ],
+      "x": [
+        {
+          "numero": "R$ 5,92",
+          "realce": "passou de R$ 6",
+          "rotulo": "BRASIL · DÓLAR",
+          "sub": "fechamento em 23/11/2026; era R$ 4,99 em 23/10",
+          "tipo": "capa",
+          "titulo": "O dólar passou de R$ 6 e o seu salário encolheu"
+        },
+        {
+          "barras": [
+            {
+              "nome": "23/10",
+              "texto": "US$ 325",
+              "valor": 325
+            },
+            {
+              "nome": "23/11",
+              "texto": "US$ 274",
+              "valor": 274
+            }
+          ],
+          "rotulo": "SALÁRIO MÍNIMO EM DÓLAR",
+          "sub": "Mínimo convertido pelo dólar de cada data",
+          "tipo": "barras",
+          "titulo": "R$ 1.621 em um mês"
+        },
+        {
+          "cartoes": [
+            {
+              "legenda": "mínimo BR por mês",
+              "valor": "US$ 274"
+            },
+            {
+              "legenda": "mínimo na Flórida",
+              "valor": "US$ 15/h"
+            },
+            {
+              "legenda": "para ganhar o mínimo BR",
+              "valor": "18 h"
+            }
+          ],
+          "rotulo": "A COMPARAÇÃO",
+          "sub": "Mínimo da Flórida: US$ 15 por hora",
+          "tipo": "cartoes",
+          "titulo": "Brasil x Flórida"
+        },
+        {
+          "rotulo": "PRÓXIMO PASSO",
+          "sub": "Compare o Brasil com outros 11 países",
+          "tipo": "cta",
+          "titulo": "Vai continuar ganhando em real?"
+        }
+      ]
+    }
+  },
+  {
     "noticia_id": "us-20261116-visto-estudante",
     "pais": "US",
     "titulo": "Estudar nos EUA: cai o limite de 4 anos de estadia e estrangeiro volta a poder ficar o curso inteiro",
